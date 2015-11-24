@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-29T09:22:46+02:00
+
+====== Shotgun ======
+Created Wednesday 29 July 2015
+
+It has a low rate of fire but can very likely take down a target with a single round.
+
+=== General Item Stats ===
+**Wgt**: 3kg
+**Durability**: ?
+**Est Value(Wilderness)**: 80 Army Rations
+**Est Value(Cities)**:  50 TU
+
+=== Crafting Stats ===
+...
+
+=== Combat Stats: ===
+**Range**: 50 metres
+**Damage**: Less than 20 metres: 2D6+3, More than 20 metres see ammo
+**Reload**:
+   **every X uses**: 1
+**   takes:** 1 Actions(only check at the last)
+**Recoil**: 4
+**Size**: Large, Two Hands 
+
+
+
+
+**Buckshot Round:**
+	**Est Value(Wilderness)**: 0.5 Army Rations
+	**Est Value(Cities)**:  0.2 TU
+		  **Range**: 50 metres
+		  **Damage:** From a distance of 20 metres onward roll 3 seperate attacks for 1D6 each(against one target).
+		  This round is best suited for use against small/soft targets at medium range.
+		  On targets closer than 20 metres it works  just like the normal round.
+
+
+
+
+
+=== Variants ===
+Double Barrel Shotgun(+20 value), holds 2 Rounds
+Sawed Off(Size=Small), Base Range halved

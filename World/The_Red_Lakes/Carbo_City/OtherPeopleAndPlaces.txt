@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-17T22:23:21+02:00
+
+====== OtherPeopleAndPlaces ======
+Created Donnerstag 17 September 2015
+
+
+Travellers Saloon
+**Location**: Lakeside Slums
+**Services: **Beds(short and long term),Booze,Food,Prostitutes on request
+**Description:** Round two story building with the whole lower floor open. Lower floor doors are usually removed in summer. Rugged interior but usually clean.
+**Owner:** Kenneth Dracov
+
+Personal Poison
+**Location**: Lakeside Slums, hard to find 
+**Services:** Booze, Drugs, Gambling, Actual poison on request
+**Description: **Shabby cellar room
+**Owner**: Vei Syd Draga
+
+The bucket of blood
+**Location**: Red Ring Road far outside the city
+**Services**: Booze, Drugs, Mercenaries, Gambling, Shooting Range
+**Description:** Half decayed ruin of the lakeview hotel
+**Owner**: James Dreg
+
+Weekly Market
+**Location**: Lakeside Slum
+**Services**: Almost all legal goods, Entertainment(Animal fights), Gambling
+**Description:** Once a week a small market happens in the Lakeside slum where resident and travelling salesmen sell almost any item that is legal and affordable. Travelling traders are much rarer during winter.
+**Owner**: -
+
+Jannet Reffa's Imported Goods
+**Location**: City Core
+**Services**: Sells not so common goods brought in by ship.
+**Description:** Crammed with packing boxes both opened and unopened. Jannet seems to never lose track of anything though. 
+**Owner:** Jannet Reffa
+
+The great Jam
+**Location**: Lakeside
+
+
+The Celestrial Lance
+**Location**: City Core
+**Services**: Noble weapons shop and shooting range
+**Description:** Tidy if a little cold place with lots of shiny weapons on display,
+**Owner:** Mar Syd Jin

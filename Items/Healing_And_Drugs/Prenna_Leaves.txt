@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-05T11:35:11+02:00
+
+====== Prenna Leaves ======
+Created Saturday 05 September 2015
+
+The leaves of this very plain looking shadow loving plant can be chewed to combat sleepyness.
+
+=== General Item Stats ===
+**Wgt**: neglectible
+**Durability**: -
+**Est Value**: 2 TU
+
+=== Crafting ===
+By herbalism: 2 hours, Herbalism+Awareness (normal) Biome: Forest, Ruins, Mountains. Doses found: 1D6
+
+
+=== Lesser Quality ===
+**-**
+
+=== Medium Quality ===
+**Effect**: Supresses the effects of tiredness, these come back in full after the effect has ended.
+**Side Effect**: -
+**Duration**: 1 hour
+**Addiction**: +2
+**Applictation**: 5 Minutes
+
+=== High Quality ===
+**-**
+
+
+=== Addiction ===
+**Fall off**: 2/day
+**Resistance Threshold**: 8
+**Addiction Threshold**: 30
+**Withdrawl**: An annoying tingling feeling and numb fingertips (-1 modifier to dexterity skill checks that have to do with the hands)

@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-30T17:04:45+02:00
+
+====== 9mm ======
+Created Tuesday 30 June 2015
+
+A light weapon that is pretty lethal to humans but will have trouble stopping a charging bear or berserking mutant.
+Easier to reload but harder to maintain than Revolvers. Ammunition is a bit more common but a tad less powerful.
+
+=== General Item Stats ===
+**Wgt**: 0.5kg
+**Durability**: ?
+**Est Value(Wilderness)**: 40 Army Rations
+**Est Value(Cities)**:  30 TU
+
+=== Crafting Stats ===
+...
+
+=== Combat Stats: ===
+**Range**: 25 metres
+**Damage**: 1D6+3
+**Reload**:
+   **every X uses**: 8
+**   takes:** 1 Action
+**Recoil**: 2
+**Size**: Small, Two Hands 
+
+=== Ammunition: ===
+**9mm Bullet**
+	**Est Value(Wilderness)**: 0.2 Army Rations
+	**Est Value(Cities)**:  0.1 TU
+
+
+
+

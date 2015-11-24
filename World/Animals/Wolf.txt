@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-10-01T18:39:14+02:00
+
+====== Wolf ======
+Created Donnerstag 01 Oktober 2015
+
+Usually comes in large packs but are not necessary that garessive towards humans. They might contest prey or smelling food. 
+They are not extremely afraid of humans but will quickly retreat if one or more wulves get hurt.
+Solitary wolves are likely rabid and or starved making them more agressive.
+
+
+
+=== Variable Stats ===
+[[Attributes:Vitality|Vitality]]		 
+Maximum	: 13
+[[Attributes:Stability|Stability]] 		
+Maximum	: 8
+[[Attributes:WoundThreshold|Wounds]]
+Treshold	:  5
+
+**Armor**
+Fur: Pierce, Blunt 1, Cold 4
+
+Weapon: 
+Fangs: 1D6, increased chance for infection +3 (standart is 5)
+
+=== Attributes ===
+Burst		: 3
+Endurance	: 3
+Dexterity	: 2
+Willpower	: -2
+Intelligence	: -2
+Awareness	: 3
+
+=== Abilities ===
+**Name 	[Beginner][Intermediate][Experienced][Professional][Legend]**
+		  **Specialisations**
+[Intermediate] Hand to Hand (+3), wolves use the supress action commonly.
+[Intermediate] Reflexes (+3)
+
+
+

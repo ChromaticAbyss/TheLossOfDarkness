@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-08-08T17:14:37+02:00
+
+====== Chemsuit ======
+Created Saturday 08 August 2015
+
+A useful suit/undergarment that is resistant to chemical corrosion.
+Its as effective as thick clothing while it doesn't reduce mobility.
+Can be worn beneath certain other types of armor.
+
+=== General Item Stats ===
+**Wgt**: 1 kg
+**Durability**: Low(mechanical damage)
+**Est Value(Wilderness)**: 200 Army Rations
+**Est Value(Cities)**: 200 TU
+
+
+=== Armor Stats ===
+**Zones**: Full
+**Pierce Armor**:0
+**Blunt Armor**: 0
+**Chemical Protection**: 4
+**Electrical Protection**: 3
+**Radiation Protection**: 2
+**Mali**: 0
+
+
+=== Variants and Modifications ===
+**Full Suit:** Cannot be worn beneath other armors, Chemical Protection is 5, Electrical is 4, Radiation is 3.

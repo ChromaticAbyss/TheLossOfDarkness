@@ -1,0 +1,99 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-17T20:17:05+02:00
+
+====== Meditation ======
+Created Donnerstag 17 September 2015
+
+Similar to the Medic skill Meditation is used to restore lost Stability. The main differences to that skill is that its less common and it can only treat the person itself by default.
+
+**Meditation Session**
+2 hours absolutely undisturbed
+Only once a day. Roll a a meditation check that is **normal** on more than 5 [[Attributes:Stability|Stability]] and **hard** when at 5 or below.
+On a success regain one additional point of stability.
+
+
+
+
+
+=== Attributes ===
+**Willpower**, Awareness, Intelligence
+
+
+
+=== Incompetent ===
+-
+
+=== Beginner ===
+**Requirements**: Willpower 3, Intelligence 1, Awareness 1
+**Cost**: 5 PP
+
+
+=== Intermediate ===
+**Requirements**: Willpower 4, Intelligence 2, Awareness 2
+**Cost**: 10 PP
+
+
+=== Experienced ===
+**Requirements**: Willpower 4, Intelligence 3, Awareness 3
+**Cost**: 20 PP
+
+
+=== Professional ===
+**Requirements**: Willpower 5, Intelligence 4, Awareness 4
+**Cost**: 40 PP
+
+
+=== Legend ===
+**Requirements**: Willpower 6, (Intelligence 5 OR Awareness 5)
+**Cost**: 80 PP
+
+
+
+
+=== Specialisations ===
+**Quick Trance**
+**Requirements**: Intermediate
+**Cost**:5 PP
+Passive
+Meditation only takes 1 hour.
+
+
+**Serenity**
+**Requirements**: Experienced
+**Cost**:5 PP
+Passive
+Can meditate up to twice a day
+
+
+**Deep Trance**
+**Requirements**: Experienced
+**Cost**:5 PP
+Passive
+Regenerate +1 Stability on successfull meditation.
+
+
+**Psychodoc**
+**Requirements**: Experienced
+**Cost**:10 PP
+Passive
+Can treat other people, roll that check on Awareness and make it a category harder.
+This doesn't benefit the character itself and does **not** benefit from **Quick Trance, Serenity **or **Deep Trance.**
+The per day limit is per patient not per doc.
+
+**Professional** **Psychodoc**
+**Requirements**: Professional,**Psychodoc**
+**Cost**:5 PP
+Passive
+Treating others is no longer a category harder. 
+
+
+
+
+
+=== Character Generation Modifiers ===
+**Starting Equipment**: 
+Beginner: -
+Intermediate: 3 doses of [[Items:Healing And Drugs:SalamanderSkin|lesser Quality Salamander Skin]].
+Experienced: Some kind of hypnotic device that grants you +1 to all mediate checks (not psychodoc)
+Professional: A book that grants you +1 to all meditate and psychodoc checks.

@@ -1,0 +1,61 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-25T11:44:33+02:00
+
+====== Drifter ======
+Created Thursday 25 June 2015
+
+												   **Drifter Binding**
+
+
+An aimlessly drifting entity that sometimes binds to travellers of the wastes.
+
+
+[[ProgressPoints|PP]]-cost on character generation: 20
+
+
+**Binding Process:** 
+[[Binding|Stability]]: Normal difficulty (-0)
+[[Binding|Mutation:]] Normal difficulty (-7)  
+		**Drifters Drive**: -1 modifier to all skills when staying longer than a week in one location.
+
+[[Binding|Burn Table:]] Normal difficulty (+0)
+		**Drifters Trance:** If this happens during action it equals a 1 turn stun. If it happens in a calm the driver just silently walks away for [[Glow]] minutes to gaze at the sky. If they are stopped from leaving they suffer from **Drifters Drive** for the duration.
+
+[[Binding|Amalgamation]]: Normal difficulty
+
+
+
+=== Specialisations/Casts ===
+**We go where we go:** [Starting Cast]
+			   Glow: 3 , 0 Actions(when promted)
+			   Using this Cast you can add your [[BindingMastery|Mastery]] to a single Pathfinding or Tracking check.
+
+**Walk it off**: Cost: 5 PP, Requires [[BindingMastery:]] 5
+			   Cast: Glow 7, can be cast on allies(costs 12 Glow if you do)
+		 Any ailment you have does not reduce your travel speed for the next [[BindingMastery]] hours.
+		 The target may also use their Meditation ability during this time.
+
+
+			
+**Fluency**: Cost: 3 PP, Requires [[BindingMastery:]] 3
+		 Cast: Glow: 5, 1 Actions
+		 Cast this to gain fluency in a foreign language for as many minutes as you have [[Binding:BindingMastery|BindingMastery]].
+			
+
+**Lingering Fluency**: Cost: 5 PP, Requires [[BindingMastery:]] 6
+			   Passive
+			   After casting **Fluency** you have a window of [[Binding:BindingMastery|BindingMastery/2]] hours where you understand the language of your choice but can't speak it. If you want to reactivate **Fluency** during this time it only costs 3 Glow.
+
+**Unbroken:** Cost: 4 PP, Requires [[BindingMastery:]] 8
+		Cast: Glow 10, cannot be cast while near allies or above 5 health/stability
+		This can only be cast when the drifter is all on his own and in a dire situation.
+		When casting this a goal must be set that the drifter wants to accomplish(catch up to the group, revenge etc.), then this Specialisation is removed from the character.
+		The character is instantly restored to 1 Vitality and Stability if below, can not regenerate health and stability over 5 while this runs.
+		Every check related to staying alive and fulfilling the goal is one category **easier**.
+		This condition ends on (re)joing a group, fulfilling the goal or death.
+
+
+=== Low Stability ===
+
+**Spirit of Wind**: The character seeks out new places immediately and will not stay at any one place for more than 5 minutes at a time. If the character is forced to stay at a location he loses 1 Stability per hour.

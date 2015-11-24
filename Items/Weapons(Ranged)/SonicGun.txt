@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-07T21:51:43+02:00
+
+====== SonicGun ======
+Created Tuesday 07 July 2015
+
+Screamer Sonic gun, equipped with a powerful compressor and culminator this gun can fire a powerful burst of sound. This can disorient and stun targets at mid range and deal serious damage on close range.
+
+=== General Item Stats ===
+**Wgt**: 1.0kg
+**Durability**: ?
+**Est Value(Wilderness)**: 80 Army Rations (100 for the variant that takes charges)
+**Est Value(Cities)**:  50 TU (70 for the Variant)
+
+=== Crafting Stats ===
+...
+
+=== Combat Stats: ===
+**Range**: 20 metres
+**Damage**: 1D6+3-1 per metre distance to the target, damage from this weapon is not mitigated by armor.
+		Target rolls a Reflexes(normal) check or is stunned for 1 turn(2 turns on targets closer than 10 metres).
+**Reload**:
+   **every X uses**: 5
+**   takes:** 1 Action(check at start), weapon charges automatically for 1 min before its usable again.
+**Recoil**: 2
+**Size**: Small, Two Hands 
+
+=== Ammunition: ===
+Certain models can hold gas charges
+
+**50ml tear gas charge**
+	**Est Value(Cities)**: 5 TU
+	Targets closer than 15 metres must also roll Resistance(normal) or take a -2 modifier to all rolls for 5 turns. This applies to everyone within 3 metres of the impact zone.
+
+**50ml neurotoxin charge**
+	**Rare**
+	**Est Value(Cities)**: 30TU
+	Target must roll a Resistance(hard) check or they gain the following condition for 1 hour(or until a fitting antidote is applied):
+		**Paralyzed:** You lose the ability to move or breathe instantly. You take 1 damage per turn starting from 1 min in unless you get assisted breathing.
+		
+

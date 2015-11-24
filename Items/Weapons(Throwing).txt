@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-07T22:28:53+02:00
+
+====== Weapons(Throwing) ======
+Created Tuesday 07 July 2015
+
+
+All melee throws can be defended against with the [[Abilities:Reflexes|Reflexes]] (Dexterity, **easy**) skill even if the blocking party is not the target.

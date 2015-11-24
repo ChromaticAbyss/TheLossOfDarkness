@@ -1,0 +1,68 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-05T11:16:25+02:00
+
+====== Cast ======
+Created Saturday 05 September 2015
+
+Cast is a mental ability that allows safer casting under higher amounts of [[Glow]]. This is a must have ability for characters that seek to solve many problems by using their Bindings, especially if they have mayn [[BurnTable|burn table]] entries.
+
+=== Attributes ===
+**Intelligence**, Awareness
+
+
+
+=== Incompetent ===
+-
+
+=== Beginner ===
+**Requirements**: Intelligence 2, Awareness 2, At least one Binding
+**Cost**: 5 PP
+
+
+=== Intermediate ===
+**Requirements**:  Intelligence 3, Awareness 3
+**Cost**: 10 PP
+
+
+=== Experienced ===
+**Requirements**: Intelligence 4, Awareness 4
+**Cost**: 20 PP
+
+
+=== Professional ===
+**Requirements**:  Intelligence 5, Awareness 5
+**Cost**: 40 PP
+
+
+=== Legend ===
+**Requirements**:  Intelligence 6, Awareness 6
+**Cost**: 80 PP
+
+
+
+
+=== Specialisations ===
+**Glow Threshold**
+**Requirements**: Intermediate, Willpower 3
+**Cost**: 10 PP
+Passive
+Grants +1 maximum Glow Threshold, which allows more casting until checks are needed.
+
+**Glow Threshold(2)**
+**Requirements**: Intermediate, Willpower 4, Glow Threshold
+**Cost**: 10 PP
+Passive
+Grants another +1 maximum Glow Threshold, which allows more casting until checks are needed.
+
+**Overdrive**
+**Requirements**: Intermediate, Willpower 3
+**Cost**: 5 PP
+Passive
+You have +1 to all Binding Masteries while you are at 40 [[Glow]] or more. This increase applies to all calculations!
+
+
+=== Character Generation Modifiers ===
+**Starting Equipment**: Intermediate+: You may start with 1D6 doses of medium quality [[Items:Healing And Drugs:Thunder|Thunder]]. 
+
+

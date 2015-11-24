@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-05T19:37:43+02:00
+
+====== AlageenaFlower ======
+Created Saturday 05 September 2015
+
+Alageena is a plant that grows in swampy areas and sprouts green/yellowish flowers in spring. It grows to about 1.4 metres tall and is pretty easy to find once in bloom.
+
+=== Biome ===
+Swamp
+
+
+=== Collecting ===
+**Check**: Herbalism + Awareness (easy)
+**Duration**: 2 hours
+**Time of Year**: Spring
+**[Failure] **
+Nothing
+**[Success]**
+4D6 Alageena flower leaves
+**[Success 5+]**
+4D20 Alageena flower leaves
+

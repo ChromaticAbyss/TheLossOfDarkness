@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-10-01T19:07:37+02:00
+
+====== SpiritShrub ======
+Created Donnerstag 01 Oktober 2015
+
+Has a stench to it that can mask a persons natural smell pretty well. Since its not rare in the wilds this is a good protection against wild animals. It won't fool a guard dog in a city one bit tough.
+
+
+
+=== Biome ===
+Forest
+Tundra
+Mountains
+
+
+=== Collecting ===
+**Check**: Herbalism + Awareness (normal)
+**Duration**: 2 hours
+**Time of Year**: All
+**[Failure] **
+Nothing
+**[Success]**
+4D6 uses
+**[Success 5+]**
+4D20 uses
+

@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-07T22:37:47+02:00
+
+====== Adrenaline ======
+Created Tuesday 07 July 2015
+
+A syringe filled with an adrenaline drug that grants a burst of power but isn't very healthy.
+
+=== General Item Stats ===
+**Wgt**: neglectible
+**Durability**: ?
+**Est Value**: 10 TU
+
+=== Crafting Stats ===
+**-**
+
+
+=== Lesser Quality ===
+**Effect**: Gain +2 Burst. 
+**Side Effect**: Take 1D3 Vitality damage.
+**Duration**: 5 Minutes
+**Addiction**: +3
+**Application**: 1 Action
+
+=== Medium Quality ===
+**Effect**: Gain +2 Burst. 
+**Side Effect**: Take one point of Vitality damage.
+**Duration**: 5 Minutes
+**Addiction**: +3
+**Application**: 1 Action
+
+=== High Quality ===
+**Effect**: Gain +3 Burst.
+**Side Effect**: -
+**Duration**: 5 Minutes.
+**Addiction**: +3
+**Application**: 1 Action
+
+=== Addiction ===
+**Fall off**: 1/2hours
+**Resistance Threshold**: 7
+**Addiction Threshold**: 15
+**Withdrawl**: -1 Burst and Endurance.

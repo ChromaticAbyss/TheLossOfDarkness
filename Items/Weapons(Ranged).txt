@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-30T16:14:35+02:00
+
+====== Weapons(Ranged) ======
+Created Tuesday 30 June 2015
+
+
+
+
+Ammunition
+
+For most handguns and rifles, there are three types of ammunition: standart, hollow point and armor piercing.
+
+Standart ammunition deals the damage that is stated next to the specific weapon and has no additional effects.
+
+Hollow point ammunition causes 150% of the damage stated next to the Weapon as the Bullet scatters on impact, naturally this kind of ammo is not exactly suited to penetrate armor so bulletproof armor counts with 200% of its defence when calculating the damage caused.
+
+Armor piercing ammunition is designed to  penetrate an enemies armor at the cost of some Damage as the bullet goes through the body in a straight line instead of reeling.So, the bullet causes 80% of the damage stated next to the Weapon and bulletproof armor counts with 50% of its defence when calculating the damage caused.
+
+
+
+
+Using a large shooting weapon while an enemy is in melee range is one category harder.
+All melee range shots can be defended against with the [[Abilities:Reflexes|Reflexes]] (Dexterity, normal) skill.
+Shooting something that cannot move or otherwise defend itself from point blanc range always results in maximum rolled damage and an extra wound.

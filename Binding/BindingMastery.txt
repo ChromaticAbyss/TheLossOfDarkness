@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-25T09:22:42+02:00
+
+====== BindingMastery ======
+Created Thursday 25 June 2015
+
+A binding mastery is like a normal Attribute in terms of rolling checks.
+Usually a mastery improves the effects of all Casts for a Binding. It also unlocks further specializations into the Binding and new Casts.
+
+Points of Binding Mastery can be bought later in the game for 15 PP

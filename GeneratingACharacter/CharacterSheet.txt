@@ -1,0 +1,106 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-18T09:29:37+02:00
+
+====== CharacterSheet ======
+Created Freitag 18 September 2015
+
+=== Name ===
+
+
+=== Variable Stats ===
+[[Attributes:Vitality|Vitality]]		 
+Maximum	: 
+Current		:
+
+[[Attributes:Stability|Stability]] 		
+Maximum	: 
+Current    	: 
+Common psychosis: -
+
+[[Attributes:WoundThreshold|Wounds]]
+Treshold	:
+
+[[Attributes:GlowThreshold|Glow]]		
+Threshold	:
+Current		:
+
+[[Attributes:Plasticity|Plasticity]]
+Available	: 
+Used		: -
+
+**Experience**
+Total: 150
+Generic Available: 150
+For skill [Name]: -
+...
+
+**Armor**
+Chest(Pierce)
+Chest(Blunt)
+Chest(Cold)
+Chest(Radiation)
+Chest(Electrical)
+Head(Pierce)
+...
+Right Arm(Pierce)
+...
+Left Arm(Pierce)
+...
+Right Leg(Pierce)
+...
+Left Leg(Pierce)
+...
+
+**Other temporary effects** (enter wounds, diseases etc. here)
+
+
+
+=== Attributes ===
+Burst		:
+Endurance	:
+Dexterity	:
+Willpower	:
+Intelligence	:
+Awareness	:
+
+=== Abilities ===
+**Name 	[Beginner][Intermediate][Experienced][Professional][Legend]**
+		  **Specialisations**
+
+
+=== Bindings ===
+Binding Name: 
+	Specialisations/Casts
+
+
+=== Burn Table ===
+1 | Consume: You take a tenth of your [[Glow]] amount as damage to your Stability.
+2 |	
+3 |	
+4 |	
+5 |	
+6 |	
+7 |	
+8 |	
+9 |
+10|	
+11|	
+12|	
+13|	
+14|	
+15|
+16|
+17|
+18|
+19|
+20| Sting: You take a tenth of you [[Glow]] amount as damage to your Vitality.
+
+=== Equipment ===
+[Weight] Name, important stats
+
+
+
+
+
+

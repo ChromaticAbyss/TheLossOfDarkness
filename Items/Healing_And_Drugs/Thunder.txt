@@ -1,0 +1,51 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-03T17:29:02+02:00
+
+====== Thunder ======
+Created Donnerstag 03 September 2015
+
+Thunder is a powerful drug that empowers the use of bindings, granting a surge of increased effectiveness that lasts even longer as you exploit its effects. Increased casting during the effect is also linked to higher addiction rates.
+One special thing about Thunder is that every dose hits like the first and people never require an increase of dosage.
+Thunder can be taken by sniffing it which is fast or used as a candle which is popular in tribal areas.
+
+=== General Item Stats ===
+**Wgt**: neglectible
+**Durability**: -
+**Est Value**: 25 TU
+
+
+
+
+=== Lesser Quality ===
+**Effect**: +1 Bonus point to all Binding Masteries. This is not a modifier and thus explicitly counts for all value derivations during the casting.
+**Side Effect**: Burn Table entry 5 to 10: **Thunderburn**: +1D6 Glow, +2 Addiction Stacks
+**Duration**: 1 hour
+**Addiction**: +1
+**Special Rule:** Duration refreshes on using a cast with a Glow cost of 5 or more, also +1 Addiction stack.
+**Application**: 2 Actions+
+
+=== Medium Quality ===
+**Effect**: +3 Bonus points to all Binding Masteries. This is not a modifier and thus explicitly counts for all value derivations during the casting.
+**Side Effect**: Burn Table entry 5 to 7: **Thunderburn**: +2 Glow, +1 Addiction Stack
+**Duration**: 1 day
+**Addiction**: +1
+**Special Rule**: Duration increases by 1 hour on using a cast with a Glow cost of 5 or more, also +1 Addiction stack if a 1,2,3 or 4 is rolled on a D6.
+**Application**: 2 Actions+
+
+=== High Quality ===
+**Effect:** +3 Bonus points to all Binding Masteries. This is not a modifier and thus explicitly counts for all value derivations during the casting.
+**Side Effect**: Burn Table entry 5: **Thunderburn**: +2 Glow, +1 Addiction Stack
+**Duration**: 1 day
+**Addiction**: -
+**Special Rule**: Duration increases by 3 hours on using a cast with a Glow cost of 5 or more, also +1 Addiction stack if a 1 or 2 is rolled on a D6.
+**Application**: 2 Actions+
+
+
+
+
+=== Addiction ===
+**Fall off**: 1/day
+**Resistance Threshold**: -
+**Addiction Threshold**: 10
+**Withdrawl**: -2 to all Binding Masteries. This is not a modifier and thus explicitly counts for all value derivations during the casting.

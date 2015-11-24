@@ -1,0 +1,55 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-28T11:46:54+02:00
+
+====== Zaneth Gride ======
+Created Tuesday 28 July 2015
+
+Zaneth Gride is the leader of the Cartographers organisation.
+His outer appearance is rugged, one of his arms is bionic (he lost an arm in an accident).
+He is the main person that makes and reads the maps a skill he teaches all others with a passion, tough not a lot of people can compare to the extreme precision his bionic arm offers.
+ "Nobody ever did evil by reading a map"
+
+
+
+
+
+
+
+Generating: Points 350(experienced)
+Specials[20] +1 vitality, +1 stability
+
+
+Abilities[325 /330]
+[Survival]
+Perception 5 					15
+Knowledge Flora   4			10
+Knowledge Fauna 4			10
+Pathfinding 7				28
+	Cartography 12		     78
+Crafting 3					6
+Scavenging 3				6
+Resistance 4					10
+	**Iron Stomach		    4**
+
+[Chasing]
+Driving 5					15
+Obstacle 3					6
+
+[Combat]
+Shooting 4					10
+Cover 4						10
+
+[Social]
+Language 8					36
+Negotiation 4				10
+Knowledge: Cultures 5		15
+Knowledge: Cities 5			15
+Knowledge: History 5			15
+
+[Mental]
+Willpower 3				   	6
+Meditation 3					6
+
+
+

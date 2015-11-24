@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-05T13:11:20+02:00
+
+====== Neuroplacine Flood ======
+Created Saturday 05 September 2015
+
+Neuroplacine is a drug that increases a brains plasticity. Its made for people that want to exceed their normal capacity for bionic implants.
+There is also a chemically similar and unlicensed knockoff calle Flood that just serves to satisfy the addicts immediate withdrawl symptoms which heavily affect a persons motor centre.
+
+
+=== General Item Stats ===
+**Wgt**: neglectible
+**Durability**: ?
+**Est Value**: 50 TU (Flood costs 7 TU)
+
+
+
+=== Lesser Quality(Flood) ===
+**Effect**: No positive effect, just suppresses withdrawl symptoms.
+**Side Effect**: user loses 1 point of Stability from the massive headaches that last about 5 minutes. Known problems exist when taking this and the mercenary drug called "Ice" at the same time: -2 to Burst and Dexterity due to slowed motor responses.
+**Duration**: (5 minutes)
+**Addiction**: +5
+**Application**: 1 Action
+
+=== Medium Quality(Neuroplacine pill) ===
+**Effect**: +3 maximum Plasticity. While under the influence of this drug reduce all Stability losses by  1.
+**Side Effect**: Known problems exist when taking this and the mercenary drug called "Ice" at the same time: -2 to Burst and Dexterity due to slowed motor responses.
+**Duration**: 1D6 days
+**Addiction**: +3
+**Application**: 1 Action
+
+=== High Quality(Neuroplacine injection syringe) ===
+**Effect**: +5 maximum Plasticity. While under the influence of this drug reduce all Stability losses by  1.
+**Side Effect**: Known problems exist when taking this and the mercenary drug called "Ice" at the same time: -2 to Burst and Dexterity due to slowed motor responses.
+**Duration**: 7 Days.
+**Addiction**: +4
+**Application**: 1 Action
+
+=== Addiction ===
+**Fall off**: 1/day
+**Resistance Threshold**: 20
+**Addiction Threshold**: 50
+**Withdrawl**: Random areas of the body become unresponsive and are percieved completely wrong, this can go so far as to percieve phantom limbs. This leads to **all** skill checks on **physical activities** becoming one **category harder** and taking **twice** the usual time.

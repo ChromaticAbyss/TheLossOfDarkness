@@ -1,0 +1,51 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-23T17:43:52+02:00
+
+====== CarboCityGuard ======
+Created Mittwoch 23 September 2015
+
+Burst: 3
+
+Endurance: 3
+
+Dexterity: 3
+
+Willpower: 2
+
+Intelligence: 3
+
+Awareness: 4
+
+Shooting [Intermediate]
+
+Hand To Hand [Intermediate]
+
+Throwing Weapons [Intermediate]
+
+Reflexes [Intermediate]
+
+Cover [Intermediate]
+
+Fast Talk [Beginner]
+
+Medic [Beginner]
+
+Scouting [Intermediate]
+
+Self Control [Beginner]
+
+Stealth [Beginner]
+
+Tactics [Beginner]
+
+Equip:
+[[Items:Armor:Carbon|Carbon armor]](full body) Pierce 5(Carbon rule), Blunt 2
+[[Items:Armor:Shield|Riot Shield]]
+Nightstick(regular 1h melee weapon)
+9mm
+Shotgun
+
+
+
+

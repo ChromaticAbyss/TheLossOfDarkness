@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-08-09T12:57:07+02:00
+
+====== WoundPowder ======
+Created Sunday 09 August 2015
+
+A pretty common powder or paste made from herbs to help the healing of wounds.
+
+
+=== General Item Stats ===
+**Wgt**: neglectible
+**Durability**: ?
+**Est Value**: 5 Army Rations
+
+=== Crafting Stats ===
+**-**
+
+
+=== Lesser Quality ===
+**Effect**: While using the Woundcare ability you can apply this powder to get a +1 modifier.
+
+
+=== Medium Quality ===
+**Effect**: While using the Woundcare ability you can apply this powder to get a +2 modifier.
+
+=== High Quality ===
+**Effect**: While using the Woundcare ability you can apply this powder to get a +3 modifier. Also stops bleeding on a wound instantly.

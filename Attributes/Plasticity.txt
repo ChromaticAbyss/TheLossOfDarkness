@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-15T16:21:04+02:00
+
+====== Plasticity ======
+Created Dienstag 15 September 2015
+
+Derived Stat
+Default is 3, a character with intelligence 5 or more gains +1 Plasticity.
+
+Means x simple implants/additional limbs can be handled
+

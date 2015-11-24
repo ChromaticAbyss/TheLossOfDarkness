@@ -1,0 +1,55 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-10-01T17:16:20+02:00
+
+====== Intimidate ======
+Created Donnerstag 01 Oktober 2015
+
+
+Situational Modifiers: +2 for looking stronger/numbers advantage, another +2 for looking absolutely monstrous, -2 for looking not scary at all / numbers disadvantage
+
+
+
+=== Attributes ===
+**Willpower,** Intelligence
+
+
+
+=== Incompetent ===
+-
+
+=== Beginner ===
+**Requirements**: Willpower 2, Intelligence 1
+**Cost**: 5 PP
+
+
+=== Intermediate ===
+**Requirements**: Willpower 3, Intelligence 2
+**Cost**: 10 PP
+
+
+=== Experienced ===
+**Requirements**: Willpower 4, Intelligence 3
+**Cost**: 20 PP
+
+
+=== Professional ===
+**Requirements**: Willpower 5, Intelligence 4
+**Cost**: 40 PP
+
+
+=== Legend ===
+**Requirements**: Willpower 6, Intelligence 5
+**Cost**: 80 PP
+
+
+
+
+=== Specialisations ===
+
+
+
+=== Character Generation Modifiers ===
+**Starting Equipment**: 
+
+

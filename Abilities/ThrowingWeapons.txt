@@ -1,0 +1,55 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-05T14:34:33+02:00
+
+====== ThrowingWeapons ======
+Created Saturday 05 September 2015
+
+Attacking: Duel ThrowingWeapons+Dexterity against the targets Reflexes+Dexterity, cover is not relevant for most weapons.
+In some cases cover can apply instead for non arced projectiles.
+
+
+
+
+=== Attributes ===
+**Dexterity**, Burst
+
+
+
+=== Incompetent ===
+-
+
+=== Beginner ===
+**Requirements**: Burst 2, Dexterity 2
+**Cost**: 5 PP
+
+
+=== Intermediate ===
+**Requirements**: Burst 2, Dexterity 3
+**Cost**: 10 PP
+
+
+=== Experienced ===
+**Requirements**: Burst 3, Dexterity 4
+**Cost**: 20 PP
+
+
+=== Professional ===
+**Requirements**: Burst 4, Dexterity 5
+**Cost**: 40 PP
+
+
+=== Legend ===
+**Requirements**: Burst 5, Dexterity 6
+**Cost**: 80 PP
+
+
+
+
+=== Specialisations ===
+**Long Reach**
+**Requirements**: Intermediate
+**Cost**:5 PP
+Passive
+Increases the effective range of thrown weapons by 50%.
+

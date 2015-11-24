@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-25T16:02:29+02:00
+
+====== TormentedSteel ======
+Created Thursday 25 June 2015
+
+Possessing monstrous machines(usually machines of war) the tormented steel keeps them alive long after their crews are reduced to bones and their board computers ran out of power. When the runes that commanded them rust away their own will takes over dragging the machine from the mud and roaring across the land in a rampage.
+
+
+**Stats&Abilities:** 
+Armor of the vehicle increased by 5.
+
+
+**Special Abilities:** 
+
+
+
+
+
+[[Binding:TormentedSteel]] 
+
+
+

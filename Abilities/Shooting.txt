@@ -1,0 +1,116 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-05T14:42:30+02:00
+
+====== Shooting ======
+Created Saturday 05 September 2015
+
+To hit a target: Pass a check of Shooting + (Dexterity or Intelligence) - the enemy Cover rating - envournmental modifiers. 
+
+=== Explaination for weapon stats: ===
+Recoil: How many points are subtracted from every shot after the first in each turn of combat.
+		
+
+=== Attributes ===
+Dexterity, Intelligence
+
+
+
+=== Incompetent ===
+-
+
+=== Beginner ===
+**Requirements**: Dexterity 2, Intelligence 1
+**Cost**: 5 PP
+
+
+=== Intermediate ===
+**Requirements**: Dexterity 3, Intelligence 2
+**Cost**: 10 PP
+
+
+=== Experienced ===
+**Requirements**: Dexterity 4, Intelligence 3
+**Cost**: 20 PP
+
+
+=== Professional ===
+**Requirements**: Dexterity 5, Intelligence 4
+**Cost**: 40 PP
+
+
+=== Legend ===
+**Requirements**: Dexterity 6, Intelligence 6
+**Cost**: 80 PP
+
+
+
+
+
+=== Specialisations ===
+**Routine**: 
+**Requirements**: Beginner, Dexterity 3
+**Cost**:2 PP
+Passive
+Removes the need to roll any checks for reloading for every weapon you are familiar with.
+
+**Broad Knowledge**: 
+**Requirements**: Experienced, Intelligence 4, Awareness 3
+**Cost**:10 PP
+Passive
+Every shooting weapon counts as familiar to you.
+
+**Careful Aim**
+**Requirements**: Intermediate, Intelligence 3
+**Cost**:2 PP
+Action
+Can use the action **Aim** before shooting.
+Aiming this way grants a +2 modifier to the attack.
+If you move, use reflexes, take a wound or are otherwise disturbed your aim bonus is lost.
+Your enemy needs to move out of vision to break the aim, simply moving is not enough.
+Different Aim actions can be stacked.
+
+**Deadly Aim**
+**Requirements**: Intermediate,Awareness 3
+**Cost**:5 PP
+Action
+Can use the action **Aim** before shooting.
+You may chose the target hit zone, chosing the chest grants +2 damage, choosing anything else causes a -1 penalty to the shot.
+If you move, use reflexes, take a wound or are otherwise disturbed your aim bonus is lost.
+Your enemy needs to move out of vision to break the aim, simply moving is not enough.
+Different Aim actions can be stacked.
+
+**Sniper**: 
+**Requirements**: Experienced, Dexterity 3, Intelligence 4, Careful Aim
+**Cost**:7 PP
+Passive
+Can shoot at targets 50% over the regular maximum range. These shots are a category **harder** and use Intelligence.
+This only works if the shot is **Aim**ed.
+
+**Trigger Happy**: 
+**Requirements**: Intermediate, Dexterity 3, Burst 2
+**Cost**:5 PP
+Passive
+Allows shooting a second time in a row within the same action if the weapon still has shots in the magazine.
+For automatic/burst fire weapons instead the recoil penalty is reduced by one.
+
+
+**Gunslinger**
+**Requirements**: Experienced, Dexterity 4, Burst 3
+**Cost**:10 PP
+Passive
+Can hold a small gun in one hand and fire it without loss of precision.
+Can dual wield small arms gaining an extra action for shooting each turn of combat. Keep in mind the recoil penalty still applies.
+The extra shooting action can be a multishot.
+
+
+
+=== Character Generation Modifiers ===
+**Starting Equipment**: 
+Beginner: You may start with one of these weapons: [[Items:Weapons(Ranged):Crossbow|Crossbow]], [[Items:Weapons(Ranged):9mm|9mm]] and the [[Items:Weapons(Ranged):Revolver|Revolver,]] 3D6 shots.
+Intermediate: You start with one of the above weapons or any shooting weapon 70 TU or less, 4D6 shots.
+Experienced: You start with one of the above weapons or any shooting weapon 110 TU or less, 5D6 shots.
+Professional: You start with one of the above weapons or any shooting weapon (potentially with modifications) worth 170 TU or less, 30 shots.
+
+
+						

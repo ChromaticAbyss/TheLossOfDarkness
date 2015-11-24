@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-08-08T16:13:18+02:00
+
+====== Shield ======
+Created Saturday 08 August 2015
+
+Riot Shield: A hardened plastic shield that can block most thrown projectiles and some small bullets. Can also be used to bash someone in the face in a pinch.
+
+=== General Item Stats ===
+**Wgt**: 3 kg
+**Durability**: ?
+**Est Value(Wilderness)**: 20 Army Rations
+**Est Value(Cities)**: 20 TU
+
+
+=== Armor Stats ===
+**Zones**: Normally only the arm its held in. 
+A successful Reflexes duel against the attack allows using the shield for attacks that would hit other zones and to redirect them onto the shield/arm. This counts as a defense action so you can't do this and try to dodge an attack.
+Reflexes check difficulty by type of attack:  
+Melee attack: **Easy** (harder is surrounded, see Reflexes)
+Throwing weapon: **Normal, **becomes** Easy **in formation
+Bullets: **Very Hard**, only possible if the shooter is seen 
+**Pierce Armor**: 2(offhand)
+**Blunt Armor**: 2(offhand)
+**Cold Protection**: 0
+**Mali**: -2(bulky), uses a hand slot
+
+
+=== Weapon Stats ===
+Deals 1D6+2 damage
+
+
+
+
+=== Variants and Modifications ===
+**Carbon shield**: Cost 150 TU, Pierce Armor is 4, **Special Rule**: If this armor is penetrated the damage is not reduced by the value.
+**Heavy/Steel Shield**: Costs 30 TU, Wgt 7 kg, Pierce Armor is 4, Mali -3(bulky), -1 modifier to the Reflexes check.
+**Junk/Wood Shield**: No cost, -1 modifier to the Reflexes check.
+
+**Aegis Noctum**: This shield is composed of multiple small segments stored in a container carried on the left arm (a version for the right arm is not mass produced). 
+On the press of a button(Action) the shield unfolds like a flower and is ready for use within one turn of combat.
+Price 300 TU. The shield is a carbon based shield so it has the carbon pierce special rule: **Special Rule**: If this armor is penetrated the damage is not reduced by the value.
+
+

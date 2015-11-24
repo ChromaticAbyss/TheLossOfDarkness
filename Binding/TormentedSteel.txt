@@ -1,0 +1,48 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-12T23:29:23+02:00
+
+====== TormentedSteel ======
+Created Sunday 12 July 2015
+
+
+**Binding Process:** 
+[[Binding|Stability]]: Hard difficulty (-0) [only Medium if you have 3 or more Bionics]
+
+[[Binding|Mutation:]] Hard difficulty (-5)  
+		**Machine like**: All movements become more machine like, less fluid.
+		-2 to Dexterity
+		The following abilities gain a bonus of 1: Hand to Hand, Bionics, Craft(Metal,Engines)
+		
+[[Binding|Mutation:]] Hard difficulty (+0)  
+		**Steel Skin**: The characters skin produces steel armor plates. The thus hardened skin grants the character +1 [[CombatRules:Armor|Armor]]. However this skin isn't very flexible(-1 modifier to Reflexes, Sprint and Obstacle).
+		
+[[Binding|Mutation:]] Hard difficulty (+0)  
+		**Well oiled machine**: The character now has to consume oil regularly(1 ltr / week) or suffer a -1 modifer to all physical attirbutes. Also his sweat is replaced with oil. 
+		
+
+
+[[Binding|Amalgamation]]: Hard difficulty [only Medium if you have 3 or more Bionics]
+
+
+
+=== Specialisations/Casts ===
+**Beyond Flesh**
+[Starting Ability]
+ Passive
+ You gain your [[Binding:BindingMastery|Mastery]] as Plasticity.
+	
+
+
+**Bionic Regeneration**
+Costs:5PP, Requires [[BindingMastery:]] 7
+Passive
+Your bionics and implants regenerate durability.
+This happens at a rate of 1 point per sleep cycle, the points go to the lowest durability element first.
+			
+
+
+
+
+=== Low Stability ===
+**???**

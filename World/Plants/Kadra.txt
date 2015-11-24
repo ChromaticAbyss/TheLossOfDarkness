@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-05T19:44:24+02:00
+
+====== Kadra ======
+Created Saturday 05 September 2015
+
+Kadra is an edible plant that grows on plains and on fields. 
+
+=== Biome ===
+Plains
+Cultivated
+
+=== Collecting ===
+**Check**: Herbalism + Awareness (normal)
+**Duration**: 2 hours
+**Time of Year**: Not Winter
+**[Failure] **
+Nothing
+**[Success]**
+1D3 Plants
+**[Success 5+]**
+1D6 plants
+
+
+=== Loot per plant ===
+3 Kadra Roots (edible, 1/2 ration)
+1 Kadra stalk (edible, 1/2 ration)
+
+
+
+

@@ -1,0 +1,41 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-25T17:00:16+02:00
+
+====== Meditation ======
+Created Thursday 25 June 2015
+
+Meditation is a skill that allows to recover from loss of Stability. 
+Normally a character recovers 1 point each day of complete calm away from stress.
+With Meditation a character may spend 3 hours without any disturbance and away from further Stability loss to attempt to regain additional Stability.
+
+The check to be rolled is Meditation **Normal **if your Stability is 6 or more, **Hard** if your Stability is 5 or less. Any distractions will add negative modifiers to this check, doing it around people causes a -1 at least.
+On a success you regain 1 point of stability.
+
+You can only do this once a day.
+
+
+**Deep Trance**
+Costs: 4PP, Requires Skilllevel: 5
+Passive
+When meditating you restore 2 points if you have 2 stability left over.
+
+
+**Sinking Deep**
+Costs: 3PP, Requires Skilllevel: 3
+Passive
+Meditating requires 1 instead of 3 hours.
+
+
+**Psychodoc**
+Costs: 7PP, Requires Skilllevel: 6
+Passive
+Can use meditation to cure others instead of oneself.
+
+
+**Diffuse**
+Costs: 3PP, Requires Skilllevel: 5, Requires Cast Skill : 5
+Passive
+One a successfull meditation reduce your [[Glow]] by another 2 points.
+
+

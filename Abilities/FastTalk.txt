@@ -1,0 +1,61 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-05T11:46:06+02:00
+
+====== FastTalk ======
+Created Saturday 05 September 2015
+
+The character is very skilled at overwhelming another with words. While the argumentation may not hold up to later analysation its very capable to make a person do something right now.
+
+
+=== Attributes ===
+**Awareness**, Intelligence
+
+
+
+=== Incompetent ===
+-
+
+=== Beginner ===
+**Requirements**: Awareness 2, Intelligence 2
+**Cost**: 5 PP
+
+
+=== Intermediate ===
+**Requirements**: Awareness 3, Intelligence 3
+**Cost**: 10 PP
+
+
+=== Experienced ===
+**Requirements**: Awareness 4, Intelligence 3
+**Cost**: 20 PP
+
+
+=== Professional ===
+**Requirements**: Awareness 4, Intelligence 4
+**Cost**: 40 PP
+
+
+=== Legend ===
+**Requirements**: Awareness 5, Intelligence 5 (one of them 6)
+**Cost**: 80 PP
+
+
+
+
+=== Specialisations ===
+**Charme**
+**Requirements**: Beginner, Awareness 2
+**Cost**:5 PP
+Passive
++1 Modifier when attempting to charm a person
+
+
+=== Character Generation Modifiers ===
+**Starting Equipment**: 
+Beginner: You start with 10 TU worth of common items or currency.
+Intermediate: You start with 20 TU worth of common items or currency.
+Experienced: You start with 30 TU worth of common items or currency.
+Professional: You start with 60 TU worth of common items or currency.
+
+

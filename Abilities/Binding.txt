@@ -1,0 +1,74 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-05T11:02:42+02:00
+
+====== Binding ======
+Created Saturday 05 September 2015
+
+The character is trained in the art of binding which allows him to more safely aquire bindings in a drawn out process that is part science and part ritual.
+
+=== Attributes ===
+**Intelligence, Willpower,** Awareness
+
+
+=== Incompetent ===
+-
+An incompetent person cannot use this ability except on character generation where a +0 is used.
+
+=== Beginner ===
+**Requirements**: Willpower 2, Intelligence 2, Awareness 1
+**Cost**: 5 PP
+
+
+=== Intermediate ===
+**Requirements**: Willpower 3, Intelligence 3, Awareness 1, At least one Binding.
+**Cost**: 10 PP
+
+
+=== Experienced ===
+**Requirements**: Willpower 4, Intelligence 4, Awareness 2, At least two Bindings.
+**Cost**: 20 PP
+
+
+=== Professional ===
+**Requirements**: Willpower 5, Intelligence 5, Awareness 3, At least three Bindings.
+**Cost**: 40 PP
+
+
+=== Legend ===
+**Requirements**: Willpower 6, Intelligence 6, Awareness 4, At least four Bindings.
+**Cost**: 80 PP
+
+
+
+
+=== Specialisations ===
+**Symbiosis**
+**Requirements**: Intermediate, Awareness 5
+**Cost**:5 PP
+Passive
+When obtaining new Bindings you gain +2 to the Mastery level.
+
+
+**Assistance**
+**Requirements**: Experienced, Awareness 3
+**Cost**:5 PP
+Passive
+You can provide the Binding ability for another person by assisting them. This grants allows them to use the following points instead of their own:
+Experienced: 2
+Professional: 4
+Legend: 6
+
+
+**Exorcist**
+**Requirements**: Experienced, Willpower 5
+**Cost**:10 PP
+Passive
+When binding an unbound to yourself against its will the difficulty is no longer increased by one category.
+
+
+=== Character Generation Modifiers ===
+**Background**: A character needs to have some background explaination as to why he possesses this rare ability which is commonly illegal to practice.
+
+
+

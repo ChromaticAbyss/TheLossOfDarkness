@@ -1,0 +1,65 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-12T23:27:03+02:00
+
+====== Radiance ======
+Created Sunday 12 July 2015
+
+
+
+
+**Binding Process:** 
+[[Binding|Stability]]: Normal difficulty (-0)
+
+[[Binding|Mutation:]] Hard difficulty (+0)  
+		**Burn marks**: Leaves painful and permanent burn marks at the spot where it entered the body. -1 maximum Vitality. 
+		
+[[Binding|Mutation:]] Normal difficulty (+0)  
+		**Burn marks**: Leaves painful and permanent burn marks at the spot where it entered the body. -1 maximum Vitality. 
+		**Special rule**: Does not get +5 if the above mutation is obtained.
+
+[[Binding|Mutation:]] Hard difficulty (+0)  
+		**Radiation Source:** The host body now produces considerable amounts of radiation, not enough to be an acute health hazard for those around him but definitily detectable with a geiger counter. You gain 1 dSv every 2 days(which effectively reduces your normal regeneration by 0.5 on average).
+
+
+[[Binding|Burn Table:]] Hard difficulty (+0)
+		**Gamma Flare:** You start emitting gamma rays for [[Glow]]/2 turns. This deals 1D3 dSv to every organic thing within 5 metres per turn of combat(see Searing Aura for a similar but stronger effect). This one includes yourself.
+
+[[Binding|Burn Table:]] Normal difficulty (+0)
+		**Gamma Burst:** You emit a powerful gamma ray burst that deals [[Glow]]/3 **radiation damage** to every organic thing within 5 metres. Again this includes yourself.
+		**Special rule:** Max 2 entries
+
+[[Binding|Amalgamation]]: Hard difficulty
+
+
+=== Specialisations/Casts ===
+**Radiant Aura**
+[Starting Cast]
+Glow: 5, 1 Actions
+For [[Binding:BindingMastery|Mastery]] turns of combat: Per turn of combat everyone within 10 metres (and not shielded by a wall, lead etc.) takes 1D3 Radiation Damage. 1D6 against targets closer than 5metres. This does **NOT** include yourself.
+
+**Radiation ** **Resistance**
+Cost: 5 PP, Requires BindingMastery: 4
+Passive
+Grants 2 points aof Radiation Armor that even work against internal sources.
+Also it takes 4 **dSv** for you to be **radiation sick** instead of 1.
+
+
+**Radiant Ray:** 
+Cost: 6 PP, Requires BindingMastery: 8
+Glow: 7 , 1 Actions
+Bombard a single target within 12 metres with gamma rays, dealing 1D6+[[Binding:BindingMastery|Mastery]]/2 Radiation Damage. This counts as an **easy** ranged attack.
+This beam pierces all light substances, the only things that massively shield it is water, lead etc. 
+However its usually not possible to aim it properly through walls.
+
+		
+**X-Ray Vision	:      **
+Costs: 10PP, Requires BindingMastery: 3
+Glow: 5, 1 Action
+Sends out a harmless pulse of X-rays and uses their reflections to get an image of the whole surroundings. X-rays penetrate most walls, revealing a sphere with a radius of your [[Binding:BindingMastery|Mastery]] under normal circumstances (think house not bunker with lead walls).
+To see smaller details a Perception skill check may be needed.
+After the pulse is over this kind of vision lasts for your [[Binding:BindingMastery|Mastery]] in turns of combat, it is useless however without any source of x-rays such as the sun or some radiactive material(or yourself being a radiactive emitter due to mutation).
+			
+
+=== Low Stability ===
+**Radiant Beyond**: You obtain 1 [[Glow]] per hour(no Cast checks required) also one Decisievert. The radiation is also taken for everyone that spends that hour mostly within 10 metres. You also visibly glow. 

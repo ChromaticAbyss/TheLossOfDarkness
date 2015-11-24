@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-30T05:21:03+02:00
+
+====== Receptacle ======
+Created Tuesday 30 June 2015
+
+Slots: Chest
+Plasticity cost: 1
+
+A Bionic upgrade that can hold a standart Binding cube. While you have one slotted you gain +2 to the respective [[Binding:BindingMastery|Mastery]] and unlock the baseline cast if you don't have it already. The contained binding cubes can be exchanged which takes 1 hour.

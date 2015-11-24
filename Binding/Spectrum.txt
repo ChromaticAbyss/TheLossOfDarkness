@@ -1,0 +1,85 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-25T08:15:31+02:00
+
+====== Spectrum ======
+Created Thursday 25 June 2015
+
+A multicoloured entity that when bound to a living organism or machine enhances their vision in a multitude of ways.
+
+
+[[ProgressPoints|PP]]-cost on character generation: 20
+
+
+**Binding Process:** 
+[[Binding|Stability]]: Normal difficulty (-0)
+[[Binding|Mutation:]] Normal difficulty (+5)  
+		**Odd Eye Colour/Form**: The character has an extremely weird eye colour that unless concealed by sunglasses makes it very easy to remember this character.  It makes holding eye to eye contact unpleasant (-1 modifier Fast Talk, Negotiation) 
+		Both eye zones count as [[Bionics|mutated]].		
+
+[[Binding|Mutation:]] Normal difficulty (+3)  
+		**Chromatic Confusion:** The character starts seeing colours in an entirely different way, which makes it very hard to describe what he sees via speech or drawing. He can still say "i see a car" but not "i see a red car" etc. (-2 modifier to all checks it applies to)
+						He has similar problems finding the things normal humans describe ("look hes at the red car").
+
+[[Binding|Burn Table:]] Normal difficulty (+0)
+		**Spectral illumination:** You start visionally glowing for as many minutes as you have [[Glow]]. This makes Stealth basically impossible for the duration.
+
+[[Binding|Burn Table:]] Normal difficulty (+0)
+		**Spectral overflow:** Colours swirl madly before your eyes effectively blinding you for half your current [[Glow]] in turns of combat.
+		  **Special Rule**: Maximum 3 entries.
+
+
+[[Binding|Amalgamation]]: Normal difficulty
+
+
+
+=== Specialisations/Casts ===
+**Enhanced Vision:** 
+[Starting Cast]
+Glow: 2 , 0 Actions(when promted)
+Use you advanced perception range to add your [[Binding:BindingMastery|Mastery]] to any Awareness check that refers to your vision. When triggered this effect lasts for as many turns of combat as you have [[Binding:BindingMastery|Mastery]] where it grants the bonus without producing further glow.
+		
+			
+**Infrared Vision**: 
+Cost: 5 PP, Requires [[BindingMastery:]] 4
+Glow: 2, 0 Actions
+Use your vision to see sources of heat. This works much better in a cool enviournment(+2) than in a hot one(-4). When triggered this effect lasts for as many turns of combat as you have [[Binding:BindingMastery|Mastery]] where it grants the bonus without producing further glow.
+Note: Most solid walls act as a pretty good shield to the amounts of heat a human produces. Its also possible to obtain an infred lamp granting the user full vision while being invisible for anyone else.
+	
+**Permanent** **Infrared Vision**: 
+Cost: 5 PP, Requires [[BindingMastery:]] 6,**Infrared Vision**
+Passive
+Infrared vision is always active.
+
+**Infrared Mood Reading**: 
+Cost: 3 PP, Requires [[BindingMastery:]] 7,**Infrared Vision**
+Passive
+Use your Infrared vision to determine pulse and other bodily indiciators to get a better grasp of their feeling. While **Infrared Vision** is active gain +1 to FastTalk and Negotiation. 
+
+
+**X-Ray Vision	**
+Costs:7PP, Requires [[BindingMastery:]] 6
+Glow: 5, 1 Action
+Sends out a harmless pulse of X-rays and uses their reflections to get an image of the whole surroundings. X-rays penetrate most walls, revealing a sphere with a radius of your [[Binding:BindingMastery|Mastery]] under normal circumstances (think house not bunker with lead walls).
+To see smaller details a Perception skill check may be needed (enhanced vision can be used).
+After the pulse is over this kind of vision lasts for your [[Binding:BindingMastery|Mastery]] in turns of combat, it is useless however without any source of x-rays such as the sun or some radiactive material.
+			
+
+**Spectrum Vision**
+Costs: 10PP, Requires [[BindingMastery:]] 8
+Glow: 8, 1 Minute/10 Actions
+Learning this ability gives you -1 to maximum Stability.
+Grants you **true vision** for [[Binding:BindingMastery|Mastery]] turns of combat.
+This shows you the world as it truely is, unencoded by a brain that evolved for millions of years to filter it in a way that can be understood.
+Activating Spectrum Vision deals 1 damage to a persons stability per 5 started turns it is active. 
+During this time you are able to see things that do not even interact with light, mainly this reveals a persons [[Glow]], [[Binding|Bindings]] and invisible [[Unbound]]. 
+You are even able to penetrate solid matter with your cosmic gaze which reaches up to 100 metres.
+Localizing an entity that is not of hyerdimensional origin or [[Glow]]ing requires a **hard** awareness check. 
+
+
+=== Low Stability ===
+**See the world with my eyes**: The character is effectively unable to percieve anything or orient himself for the duration.
+
+
+
+

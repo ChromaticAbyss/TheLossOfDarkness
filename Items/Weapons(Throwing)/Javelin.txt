@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-08T19:52:16+02:00
+
+====== Javelin ======
+Created Wednesday 08 July 2015
+
+=== General Item Stats ===
+**Wgt**: 1.0kg
+**Durability**: ?
+**Est Value(Wilderness)**: 4 Army Rations 
+
+=== Crafting Stats ===
+...
+
+=== Combat Stats: ===
+**Range**: 30 metres
+**Damage**: 1D6+3
+**Reload**:	-
+**Recoil**: 1
+**Size**: Large, One Hand
+**Cover can be used**: Yes
+**Reusable**: Yes
+
+
+

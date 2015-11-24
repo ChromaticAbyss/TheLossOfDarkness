@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-05T17:03:41+02:00
+
+====== SleepingPill ======
+Created Saturday 05 September 2015
+
+
+
+=== General Item Stats ===
+**Wgt**: neglectible
+**Durability**: ?
+**Est Value**: 3 Army Rations
+
+=== Crafting Stats ===
+**-**
+
+
+=== Lesser Quality ===
+**Effect**: Drift into sleep slowly within the next 30 minutes. 
+**Side Effect**: 1D6: [1][2] -1 to health regeneration.
+**Duration**: 30 Minutes
+**Addiction**: +3
+**Application**: 1 Action
+
+=== Medium Quality ===
+**Effect**: Drift into sleep slowly within the next 20 minutes. The sleep is very deep and hard to disturb.
+**Side Effect**: 1D6: [1] -1 to health regeneration.
+**Duration**: 20 Minutes
+**Addiction**: +1D3
+**Application**: 1 Action
+
+=== High Quality ===
+**Effect**: Drift into sleep slowly within the next 	10 minutes. This is a sleep so deep that almost nothing short of violence will wake the person up and the [[AuroraOblivis|Auroa Oblivis]] has no effect on the sleeper.
+**Side Effect**: -
+**Duration**: 10 Minutes.
+**Addiction**: +1D3
+**Application**: 1 Action
+
+=== Addiction ===
+**Fall off**: 1/day
+**Resistance Threshold**: 5 
+**Addiction Threshold**: 10
+**Withdrawl**: Can find natural sleep unless a Meditation+Willpower(Normal) check is passed.

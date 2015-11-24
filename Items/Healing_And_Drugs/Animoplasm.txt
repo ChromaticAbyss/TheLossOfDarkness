@@ -1,0 +1,66 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-28T15:29:24+02:00
+
+====== Animoplasm ======
+Created Tuesday 28 July 2015
+
+A syringe filled with black liquid essence of the Hydra entity. Its contained with a carefully designed controling solution that allows safe application of the healing effects.
+There is also a cheap cloned version of this medicine called **Hydraplasm**
+
+=== General Item Stats ===
+**Wgt**: neglectible
+**Durability**: ?
+**Est Value**: 500TU (50 for Hydraplasm)
+
+=== Crafting Stats ===
+Hydraplasm can be cloned from **Animoplasm(High Quality)** or other **Hydraplasm(Medium/Low Quality)**.
+**Clone from Animoplasm** 
+**Craft:** Normal
+**Requires**: A bunch of organic chemicals best in pure form
+**Duration**: ~1 hour
+**Success**: Resultant Hydraplasm heals for the leftover points + 5
+**Failure:** roll 1D6: 1,2,3 base Ruined, 4,5,6 Base degraded to **Hydraplasm** of the same potency.
+				 All odd numbers: A 2D6 pt **Hydraplasm** was produced
+
+**Clone from Hydra**
+**Craft:** Normal
+**Requires**: A bunch of organic chemicals best in pure form, the base **Hydra** loses 1D3 pts from its heal value.
+**Duration**: ~1 hour
+**Success**: Resultant Hydraplasm heals for the leftover points, maximum is that of the base.
+**Failure:** roll 1D6: 1,2,3 base Ruined,  4,5,6 base healing quality reduced by 1D3.
+		All odd numbers: A 1D6 pt Hydraplasm was produced, maximum is that of the base.
+
+
+
+=== Medicine ===
+**Application**: 1 Action
+**Check**: Medic(Normal)
+The Syringe usually contains 10 Vitality worth of **Animoplasm**. 
+To see how much maximum Vitality is contained within a **Hydraplasm** syringe roll 2D6, the actual potency has little to do with the volume of the liquid so can't be gauged before usage.
+
+**Success**: Target gets the exact amount of HP intended from the user.
+**Failure**: Roll a D6 and add it to the intended amount.
+
+The missing Vitality is immediately restored.
+Every 5 restored Vitality also close a wound near the injection site, this wound healing only takes 10 minutes.
+
+To determine the sideeffects calculate the following(in order): 
+**Hydramutagenity**
++Total Amount of health restored
++3 for each wound closed
++1 for each negative vitality point restored
++1 for each point of "overheal"
++2 on usage of **Hydraplasm**.
+
+
+Whenever a character gains Hydramutagenity they will have to roll Resistance(Hard) and on failure a result happens that corresponds dependent on the **Hydramutagenity** of the character.
+The Resistance check has a Bonus equal to the surplus Medic points if there are any.
+0-4: Nothing of importance, only a small bump in [[OmegaFactor]] for several days.
+5-14: Roll a small mutation from the [[Binding:Hydra:Hydra Mutations|Hydra Mutations table]].
+15-24:Roll a large mutation from the [[Binding:Hydra:Hydra Mutations|Hydra Mutations table]].
+25+: The character is obtains the [[Binding:Hydra|Hydra Binding]]. This is a neutral binding but the base difficulties of Hydra are high.
+Characters lose only one stack of surplus **Hydramutagenity** each day so frequent applications of this remedy are dangerous.
+
+
+

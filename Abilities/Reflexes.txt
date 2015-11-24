@@ -1,0 +1,65 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-17T21:13:40+02:00
+
+====== Reflexes ======
+Created Donnerstag 17 September 2015
+
+Reflexes is a defensive ability to counter melee attacks and thrown weapons. 
+In case no one has made a plan using Tactics the highest Reflexes will determine which party starts.
+
+
+=== Attributes ===
+**Dexterity**, Burst
+
+
+=== Incompetent ===
+-
+
+=== Beginner ===
+**Requirements**: Burst 1, Dexterity 2
+**Cost**: 5 PP
+
+
+=== Intermediate ===
+**Requirements**: Burst 2, Dexterity 3
+**Cost**: 10 PP
+
+
+=== Experienced ===
+**Requirements**: Burst 3, Dexterity 4
+**Cost**: 20 PP
+
+
+=== Professional ===
+**Requirements**: Burst 4, Dexterity 5
+**Cost**: 40 PP
+
+
+=== Legend ===
+**Requirements**: Burst 5, Dexterity 6
+**Cost**: 80 PP
+
+
+
+
+=== Specialisations ===
+**Chosen one:**
+Costs: 7PP, Requires Skilllevel: Experienced
+Passive
+You do not get any penalty for using Reflexes to ward off melee attacks while surrounded by any amount of enemies.
+
+**First Strike:**
+Costs: 5PP, Requires Skillevel: Intermediate
+Passive
+You gain a +1 modifier when rolling Reflexes to determine initiative.
+
+
+=== Character Generation Modifiers ===
+**Starting Equipment**: 
+Beginner: You start with a basic melee weapon.
+Intermediate: You start with a basic melee weapon.
+Experienced: You start with a melee weapon worth 60 TU.
+Professional: You start with a melee weapon worth 100 TU or less, this weapon has high quality and deals +1 damage.
+
+

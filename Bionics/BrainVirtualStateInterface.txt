@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-28T23:03:44+02:00
+
+====== BrainVirtualStateInterface ======
+Created Sunday 28 June 2015
+
+Slots: Brain(1)
+Plasticity cost: 3
+
+Can read virtual state data carriers and with proper training even fill them with data(works like teaching).
+Can interface directly with all sensory centres.

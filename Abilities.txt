@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-08-26T14:56:56+02:00
+
+====== Abilities ======
+Created Mittwoch 26 August 2015
+
+Ability roll: Add the requested Attribute(if none is specified the one in **bold**) with the modifier from you competence level and other modifiers to the ability/attribute.
+
+=== Incompetent ===
+Modifier: -3
+You start at that level. At worst you automatically fail any check related to this, at best you get a -3 modifier.
+
+=== Beginner ===
+Modifier: 0
+Cost Default: 5
+
+=== Intermediate ===
+Modifier: 3
+Cost Default: 10
+
+
+=== Experienced ===
+Modifier: 6
+Cost Default: 20
+
+
+=== Professional ===
+Modifier: 9
+Cost Default: 40
+
+
+=== Legend ===
+Modifier: 12
+Cost Default: 80
+
+
+
+
+GIT TEST ENTRY

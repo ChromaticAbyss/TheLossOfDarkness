@@ -1,0 +1,64 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-08-26T13:45:29+02:00
+
+====== Attributes ======
+Created Mittwoch 26 August 2015
+
+Attributes are the basic value for skill checks, they default to 0 which means no bonus is given to any skill check
+-1   **Terrible**
+0
+1         **Below Average**  
+2
+3			      **Average**
+4
+5         **Above Average**
+6
+7+   **Insane**
+By default a character has 3 points in every attribute (18 total) these may be shifted around in a range of -1 to 6 as long as the total remains 18.
+Keep in mind that multiple low values might inhibt a character from learning a lot of Abilities!
+
+
+
+=== Burst ===
+The characters ability to output massive physical work for a short period of time.
+Examples: Hitting an enemy with a powerful melee swing, breaking down a door, lifting a car
+
+
+=== Endurance ===
+The characters ability to sustain through physical strain for extended periods of time.
+Examples: Running a marathon, staying alive despite losing a lot of blood, living off very little food for a long time.
+
+
+
+=== Dexterity ===
+Examples: Evading an attack, Shooting a gun at short range, Crafting, squeezing through a tiny gap
+
+
+=== Willpower ===
+The characters force of will and ability to resist mental influences.
+Examples: using the "cast" skill to avoid sideeffects of binding usage, resisting a binding effect, ignoring wounds, meditate
+Every point of base Willpower grants +1 maximum Stability.
+
+=== Intelligence ===
+The character ability to figure out solutions to complex problems or to approximate them very well.
+Examples: Hacking, Long range sniper shot
+
+=== Awareness ===
+The Characters ability to notice and memorize useful details about places,people and situations.
+Examples: Seeking useful cover, Noticing little details, Fast Talk, Negotiation
+
+
+
+
+
+From these stats the following stats are derived:
+Derived Stats Bases:
+10 Vitality (+1*  Endurance)
+10 Stability (+1 * Willpower)
+5 Glow Threshold
+5 Wound Threshold
+5 Plasticity
+
+
+

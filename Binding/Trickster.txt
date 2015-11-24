@@ -1,0 +1,79 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-25T10:33:59+02:00
+
+====== Trickster ======
+Created Thursday 25 June 2015
+
+												   **Trickster Binding**
+										"Don't deal with a trickster, you can only lose..."
+
+A manipulative entity that is only known to bind to to humans.
+
+
+[[ProgressPoints|PP]]-cost on character generation: 20
+
+
+**Binding Process:** 
+[[Binding|Stability]]: Normal difficulty (-0)
+[[Binding|Mutation:]] Normal difficulty (+3)  
+		**Split tongue**: -1 modifier to perception checks that deal with taste. No downsides regarding speech.
+
+[[Binding|Burn Table:]] Normal difficulty (+0)
+		**Dancing illumination:** Dancing lights surround you, lasting for as many turns of combat as you have [[Glow]]. This makes Stealth basically impossible for the duration.
+
+[[Binding|Burn Table:]] Normal difficulty (+0)
+		**Distracting Presence:** A presence that manifests near the edges of your vision and with barely audible whispers distracts you for as many turns of combat as you have [[Glow]]. This results in a -1 modifier to everything you do for the duration.
+
+[[Binding|Burn Table:]] Normal difficulty (+5)
+		**Unnerving Presence:** Same as **Distracting Presence** except that it affects your **allies** within 10 metres and **not you**.
+
+[[Binding|Amalgamation]]: Normal difficulty
+
+
+
+=== Specialisations/Casts ===
+**Silver Tongue** 
+[Starting Cast]
+Glow: 5 , 0 Actions(when promted)
+Using this Cast you can add your [[BindingMastery|Mastery]] to a single Fast Talk skill check. 
+		
+**Intrigue**:  
+Cost: 3 PP, Requires [[BindingMastery:]] 4		
+Passive
+You may cast **Silver Tongue** on negotiation checks. 
+If you want you can also replace your actual Negotiation skill with half of your Fast Talk skill in that instance.
+		
+**Dazzle**:  
+Cost: 6 PP, Requires [[BindingMastery:]] 3		
+Cast: Glow: 7, 1 Action
+Attempts to confuse and stun a thing with a brain. You duel your [[BindingMastery]](normal check) against their Willpower(normal check). If you succeed the target is stunned for one turn of combat.
+In parallel to casting Dazzle you can perform any Move/Chase or Cover action but not cast something else or attack. This property makes **Dazzle** good for getaways but less useful in direct combat (unless you brough allies).
+Range: [[BindingMastery]] in metres.
+		
+**Greater Confusion:** 
+Cost: 7 PP, Requires [[BindingMastery:]] 7, **Dazzle**		
+Cast: Glow 18, 1 Action
+Works like Dazzle except that it targets any person you want within [[BindingMastery]] metres. Not only does this stun groups it also stuns for 2 Turns instead of one.
+This is again useful for escaping groups of people or to initiate a fight.
+ In parallel to casting Greater Confusion you can perform any Move/Chase or Cover action but not cast something else or attack
+		
+**Magic Trick**:  
+Cost: 2 PP, Requires [[BindingMastery:]] 3		
+Cast: Glow: 1, 1+ Action
+Performs one or a series of "street magic" tricks. A good way to entertain guests or earn a little money in a city.
+
+**Tricksters Contract:** 
+Cost: 5 PP, Requires [[BindingMastery:]] 6
+Cast: Glow 10, 1 Handshake
+Cast this upon making a contract sealed with a sign, stam, handshake etc.
+Whenever your victim tries to break the contract(they can only try once a day) they must do a a duel against you: Your [[BindingMastery]](normal check) against their Willpower(normal check)(use the Willpower value you had when making the contract) if they fail they are bound by the 
+words of the  contract.  If they win a duel they can break it. 
+Just thinking about breaking the contract does not count as a try btw.
+**Note:** You can break your end of the bargain at any time you want(you are a trickster after all), doing so removes the effect from your victim though.
+
+
+
+
+=== Low Stability ===
+**Babylon:** The character loses the ability to communicate with language be it written or spoken. Basic signs still work.

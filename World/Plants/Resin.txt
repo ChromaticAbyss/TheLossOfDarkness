@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-15T15:38:42+02:00
+
+====== Resin ======
+Created Dienstag 15 September 2015
+
+A lot of trees(especially pines) produce a resin to close their wounds wich also makes a great glue when mixed with charcoal.
+
+=== Biome ===
+Wherever Trees grow
+
+=== Collecting ===
+**Check**: Herbalism + Awareness (easy)
+**Duration**: 2 hours
+**Time of Year**: Not Winter
+**[Failure] **
+Nothing
+**[Success]**
+1D3 Trees with lots of Resin
+**[Success 5+]**
+1D6 Trees with lots of Resin
+
+
+
+=== Loot per plant ===
+1 Resin/Glue (Making the glue requires a fire)
+
+
+

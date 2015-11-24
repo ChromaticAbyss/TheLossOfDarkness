@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-08-08T17:10:10+02:00
+
+====== Padding ======
+Created Saturday 08 August 2015
+
+
+Offers additional thermal and blunt protection.
+Can be worn beneath certain other types of armor.
+Without an armor above it padding suffers from extremely strong wear by weather and ripping.
+
+=== General Item Stats ===
+**Wgt**: 1kg
+**Durability**: ?
+**Est Value(Wilderness)**: 10 Army Rations
+**Est Value(Cities)**:  10 TU
+
+
+=== Armor Stats ===
+**Zones**: Full
+**Pierce Armor**: 0 (1 if no armor above it)
+**Blunt Armor**: 1
+**Cold Protection**: 2
+**Radiation Protection**: 0
+**Mali**: -2

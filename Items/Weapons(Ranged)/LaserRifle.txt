@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-08-09T11:11:48+02:00
+
+====== LaserRifle ======
+Created Sunday 09 August 2015
+
+Excellent long range weapon that is both silent and also completely unaffected by wind. The major downside is that the beam will lose a lot of its range and power in non clear air, moder smokescreens are especially effective at dissipating a laser beam in a shrt distance.
+This leaves the laser as a good weapon for long range assassination but less good in actual combat scenarios where dust and smoke are commonplace.
+
+
+
+
+

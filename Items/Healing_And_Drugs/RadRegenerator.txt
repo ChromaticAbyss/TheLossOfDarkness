@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-03T22:49:03+02:00
+
+====== RadRegenerator ======
+Created Donnerstag 03 September 2015
+

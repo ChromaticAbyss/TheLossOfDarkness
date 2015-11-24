@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-10-14T23:33:03+02:00
+
+====== GraspingShadows ======
+Created Mittwoch 14 Oktober 2015
+
+Mental attacks
+-Refuge of nightmare , affects a zone
+-A Stun on low Stability
+-Fear
+
+-Eclipse: A highlevel and extremely Glow intensive(100) ability can eclipse the sun for an hour

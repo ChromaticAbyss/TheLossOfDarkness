@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-23T18:25:14+02:00
+
+====== Warrior Villager ======
+Created Mittwoch 23 September 2015
+
+Burst: 4
+
+Endurance: 3
+
+Dexterity: 3
+
+Willpower: 4
+
+Intelligence: 2
+
+Awareness: 2
+
+Hand To Hand [Exerienced]
+
+Throwing Weapons [Intermediate]
+
+Reflexes [Intermediate]
+
+Cover [Beginner]
+
+Herbalism [Beginner]
+
+Mental Fortitude [Exerienced]
+
+Scavenging [Beginner]
+
+Scouting [Beginner]
+
+Self Control [Intermediate]
+
+Stealth [Beginner]
+
+Zoology [Beginner]

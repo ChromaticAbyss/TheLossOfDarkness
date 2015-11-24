@@ -1,0 +1,128 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-05T14:11:33+02:00
+
+====== HandToHand ======
+Created Saturday 05 September 2015
+
+This is skill in fighting in close range either unarmed or with melee weapons.
+
+Different basic attacks can be performed while unarmed 
+**Deal damage**(attempt to kill)
+The attack deals 1D3+1 damage, usually this is much more violent than just a punch to the head.
+When a melee weapon is used its damage replaces the standart damage.
+
+**Supress/Recover**
+You opponent gains a -1 modifier on all actions or your negative modifier ges reduced by 1 depending on who is in control.
+This value loses any meaning once the combatants disengage.
+
+
+To hit/grab an enemy expend an action and roll a duel of you [[HandToHand]] + Burst vs their Reflexes + Dexterity.
+
+
+=== Attributes ===
+**Burst,** Dexterity, Endurance
+
+
+
+=== Incompetent ===
+-
+
+=== Beginner ===
+**Requirements**: Burst 2, Dexterity 1
+**Cost**: 5 PP
+
+
+=== Intermediate ===
+**Requirements**: Burst 3, Dexterity 1, Endurance 1
+**Cost**: 10 PP
+
+
+=== Experienced ===
+**Requirements**: Burst 4, Dexterity 2, Endurance 2
+**Cost**: 20 PP
+
+
+=== Professional ===
+**Requirements**: Burst 5, Dexterity 3, Endurance 3
+**Cost**: 40 PP
+
+
+=== Legend ===
+**Requirements**: Burst 6, Dexterity 4, Endurance 4
+**Cost**: 80 PP
+
+
+
+
+=== Specialisations ===
+**Martial Arts**
+**Requirements**: Intermediate
+**Cost**:5 PP
+Passive
+Supress/Recover yields 2 points instead of one.
+**Takedown:** When you have 5 supress points on an enemy you may consume them in a deal damage attack to deal +3 damage.
+You can block unarmed attacks using Hand To Hand+Burst instead of Reflexes+Dexterity.
+
+
+
+**Iron Fist**
+**Requirements**: Intermediate, martial Arts
+**Cost**:5 PP
+Passive
+Deal +1 damage with bare hands.
+
+
+**Parry**
+**Requirements**: Intermediate
+**Cost**:5 PP
+Reaction
+You can block any melee attack by a not substancially more massive weapon using Hand To Hand+Endurance instead of Reflexes+Dexterity.
+
+
+**Counterattack**
+**Requirements**: Experienced, Parry
+**Cost**:5 PP
+Reaction
+When you win a duel defending with **Parry** you deal you lowest possible roll damage to your enemy.
+This only works once a turn, twice if you are fighting unarmed or with small weapons.
+
+
+
+**Out for blood**
+**Requirements**: Intermediate, Burst 5
+**Cost**:7 PP
+Passive
+Deal +2 damage with two handed melee weapons, +1 damage with one handed melee weapons.
+This bonus is doubled if you have a Burst stat of 7 or more.
+
+**Improvised Weapons**
+**Requirements**: Intermediate
+**Cost**:5 PP
+Passive
+Everything that could possible make sense as a melee weapon counts as familiar to you.
+
+
+**Disarm** 
+**Requirements**: Intermediate, Dextterity 5
+**Cost**:5 PP
+Passive
+Makes it easier to disarm an enemy using the supress attack.
+
+
+**Dual Wield**
+**Requirements**: Experienced, Dexterity 4, Burst 2
+**Cost**:5 PP
+Passive
+Can dual wield one handed melee weapons gaining an extra action for melee attacks each turn.
+
+
+
+=== Character Generation Modifiers ===
+**Starting Equipment**: 
+Beginner: You start with a basic melee weapon.
+Intermediate: You start with a basic melee weapon.
+Experienced: You start with a melee weapon worth 60 TU.
+Professional: You start with a melee weapon worth 100 TU or less, this weapon has high quality and deals +1 damage.
+
+

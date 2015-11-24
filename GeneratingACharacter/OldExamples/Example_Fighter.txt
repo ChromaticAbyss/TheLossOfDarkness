@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-07T15:30:41+02:00
+
+====== Example Fighter ======
+Created Tuesday 07 July 2015
+
+**Notes:** The goal is to build a powerful fighting machine. 
+
+Specials[30] +2 Maximum Vitality,+1 Maximum  Plastiscity
+Bindings[0]
+
+Abilities[120\120]
+Resistance 5				15
+Stealth 2					3
+
+Sprinting 3				6
+Obstacle 2				3
+
+Hand To Hand 6			21
+Shooting 7				28
+Cover 6					21
+Reflexes 5				15
+Tactics 4				6
+
+Intimidate 1				1
+Medic 1					1

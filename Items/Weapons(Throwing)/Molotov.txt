@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-29T08:36:14+02:00
+
+====== Molotov ======
+Created Wednesday 29 July 2015
+
+A very simple weapon to ingite structures, persons and areas.
+
+=== General Item Stats ===
+**Wgt**: 0.5 kg
+**Durability**: ?
+**Est Value(Wilderness)**: 2 Army Rations (A bottle of liquor and some fabric)
+**Est Value(Cities)**: 1 Trade Units (The same but its cheaper to get gasoline)
+
+
+=== Crafting Stats ===
+...
+
+=== Combat Stats: ===
+**Range**: 15 metres
+**Damage**: Sprays everything within 2 metres with burning liquid. The zone and persons in it burn for for 1D3 of damage each turn of combat(roll once at the start). 
+By expending an Action to roll on (nunburning) ground a person reduces the burning value on it by 1, an ally may help extinguish the flames.
+Persons in the zone take the respective damage each turn (in addition if they got hit as well).
+**Reload**:	-
+**Recoil**: Not applicable
+**Size**: Small, One Hand
+**Cover can be used**: At half its value applied to the duel below
+**Duel vs Reflexes:** Always(Dashing to safety)
+
+
+
+**Gasoline instead of Liquor**
++1 to the burn intensity, burning zone can not be extinguished with water
+
+
+**Adhesive Igniting agent**
+**Est Value(Wilderness)**: 10 Army Rations
+**Est Value(Cities)**: 5 Trade Units (for some sticky and flammable substances to mix)
+To remove one point from the burn 2 actions are needed.

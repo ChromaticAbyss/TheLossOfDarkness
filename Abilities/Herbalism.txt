@@ -1,0 +1,64 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-05T13:36:32+02:00
+
+====== Herbalism ======
+Created Saturday 05 September 2015
+
+Knowledge of edible, medical and dangerous plants is very valuable out in the wilderness and can easily make the difference between life and death.
+A skilled herbalist knows his current enviournment and what useful plants to look for in it and also has ways to categorize previously unknown plant life. 
+
+
+
+=== Attributes ===
+**Awareness**, **Intelligence**
+
+
+
+=== Incompetent ===
+-
+
+=== Beginner ===
+**Requirements**: Intelligence 2, Awareness 1
+**Cost**: 5 PP
+
+
+=== Intermediate ===
+**Requirements**: Intelligence 2, Awareness 3
+**Cost**: 10 PP
+
+
+=== Experienced ===
+**Requirements**: Intelligence 3, Awareness 4
+**Cost**: 20 PP
+
+
+=== Professional ===
+**Requirements**: Intelligence 4, Awareness 5
+**Cost**: 40 PP
+
+
+=== Legend ===
+**Requirements**: Intelligence 4, Awareness 6
+**Cost**: 80 PP
+
+
+
+
+=== Specialisations ===
+**Gatherer**
+**Requirements**: Beginner, Awareness 3
+**Cost**: 5 PP
+Passive
+Gain +1 when actively searching for plants. 
++2 instead if just searching for edible plants.
+
+
+
+
+=== Character Generation Modifiers ===
+**Starting Equipment**: 
+Beginner: You start with 5 food rations and 10 TU worth of other local Herbs.
+Intermediate: You start with 5 food rations and 20 TU worth of other local Herbs.
+Experienced: You start with 5 food rations and 30 TU worth of other local Herbs.
+Professional: You start with 5 food rations and 50 TU worth of other local Herbs.

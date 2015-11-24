@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-24T22:23:01+02:00
+
+====== Glow ======
+Created Wednesday 24 June 2015
+
+Everytime a character uses the special abilities of their [[Binding|Bindings]] he aquires Glow. 
+If a character aquires Glow and afterwards has more than his threshold(default is 5) they must pass an **easy** cast check or the glow triggers.
+This check will be one category harder for each multiple that is crossed, for example aquiring Glow that puts him above 10 would force a standard character to roll a **normal** cast check, above 15 it would be a **hard** check and so on.
+
+If a Cast check fails the caster rolls 1D20 and looks up their BurnTable.
+If the Cast had an ally as target that allys burn table also procs(uses their Glow for the calculation)!
+ 

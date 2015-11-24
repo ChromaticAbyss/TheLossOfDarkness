@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-28T23:05:28+02:00
+
+====== AwakeningDevice ======
+Created Sunday 28 June 2015
+
+Slots: Brain(1)
+Plasticity cost: 1
+
+Grants a +1 modifier to the Binding skill.

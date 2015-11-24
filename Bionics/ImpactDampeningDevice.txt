@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-12T23:38:10+02:00
+
+====== ImpactDampeningDevice ======
+Created Sunday 12 July 2015
+
+Slots: Spine,Leg(2x)
+Plasticity cost: 1
+
+This modified spine is extremely resistant to the kind of compression that happens when breaking a large fall. To use this implant a certain amount of self control is needed to land on your legs(Obstacle 3).
+Fall damage even at terminal velocity is capped at 10 points.
+Any fall damage lower than 10 is halved. 

@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-08-08T15:51:05+02:00
+
+====== Armor ======
+Created Saturday 08 August 2015
+
+Certain armors can be worn beneath others, at most you can stack two layers.

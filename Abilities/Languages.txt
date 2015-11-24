@@ -1,0 +1,95 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-18T19:40:57+02:00
+
+====== Language ======
+Created Freitag 18 September 2015
+
+Languages have two tiers:
+Basic and Fluid
+
+
+
+
+
+=== Attributes ===
+**Intelligence**
+
+
+
+=== Incompetent ===
+Character knows the language of the area he grew up in 
+
+=== Beginner ===
+**Requirements**: Intelligence 2
+**Cost**: 5 PP
+
+
+=== Intermediate ===
+**Requirements**: Intelligence 3, Dexterity 3, one of them 4
+**Cost**: 10 PP
+
+
+=== Experienced ===
+**Requirements**: Intelligence 4, Dexterity 4, one of them 5
+**Cost**: 20 PP
+
+
+=== Professional ===
+**Requirements**: Intelligence 5, Dexterity 5
+**Cost**: 40 PP
+
+
+=== Legend ===
+**Requirements**: Intelligence 6, Dexterity 6
+**Cost**: 80 PP
+
+
+
+
+=== Specialisations ===
+**Patch them up**
+**Requirements**: Intermediate
+**Cost**:5 PP
+Passive
+Stopping a bleeding only takes 3 actions. 
+
+
+**Lifesaver**
+**Requirements**: Experienced
+**Cost**:5 PP
+Passive
+When performing **Emergency** **Stabilization **the maximum reduction in duration you can achieve is now 8.  
+
+
+**Vital Operation**
+**Requirements**: Experienced
+**Cost**:5 PP
+Takes 1 hour
+Requires: Somewhat sterile enviournment, Operation instruments, some form of anesthesia(**vey hard** skill check if a component is missing).
+Attempt to bring a person that is **stable** but in negative vitality up to 0 health. This is a **hard** check, the amount of leftover points is added to the targets vitality(maximum to 0). 
+On a failure the target loses the **stable** status and starts losing vitality again until they can be stabilized again.
+Attribute used is the minimum of Dexterity and Intelligence.
+
+**Get well soon**
+**Requirements**: Intermediate
+**Cost**:5 PP
+Passive
+When you successfully care for a persons wound they can roll a check for healing it every 3 days instead of every 7.
+
+
+
+**Apothecary**
+**Requirements**: Intermediate
+**Cost**:3 PP
+Passive
+Gain a +2 modifier for all medicine/drug related Medicine checks. 
+You gain a +1 bonus when using Medicine to give a bonus to any Medic related skill check (e.g. healing powder).
+
+
+=== Character Generation Modifiers ===
+**Starting Equipment**: 
+Beginner: 
+Intermediate: 
+Experienced: 
+Professional: 

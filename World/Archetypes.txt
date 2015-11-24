@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-18T09:51:33+02:00
+
+====== Archetypes ======
+Created Freitag 18 September 2015
+

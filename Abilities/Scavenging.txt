@@ -1,0 +1,52 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-06T22:29:51+02:00
+
+====== Scavenging ======
+Created Sonntag 06 September 2015
+
+The character knows valuable remains from junk, knows which places might hold what you seek for and which places are most likely plundered already.
+
+=== Attributes ===
+**Awareness,** Intelligence
+
+
+
+=== Incompetent ===
+-
+
+=== Beginner ===
+**Requirements**: Awareness 1, Intelligence 0
+**Cost**: 5 PP
+
+
+=== Intermediate ===
+**Requirements**: Awareness 2, Intelligence 2
+**Cost**: 10 PP
+
+
+=== Experienced ===
+**Requirements**: Awareness 2, Intelligence 3
+**Cost**: 20 PP
+
+
+=== Professional ===
+**Requirements**: Awareness 3, Intelligence 4
+**Cost**: 40 PP
+
+
+=== Legend ===
+**Requirements**: Awareness 6, Intelligence 4 OR Awareness 5, Intelligence 5
+**Cost**: 80 PP
+
+
+=== Specialisations ===
+
+
+=== Character Generation Modifiers ===
+**Starting Equipment**: 
+Beginner: You start with 40 TU worth of looted items.
+Intermediate: You start with 80 TU worth of looted items.
+Experienced: You start with 120 TU worth of looted items.
+Professional: You start with 200 TU worth of looted items.
+

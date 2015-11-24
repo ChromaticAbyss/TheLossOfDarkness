@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-17T21:28:57+02:00
+
+====== TrackingDevice ======
+Created Donnerstag 17 September 2015
+
+Can be placed and detected within 100 metres.

@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-23T18:11:52+02:00
+
+====== Standard Villager ======
+Created Mittwoch 23 September 2015
+
+Burst: 2
+
+Endurance: 3
+
+Dexterity: 3
+
+Willpower: 4
+
+Intelligence: 3
+
+Awareness: 3
+
+Hand To Hand [Beginner]
+
+Throwing Weapons [Beginner]
+
+Reflexes [Beginner]
+
+Cover [Beginner]
+
+Cast [Beginner]
+
+Craft [Intermediate]
+
+Herbalism [Intermediate]
+
+Mental Fortitude [Exerienced]
+
+Scavenging [Exerienced]
+
+Scouting [Intermediate]
+
+Self Control [Intermediate]
+
+Stealth [Intermediate]
+
+Zoology [Beginner]

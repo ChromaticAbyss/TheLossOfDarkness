@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-30T16:13:56+02:00
+
+====== Weapons(Melee) ======
+Created Tuesday 30 June 2015
+
+
+
+
+
+
+
+
+Melee attacking something that cannot move or otherwise defend itself always results in maximum rolled damage and an extra wound.

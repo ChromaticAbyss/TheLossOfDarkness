@@ -1,0 +1,50 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-25T17:57:27+02:00
+
+====== PaleShade ======
+Created Thursday 25 June 2015
+
+
+A pale entity that stalks the shadows and blends in crowds.
+
+
+[[ProgressPoints|PP]]-cost on character generation: 20
+
+
+**Binding Process:** 
+[[Binding|Stability]]: Normal difficulty (-0)
+[[Binding|Mutation:]] Normal difficulty (+0)  
+		**Pale Skin**: Very pale almost white skin, does not take to direct sunlight very kindly(-1 modifier to everything while out in bright sun without cover).
+
+[[Binding|Mutation:]] Normal difficulty (+5)  
+	**          Whisper**: The characters voice is only a whisper. They can't talk loudly for long and can not scream at all.
+
+[[Binding|Burn Table:]] Normal difficulty (+0)
+		**Plans within plans:** Until your glow reaches 0 you cannot regain Stability.
+
+[[Binding|Burn Table:]] Normal difficulty (+4)
+		**Fade to oblivion:** See the effect of **Fade from memory** for the duration of [[Glow]] minutes. The difference is that nobody recognizes the character even if they know them for ages.
+
+
+
+[[Binding|Amalgamation]]: Normal difficulty
+
+
+
+**Specialisations/Casts:** 
+
+**Fade from memory**
+[Starting Cast]
+Glow: 6 , 1 Action
+Character becomes completely unmemorable even for persons that observed them up to [[BindingMastery:|BindingMastery]] minutes before.
+		
+**Camoflage**
+Cost: 5 PP, Requires [[BindingMastery:]] 5
+Glow: 5, 3 Actions
+Character starts blending into the current enviournment. This camoflage affects all senses, to detect the character the character a **hard** check on [[Attributes|Awareness]] is needed, this may be modified in addition by the remaining points of a [[Abilities:Stealth|stealth]] roll.
+Lasts up to [[BindingMastery]] turns of combat. 
+This ability does not have any effect on animals, machines, phantoms and other lesser intellects.
+
+
+**Siluette**:  Move through solid matter

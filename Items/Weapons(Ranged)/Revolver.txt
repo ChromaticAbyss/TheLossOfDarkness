@@ -1,0 +1,34 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-30T16:39:20+02:00
+
+====== Revolver ======
+Created Tuesday 30 June 2015
+
+A light weapon that is pretty lethal to humans but will have trouble stopping a charging bear or berserking mutant.
+Probably the easiest to maintain of all gunpowder weapons, the real problem is getting enough bullets.
+
+=== General Item Stats ===
+**Wgt**: 0.5kg
+**Durability**: ?
+**Est Value(Wilderness)**: 40 Army Rations
+**Est Value(Cities)**:  30 TU
+
+=== Crafting Stats ===
+...
+
+=== Combat Stats: ===
+**Range**: 30 metres
+**Damage**: 1D6+3
+**Reload**:
+   **every X uses**: 6
+**   takes:** 2 Actions(only check at the last)
+**Recoil**: 2 
+**Size**: Small, Two Hands 
+
+=== Ammunition: ===
+.**357 Bullet**
+	**Est Value(Wilderness)**: 0.2 Army Rations
+	**Est Value(Cities)**:  0.1 TU
+
+

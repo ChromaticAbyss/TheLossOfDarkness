@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-08-08T15:51:19+02:00
+
+====== ThickClothing ======
+Created Saturday 08 August 2015
+
+Thick Clothing is the most common form of "armor". It works pretty well against cold and is better than no protection against mechanical damage.
+
+
+=== General Item Stats ===
+**Wgt**: 4kg
+**Durability**: ?
+**Est Value(Wilderness)**: 10-30 Army Rations
+**Est Value(Cities)**:  10-20 TU
+
+
+=== Armor Stats ===
+**Zones**: Vary, usually full
+**Pierce Armor**: 0
+**Blunt Armor**: 1
+**Cold Protection**: 4
+**Mali**: -1

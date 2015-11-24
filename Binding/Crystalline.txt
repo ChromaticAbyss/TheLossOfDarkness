@@ -1,0 +1,107 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-24T23:36:22+02:00
+
+====== Crystalline ======
+Created Wednesday 24 June 2015
+
+A crystalline entity is bound with this lifeform, able to harden the flesh to the strength of granite in an instant. A more prolific owner may be able to harden only certain parts, passively have armored skin or produce crstalline spikes for use as a weapon.
+
+
+
+
+[[ProgressPoints|PP]]-cost on character generation: 20
+
+
+**Binding Process:** 
+[[Binding|Stability]]: Normal difficulty (-0)
+[[Binding|Mutation:]] Normal difficulty (+2)  
+		**Cristallized Skin**: The characters skin has interwoven crystalline filaments. The thus hardened skin grants the character a 1 point Armor when he otherwise would have 0. However this skin isn't very flexible(-1 modifier to Reflexes, Sprint and Obstacle) and looks a little odd.
+					Skin counts as [[Bionics|mutated]].
+		
+[[Binding|Mutation:]] Normal difficulty (+2)  
+		**Cristalline Keratin:** Nails and hair of this character are made from crystalline substance. The hair usually breaks off at a short length due to being inflexible. The nails however are actually very useful (+1 damage in unarmed combat), they are however a real pain to cut.
+
+[[Binding|Burn Table:]] Normal difficulty (+0)
+		**Crystalline Stasis:** If your [[Glow]] is 10 or higher you are unable to act for one turn of combat (+1 per full 10 Glow from then on)
+		**Special Rule**: Maximum 2 entries.
+
+[[Binding|Burn Table:]] Normal difficulty (+0)
+		**Crystalline Reflections:** Gain 3 [[Glow]], roll another **normal** Cast check to see if the Burn Table fires again from this.
+	  
+[[Binding|Burn Table:]] Normal difficulty (+0)
+		**Crystalline Memory:** It will take 12 hours from now on before your [[Glow]] will start decaying.
+	
+
+[[Binding|Amalgamation]]: Normal difficulty
+
+=== Specialisations/Casts ===
+**Crystallize:** 
+[Starting Cast]
+Glow: 5 , 0 Actions
+As a defensive/preventive measure turn into a full crystalline statue. This lasts up to your [[BindingMastery|Mastery]] with this Binding in turns of combat but can be canceled whenever you see fit. You may use Casts that do not require movement but no other Actions while paralyzed.
+While crystalyzed you are extremely hard to wound: You gain Armor equal to your [[BindingMastery|Mastery]] with this binding. 
+			
+**Frozen in Time**: 
+Costs 3PP, Requires [[BindingMastery:]] 5
+Passive
+The effect of **Crystallize** now has a maximum duration in **hours**, not **turns of combat**.
+
+**Rooted**: 
+Costs 2PP, Requires [[BindingMastery:]] 5
+Passive	
+You are firmly rooted to the ground while Crystallized if the ground allows for it.
+
+**Prison:** 	    
+Costs 7PP, Requires [[BindingMastery:]] 6
+Passive
+Allows casting Crystallize on any living thing within [[BindingMastery]] metres. Requires a won [[BindingMastery]](normal) vs Willpower(normal) duel (an ally that knows whats happening may intentionally lose).
+
+**Partial Crystallization:** 
+Costs 3PP, Requires [[BindingMastery:]] 8
+Passive
+When casting **Crystallize** you may chose to have only part of your body affected. Keep in mind the crystallized body parts are completely immobile.
+	
+**Reinforce**:
+Costs 4PP, Requires [[BindingMastery:]] 7
+Passive
+Imbues any item without moving parts with unnatural strength. This effect lasts [[BindingMastery]] days. The item must weigh less than 10 kg and gets + [[BindingMastery]][[/2]] armor.
+
+**Crystalline Dermal Armor**: 
+Costs: 7PP, Requires [[BindingMastery:]] 6
+Passive
+Grants you a 3 point CombatRules:DamageThreshold and +1 to [[CombatRules:Armor]] at all times.
+Upon taking this Specialization roll again for the **Cristallized Skin** mutation if you don't already have it.
+					
+**Razor** **Shard:**  
+Costs 2PP, Requires [[BindingMastery:]] 3
+Glow: 3, 1 Action
+Somewhere on your body(your choice) you produce a sharp pike of crystal that can be used as a weapon(Hand To Hand, Like a one handed melee weapon +1 Damage) or cutting tool. You can break it off your body too! The shard is pretty brittle and will be unsuable after a day.
+		
+**Slicing Rage**: 
+Costs 6PP, Requires [[BindingMastery:]] 5, **Razor Shard** 
+ Passive
+ The **Razor shard** used as a weapon deals +2 damage.
+  You can also chose to instantly fire it off at range using your Shooting ability. It has a maximum effective range of 10 metres.
+		
+**Slicing Storm**: 
+Costs 4PP, Requires [[BindingMastery:]] 5, **Slicing Rage** 
+Cast: Glow 6, 1 Action
+Readies an arsenal of [[BindingMastery]] shards to be fired at enemies(see **Slicing Rage**). Each firing is an individual action but the cast is only done at the beginning.
+While you have 5 or more Shards on you all enemies in melee range take 2 damage every time they attack you.
+		  
+**Crystalline Fortress**
+Costs 4PP, Requires [[BindingMastery:]] 7, **Razor Shard**
+Cast: Glow 12, 1 Action
+In a circle with radius of 4 metres crystals protude form the ground. This deals 1D6+2 damage which is also repeated everytime anyone starts or ends a move action in there. The circle lasts [[BindingMastery]] minutes.
+
+**Sculpture**
+Costs 5PP, Requires [[BindingMastery:]] 10
+Cast: Glow 12, 2-10 Actions
+Make a sculpture of crystal with filigrane forms and shaped as you wish. Maximum mass 5*[[BindingMastery]] kilograms.
+The sculpture lasts up to 5 hours with the finest parts dissolving first.
+
+
+=== Low Stability ===
+**Stasis**: Character isolates himself and attempts to move as little as possible. When forced to move or act the character gains a malus of 2 for all physical activities and -1 Action in combat.
+

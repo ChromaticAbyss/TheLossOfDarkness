@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-15T14:36:00+02:00
+
+====== Stability ======
+Created Dienstag 15 September 2015
+
+Derived Stat
+Maximum is 10 (+ the characters Willpower)
+
+The amount of insanity a characters mind can endure. Stability loss usually occurs when seeing something extremely gruesome or otherwordly entities. Stability loss is also common when obtaining bindings and using their abilities excssively.
+
+On a regular day that has enough sleep and no further unease to the mind a character regenerates one point of Stability.
+
+The following penalties apply on certain thresholds of stability.
+A character reduced to **5** **Stability** or less suffers from a **psychotic episode** what exactly happens depends on the trigger for the stability loss and the character in question. The effect magnifies the lower the stability goes. This lasts 6-Stability hours after the triggering event. -2 to Willpower. 
+A character reduced to **0 Stability** or below will stay in the state until positive **Stability** is reached again, also [[Glow]] does not Decay. 
+A character reduced to the **negative of his maximum Stability** or less is **unrecoveably insane** the only options are to either kill them or lock them away so they are no danger to others.
+
+**Psychotic Episodes**
+A temporary madness overcomes the character, chose from the list fitting the character and situation. 
+Characters that have bindings instead determine one of their bindings and use the **"low Stability"** entry they have, if a cast made by you was the source of the stability loss use the respective binding.
+A special effect given by the source of stability loss overrides the generic effects by character/binding/cast. A binding attempts to change a character more and more: Every 12 full hours a character spends at 0 stability or below have to retake all rolls for Mutations and Burn Table entries (mutations don't usually stack, burn table entries do)
+
+Despair/Apathy()
+Agression(strife comes up over the littlest of things, in combat everything is thrown at the enemy with no thoughts of retreat)
+Fear(run away from everything remotely threatening, -1 all mental Attributes)
+Confusion(roll for even the simplest actions D20 if the Stability below 5 is greater it fails)
+Disbelief(character thinks he is in a dream, acts as everything still was normal, grossly ignoring potential threats)
+Hallucinations(Character may hallucinate things of various complexity. Modified **normal** Awareness checks to discern between illusion and reality, -1 per point of Stability below 5)

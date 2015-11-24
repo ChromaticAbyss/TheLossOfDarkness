@@ -1,0 +1,70 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-05T11:35:27+02:00
+
+====== Cover ======
+Created Saturday 05 September 2015
+
+A characters ability to seek cover in a fight while in the best case still participating in it.
+
+=== Attributes ===
+**Dexterity**, Awareness
+
+
+
+=== Incompetent ===
+-
+
+=== Beginner ===
+**Requirements**: Dexterity 1, Awareness 0 (one of them 2)
+**Cost**: 5 PP
+
+
+=== Intermediate ===
+**Requirements**: Dexterity 1, Awareness 1 (one of them 3)
+**Cost**: 10 PP
+
+
+=== Experienced ===
+**Requirements**: Dexterity 2, Awareness 2 (one of them 3)
+**Cost**: 20 PP
+
+
+=== Professional ===
+**Requirements**: Dexterity 3, Awareness 3 (one of them 4)
+**Cost**: 40 PP
+
+
+=== Legend ===
+**Requirements**: Dexterity 4, Awareness 4 (one of them 6)
+**Cost**: 80 PP
+
+
+
+
+=== Specialisations ===
+**Survival Instinct**
+**Requirements**: Intermediate, Awareness 3
+**Cost**: 5 PP
+Passive
+Increases the maximum cover effectiveness any object can give to you by one point.
+
+
+**Covered Advance**
+**Requirements**: Intermediate, Awareness and Dexterity 3
+**Cost**: 5 PP
+Passive
+You may use a move action while covered if the terrain allows for it. This reduces your previous cover rating by 1 each time you do this.
+
+
+**Evasive Movements**
+**Requirements**: Experienced, Dexterity 4
+**Cost**: 5 PP
+Passive
+Move in patterns that make you a bad target. You gain a Cover rating of 2 when using this as your Move Action(you can move up to half the regular distance doing this).
+
+
+=== Character Generation Modifiers ===
+**Starting Equipment**: 
+Experienced+: You start with 1D3 medium quality [[Items:Weapons(Throwing):SmokeGrenade|Smoke Grenades]].
+

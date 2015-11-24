@@ -1,0 +1,60 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-05T12:02:56+02:00
+
+====== Negotiation ======
+Created Saturday 05 September 2015
+
+Negotiation is the skill of making good deals that all parties can accept. In the ideal case these deals favour you without the other parties noticing.
+
+
+=== Attributes ===
+**Intelligence**, Willpwoer
+
+
+
+=== Incompetent ===
+-
+
+=== Beginner ===
+**Requirements**: Intelligence 2, Willpower 1
+**Cost**: 5 PP
+
+
+=== Intermediate ===
+**Requirements**: Intelligence 3, Willpower 1
+**Cost**: 10 PP
+
+
+=== Experienced ===
+**Requirements**: Intelligence 4, Willpower 2
+**Cost**: 20 PP
+
+
+=== Professional ===
+**Requirements**: Intelligence 5, Willpower 3
+**Cost**: 40 PP
+
+
+=== Legend ===
+**Requirements**: Intelligence 6, Willpower 4
+**Cost**: 80 PP
+
+
+
+
+=== Specialisations ===
+**Bargaining**
+**Requirements**: Beginner
+**Cost**:5 PP
+Passive
++1 Modifier when bargaining for the price of an item
+
+
+=== Character Generation Modifiers ===
+**Starting Equipment**: 
+Beginner: You start with 30 TU worth of common items or currency.
+Intermediate: You start with 60 TU worth of common items or currency.
+Experienced: You start with 100 TU worth of common items or currency.
+Professional: You start with 250 TU worth of common items or currency.
+Specialisation bargaining: +50 TU worth of common items or currency.

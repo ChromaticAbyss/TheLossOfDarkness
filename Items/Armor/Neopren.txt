@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-08-08T16:58:24+02:00
+
+====== Neopren ======
+Created Saturday 08 August 2015
+
+A powerful thermal and electric insulator that can be worn beneath certain other types of armor.
+Its as effective as thick clothing while it doesn't reduce mobility.
+
+=== General Item Stats ===
+**Wgt**: 1 kg
+**Durability**: Low(mechanical damage)
+**Est Value(Wilderness)**: 100 Army Rations
+**Est Value(Cities)**: 100 TU
+
+
+=== Armor Stats ===
+**Zones**: Full
+**Pierce Armor**:0
+**Blunt Armor**: 0
+**Cold Protection**: 4
+**Electrical Protection**: 4
+**Radiation Protection**: 1
+**Mali**: 0

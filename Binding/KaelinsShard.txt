@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-30T19:42:51+02:00
+
+====== KaelinsShard ======
+Created Mittwoch 30 September 2015
+
+Exists in physical form(crystalline) even as unbound.
+Art: Floating runes etc.
+
+Abilities:
+
+Kaelins Horizon - Grants a shield of x floating runes. Each rune absobs a wound. If during the duration the shield is reduced to 0 all wounds are applied to random zones.
+
+Ghastly Blaze - Adds Glow to a target that has a Binding
+
+Reduce - Spell that is harder to resist and deals more damage the more Glow a target has
+
+Spirit Blade - Creates a spectral copy of the shard that is able to deal Stun unbound on a successfull melee attack, deals 1D6 stun damage. Vs persons with a binding a triggered stun only make it impossible for them to use binding abilities.
+
+Tether - Connects to a person with a Binding. Lasts X, max Range Y. While casting both characters gain half of the Glow of the spell. Can be cast on enemies but they can resist it.

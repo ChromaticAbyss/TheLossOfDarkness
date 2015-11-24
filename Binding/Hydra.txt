@@ -1,0 +1,81 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-29T11:00:19+02:00
+
+====== Hydra ======
+Created Monday 29 June 2015
+
+
+
+Note: Related to the item [[Items:Healing And Drugs:Animoplasm|Animo/HydraPlasm]] which has a distorted and diluted version of this creature. Hydra is very volatile and loves to find hosts to infect so it will not be found as an [[Unbound]]. If a character for any reason wants this binding they need to find an unbroken binding containment that has a Hydra(which is rare) or inject themselves with a lot of [[Items:Healing And Drugs:Animoplasm|Hydraplasm]].
+
+
+
+
+
+
+**Binding Process:** 
+[[Binding|Stability]]: Hard difficulty (+0)
+
+
+[[Binding|Mutation:]] Hard difficulty (+0)  
+		**Reshaping Flesh**: Roll a serious mutation from the [[Binding:Hydra:Hydra Mutations|Hydra mutations]] table. 
+		Once a year roll a **Hard** Resistance check and on failure repeat this process.
+
+[[Binding|Mutation:]] Hard difficulty (+0)  
+	**          Changed Flesh**: Roll two small mutations from the [[Binding:Hydra:Hydra Mutations|Hydra mutations]] table. 
+
+[[Binding|Burn Table:]] Hard difficulty (+0)
+		**Continuus Decay:** If the triggering ability was a Hydra ability, roll a small mutations from the [[Binding:Hydra:Hydra Mutations|Hydra mutations]] table(if you have more than 30 [[Glow]] roll a serious one instead).  If it wasn't you just lose [[Glow]] / 10 Vitality.
+		**Special Rule**: No maximum of entries.
+
+
+[[Binding|Amalgamation]]: Hard difficulty
+
+
+
+=== Specialisations/Casts ===
+**Enhanced Healing**
+[Starting Cast]
+Glow: 8 , 1 Actions
+Start a healing surge that lasts [[BindingMastery]] turns and restores 2 Vitality each turn.
+	
+**Rapid Adaption**
+Cost: 3 PP, Requires [[BindingMastery:]] 5
+Glow: X * X, 2 Actions
+Quickly adapts the body for a specific task involving the attributes Burst, Dexterity or Endurance(rarely useful because most such tasks exceed the duration).
+The potency can be freely chosen as X but can not exceed half your [[BindingMastery:|BindingMastery.]]
+Lasts [[BindingMastery:|BindingMastery]] + X * 2 minutes, the bonus can be used as many times as needed during the duration but only for the chosen Ability/Attribute combo.
+
+**Close Wound**
+Cost: 5 PP, Requires [[BindingMastery:]] 5
+Passive
+If a Healing Surge reaches turn 5 you may remove a wound of your choice. This will increase your Glow by 4 additional points (roll again for Cast).
+This effect can be used another time at reaching turn 10.
+You can also roll your regular wound healing checks in 1 day shorter intervals and with a +2 bonus passively.
+
+		
+**Lifeguard**
+Cost: 3 PP, Requires [[BindingMastery:]] 5
+Passive
+When you drop to 0 or below you automatically cast **Enhanced Healing** to start a **Healing Surge**. The [[Glow]] costs are applies and Cast check automatically fails.
+Yes this can make it extremely hard to kill you.
+However the downside is everytime this triggers you have to roll for Hydra Mutations similarly to using the respective medicine.
+
+**Bioweapon** 
+Cost: 5 PP, Requires [[BindingMastery:]] 7
+Glow: 8 , 1 Actions
+Grants a temporary additional/shape shifted limb that serves as a powerful weapon.
+It is used via hand to hand and deals 1D6+1 damage.
+Lasts [[BindingMastery:|BindingMastery]] minutes.
+This ability can be purchased multiple times, each time the cost goes up by 1 PP, chose one effect on each purchase. These can stack, see the (+) symbol for which stats will increase.
+* Hand to Hand skill modifier of +1 (+)
+* Damage +1 (+) 
+* Poison: If you inflict a wound you apply a poison that deals 1(+) damage every turn of combat for 5 turns.
+
+
+=== Low Stability ===
+**Flesh over Mind**: The character obtains a small mutation each hour unless a Willpower check is passed(keep in mind the -1 for being below 5 Stability) if a mutation is obtained this way restore 2 Stability.
+
+
+

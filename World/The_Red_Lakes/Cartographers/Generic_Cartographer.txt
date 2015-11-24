@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-08-08T14:49:46+02:00
+
+====== Generic Cartographer ======
+Created Saturday 08 August 2015
+
+PP: 170
+
+Burst: 2
+
+Endurance: 4
+
+Dexterity: 3
+
+Willpower: 3
+
+Intelligence: 2
+
+Awareness: 5
+
+Shooting [Beginner]
+
+Hand To Hand [Beginner]
+
+Reflexes [Beginner]
+
+Cover [Beginner]
+
+Craft [Beginner]
+
+Herbalism [Intermediate]
+
+Mental Fortitude [Beginner]
+
+Scavenging [Beginner]
+
+Scouting [Professional]
+
+Stealth [Beginner]
+
+Zoology [Intermediate]

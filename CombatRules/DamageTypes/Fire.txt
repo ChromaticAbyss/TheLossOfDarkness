@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-10-25T22:03:28+01:00
+
+====== Fire ======
+Created Sonntag 25 Oktober 2015
+

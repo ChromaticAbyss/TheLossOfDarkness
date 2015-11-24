@@ -1,0 +1,113 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-07T14:20:42+02:00
+
+====== Example Binder ======
+Created Tuesday 07 July 2015
+
+The child of a shaman of the wastes, at least thats what he says about himself.
+
+**Notes:** The goal is to have quite a few bindings even beyond the starting ones. We should also look that the mutations and burn table entries stay low.
+
+Specials[0] 
+Bindings[60] Crystalline, Spectrum, Consuming 
+
+Abilities[89/90]
+Cast 4 				10
+Binding 6			21
+Willpower 5			15
+Mediation 2  			3
+			 -sum: 49
+Resistance 2			3
+Hand to Hand 2		3
+Cover 2				3
+Reflexes 2			3
+			-sum 61
+Language 3			6
+Negotiation 2		3
+Knowldge History 3	6
+			-sum 76
+			
+Binding 6 → 7 		7
+			-sum 83
+Willpower 5 → 6 		6
+			-sum 89
+			
+leaves 1 point, now to the bindings
+
+=== Binding Rolls [Crystalline]: ===
+(Willpower + Binding-ability)/2 is 7
+Maximum Stability is 15 so we  have 8 tries to nail this.
+Easy(7) 11 3 - success
+
+**Mutation rolls**
+Binding-ability + (Resistance /2) = 8
+**Cristallized Skin**: easy(8+3) 10 - -  success
+
+**Cristalline Keratin:** easy(8+3) 4 - -  success
+
+**Burn Table rolls:** 
+Binding-ability is 7
+
+**Crystalline Stasis** easy(7) 4 - - success
+
+**Crystalline Reflections **easy(7) 9 16 2 success
+
+**Crystalline Memory **easy(7) 9 2 - success
+
+we took neither mutations nor burn table entries which is very good for us.
+
+=== Binding Rolls [Spectrum]: ===
+(Willpower + Binding-ability)/2 is 7
+Maximum Stability is 15 so we  have 8 tries to nail this.
+Easy(7) 10 10 8 fail
+Easy(8) 7 - -  success
+
+**Mutation rolls**
+Binding-ability + (Resistance /2) = 8
+
+**Odd Eye Colour/Form** easy(8+5) 16 2 - success
+
+**Chromatic Confusion** easy(8+5) 5 - - success
+
+**Burn Table rolls:** 
+Binding-ability is 7
+
+**Spectral illumination** easy(7) 11 2 - success
+
+**Spectral overflow:** easy(7) 5 - success
+
+Once more we took neither mutations nor burn table entries which is very good for us.
+
+=== Binding Rolls [Consuming]: ===
+(Willpower + Binding-ability)/2 is 7
+Maximum Stability is 15 so we  have 8 tries to nail this.
+Easy(7) 7 - - success
+
+**Mutation rolls**
+Binding-ability + (Resistance /2) = 8
+
+**Sharp Teeth** easy(8+5) 4 - - success
+
+**Constant Hunger** easy(8+0) 20 12 12 fail
+		- Another binge eater to compete with the Hunter archetype
+		
+**Fat:** easy(8+7) 5 - - success
+
+**Unhingable Jaw:** easy(8+3) 18 6 - success
+
+**Cannibal:** very easy(8+4) auto success
+
+**Burn Table rolls:** 
+Binding-ability is 7
+
+**Hunger** easy(8+0) 4 - - success
+
+**Feeding on the host** easy(8+0) 7 - - success
+
+We take a total of one Mutation and 0 Burn Table entries generating a powerful and very versatile caster. The risk of stacking a ton of [[Glow]] is basically nonexistant so that this character can focus on mastering the Bindings he has and does not have to invest into Cast very soon.
+Hes also reasonably equipped for aquiring more bindings in the future both due to his great skill and the almost complete lack of sideeffects.
+He had to pay a hefty 60 points for the three bindings at character generation but the fact that he got basically no downside from them should make up for that cost easily.
+
+
+

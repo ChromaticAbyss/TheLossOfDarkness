@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-30T16:47:16+02:00
+
+====== Hunting Rifle ======
+Created Tuesday 30 June 2015
+
+A long barreled weapon best suited for prone shooting. It has a low rate of fire but can very likely take down a target with a single round.
+
+=== General Item Stats ===
+**Wgt**: 3kg
+**Durability**: ?
+**Est Value(Wilderness)**: 80 Army Rations
+**Est Value(Cities)**:  50 TU
+
+=== Crafting Stats ===
+...
+
+=== Combat Stats: ===
+**Range**: 200 metres
+**Damage**: 2D6+2
+**Reload**:
+   **every X uses**: 1
+**   takes:** 1 Actions(only check at the last)
+**Recoil**: 4
+**Size**: Large, Two Hands 
+
+=== Ammunition: ===
+**Rifle Round:**
+	**Est Value(Wilderness)**: 1 Army Rations
+	**Est Value(Cities)**:  0.2 TU
+
+
+
+
+
+=== Variants ===
+Built in Scope: Range+50 Metres while using the Aim action, Cost + 40 Rations/TU

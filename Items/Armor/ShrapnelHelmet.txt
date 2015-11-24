@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-08-08T16:07:48+02:00
+
+====== ShrapnelHelmet ======
+Created Saturday 08 August 2015
+
+A motorcycle or thin metal helmet that protects the head for blunt impacts and shrapnel, most likely will not sotp a bullet.
+
+=== General Item Stats ===
+**Wgt**: 1kg
+**Durability**: ?
+**Est Value(Wilderness)**: 10 Army Rations
+**Est Value(Cities)**:  20 TU
+
+
+=== Armor Stats ===
+**Zones**: Head
+**Pierce Armor**: 2
+**Blunt Armor**: 2
+**Cold Protection**: 0
+**Mali**: -1 perception

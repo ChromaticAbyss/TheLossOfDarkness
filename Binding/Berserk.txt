@@ -1,0 +1,73 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-26T19:49:26+02:00
+
+====== Berserk ======
+Created Friday 26 June 2015
+
+An entity of pure rage is bound within the character. When unleashed it turns the character into a primal beast that feels no pain and fights tooth and nail until every hostile(or thing they think of as hostiles) is dead.
+
+
+[[ProgressPoints|PP]]-cost on character generation: 20
+
+
+=== Binding Process ===
+[[Binding|Stability]]: Normal difficulty (-2)
+[[Binding|Mutation:]] Hard difficulty (+2)  
+		**Seeing Red**: If the character drops below 5 Hp **Berserk** automatically activates, the glow cost still applies and the Cast check fails automatically if one would be needed.
+		
+[[Binding|Mutation:]] Hard difficulty (+2)  
+		**No pain receptors:** You don't ever get to see your characters Hp without spending 2 Actions checking yourself for wounds. Even then you wont notice any internal wounds. You never take any penalties due to pain.
+
+[[Binding|Mutation:]] Hard difficulty (+5)  
+		**Unintelligible Rage:** While **Berserking** you can only scream and produce animalistic sounds, not form words.
+
+
+[[Binding|Burn Table:]] Hard difficulty (+0)
+		**Berserk:** If your [[Glow]] is 10 or higher and you are in a combat situation you immediately activate **Berserk**. The glow cost still applies and the cast check automatically fails should one be needed.
+
+[[Binding|Burn Table:]] Hard difficulty (+0)
+		**Numbness:** You take a tenth of you [[Glow]] amount as damage to your Stability, as all your regular senses push into the background.
+	  
+
+[[Binding|Amalgamation]]: Normal difficulty
+
+=== Specialisations/Casts ===
+**Berserk**
+[Starting Cast]
+Glow: 3 , 1 Action
+The character enters berserking mode which means the player no longer sees the amount of Vitality the character has. 
+The character does not get any penalties due to pain and will fight until they bleed out staying at full combat capacity until they reach -max Vitality at which point they drop dead. They still take bleedout damage tough!
+Gains an extra action each turn only usable as an attack, Melee attacks also deal +1 damage.
+ Also a Berserking character is less perceptive of his enviournment, Reflexes and Perception , Cover suffer a -2 modifer. 
+ After the last hostile has fallen the character must roll a Willpower(normal) check to calm down or he keeps attacking allies. Its also possible to cancel the berserk after 5 or more turns of combat even with hostiles around, this is a Willpower(hard) check.
+	   
+
+**Squad leader** 
+Costs 4PP, Requires [[BindingMastery:]] 8
+Passive
+ You can cast Berserk any amount of Allies within 10 metres in addition, each target increases glow cost by 2, maximum [[Glow]] cost is 15.
+		
+**Burst of Speed**
+Costs 3PP, Requires [[BindingMastery:]] 3
+Glow: 7 , 0 Actions
+Cast while **Berserking** to gain +1Action(Move only) and +1Action(Attack only) for this turn of combat.
+
+**Blast of Rage** 
+Costs 3PP, Requires [[BindingMastery:]] 4
+Glow: 7 , 0 Actions
+Cast while **Berserking** to gain +[[Binding:BindingMastery|BindingMastery]] /2 damage to your next attack. Must be within this turn of combat, if the attack misses the bonus is lost.
+
+**Fueled by Pain**
+Costs 5PP, Requires [[BindingMastery:]] 6
+ Passive
+When taking a wound while not Berserking or otherwise suppressing wound pain you gain an Action and can cast **Berserk** instantly for no action cost.
+
+**Bloodborn**  
+Costs 5PP, Requires [[BindingMastery:]] 7
+Passive
+You don't take bleedout damage while **Berserking**.
+
+
+=== Low Stability ===
+Memories of Pain flood back into the characters mind blotting out all courage: -2 Willpower, -1 all other Attributes. No painkiller or anything will alleviate this pain for the duration. The character also has a chance to enter Berserker Rage when provoked (roll a D20 on the comparative severity) which lasts at least 5 turns of combat. The taunting person is the hostile as well as everyone assisting or trying to sperate the fight.

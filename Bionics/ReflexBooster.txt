@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-28T22:43:48+02:00
+
+====== ReflexBooster ======
+Created Sunday 28 June 2015
+
+Slots: Eye(1),Spine,Brain(1)
+Plasticity cost: 2
+
+Allows dueling with against shooting attacks using Reflexes , this is a **hard** check. 
+Grants a +2 modifier to the Reflexes skill.

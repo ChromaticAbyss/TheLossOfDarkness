@@ -1,0 +1,55 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-05T12:16:47+02:00
+
+====== SelfControl ======
+Created Saturday 05 September 2015
+
+A characters ability to go beyond their limits, endure pain and not give out information when bombarded with fast talk.
+
+=== Attributes ===
+**Willpower**
+
+
+
+=== Incompetent ===
+-
+
+=== Beginner ===
+**Requirements**: Willpower 2
+**Cost**: 5 PP
+
+
+=== Intermediate ===
+**Requirements**: Willpower 3
+**Cost**: 10 PP
+
+
+=== Experienced ===
+**Requirements**: Willpower 4, Endurance 3
+**Cost**: 20 PP
+
+
+=== Professional ===
+**Requirements**: Willpower 5,Endurance 4
+**Cost**: 40 PP
+
+
+=== Legend ===
+**Requirements**: Willpower 6, Endurance 5
+**Cost**: 80 PP
+
+
+
+
+=== Specialisations ===
+**Pain Resistance**
+**Requirements**: Intermediate
+**Cost**: 5 PP
+Passive
++1 modifier whenever you try to ignore pain either from wounds or otherwise.
+
+
+
+=== Character Generation Modifiers ===
+

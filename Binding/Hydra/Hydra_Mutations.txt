@@ -1,0 +1,61 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-28T12:30:12+02:00
+
+====== Hydra Mutations ======
+Created Tuesday 28 July 2015
+
+The Hydra Binding and the Hydra Medicine can both cause similar mutations. The special thing about Hydra is the vast amount of chaotic mutations that can occur.
+There are two tables here: Small and Serious mutations, on a prompt roll a D20 and look up the respective table.
+
+If there is any talk of a "zone" it means the zone the medicine was appplied to, a wound was healed from or a randomly determined zone.
+These mutations usually deveop over the course of a month but may appear much faster in the context of a fresh binding.
+
+[Small]
+1. Nothing happens
+2. Weird Skin: The skin around one zone of the body takes on a destinct, gross loking colour and texture. This may grant you a negative modifier to social skills if seen by a person that dislikes mutants.
+3. ^
+4. Weird crawling: A weird crawling feeling within the flesh that is most noticable during attempted relaxation. Grants a -1 modifier to the Meditation skill.
+5. ^
+6. Oozing: Zone produces weird black ooze at all times which may be hard to conceal.
+7. ^
+8. Black Spirit: Thin black tentacles grow from the body zone. These move on their own, sometimes attempting to snatch and consume small animals that pass by them.
+9. ^
+10. ^ 
+11. ^
+12. Rapid Hair Growth (in that zone)
+13. Extreme Fertility(Zone irrelevant): The character is extremely fertile but tends to produce heavily mutated children.
+
+
+
+
+
+
+
+
+
+
+[Serious]
+1. Roll a small Mutation instead
+2. ^ 
+3. Black Spirit: Longer and thicker tentacle growth. If you expend 1 plasticity you can learn to use them like a limb, otherwise they move on their own like described above. Zone counts as [[Bionics|mutated]].
+4. ^
+5. ^
+6. ^
+7. ^
+8. Deformed: The respective zone is heavyly deformed, this counts as a permanent wound on that position, also as a [[Bionics|mutated]] zone.
+9. ^
+10. ^ 
+11. ^
+12. ^
+13. ^
+14. Duplicate: If the respective zone is a limb it grows a duplicate. This duplicate can be used normally if you expend 1plasticity. The new limb counts as mutated. If the zone is Torso an insternal organ duplicates and squishes the other organs(-1 max Vitality, torso mutated). On the head this may be an extra eye, mouth etc.(-2 social skills,-1 max stability head mutated)
+15. ^
+16. ^
+17. ^
+18. General decay: Chose a random unmutated zone on the body. This zone is now [[Bionics|mutated]] by lots of tiny changes. Also you lose -1 max Vitality or Stability (your choice)
+19. General decay: Chose a random unmutated zone on the body. This zone is now [[Bionics|mutated]] by lots of tiny changes. Also you lose -1 max Vitality or Stability (your choice)
+20. Roll two serious hydra mutations, one for this zone and one for an adjacent one.
+
+
+

@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-08T21:57:14+02:00
+
+====== TwoHandedMeleeWeapon ======
+Created Wednesday 08 July 2015
+
+Sledgehammer, Longsword, Chainsaw etc.
+
+Deals 1D6+5

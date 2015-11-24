@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-28T23:10:10+02:00
+
+====== VitalReader ======
+Created Sunday 28 June 2015
+
+Slots: Chest
+Plasticity cost: 0
+
+Constantly monitors your vital values. Persons who know the technology(Bionics 3+) get a +2 modifier when practicing Medicine on you.

@@ -1,0 +1,49 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-28T22:05:59+02:00
+
+====== CombatRules ======
+Created Sunday 28 June 2015
+Combat in this system is designed to be extremely deadly. Going in on a fight against enemies that commonly have a similar level of competence to the player characters can prove deadly extremely fast without a proper layering of survival strategies.
+Its less about rolling a lot of dice and using your high stats and more about squeezing every single advantage you can get out of the system. 
+
+
+
+Order of combatants:
+To make managing them as easy as possible all allied combatants are grouped. Which group goes first is determined by who has the leader with the highest tactics ability(prerequisite: A plan was actually made and its not an ambush etc).
+Usually a combat starts with the longest range weapon being just in range while the other need to close the gap first, certain setups(i.e. indoors) might make this irrelevant tough.
+
+Each character has one Action and one Move per turn by default.
+
+**Action**:	Attack(Melee weapon or throwing weapon) 
+		 Attack with your melee weapon by making a duel: Hand to Hand(normal) vs Reflexes(normal). If you win the duel roll damage for your weapon and apply it.
+		Using a weapon you are not used to makes your part of the duel a **hard** roll, being surrounded by at least 3 enemies without any allies nearby makes the defense a **hard** roll.
+	
+**Action**:	Attack(Ranged weapon) 
+		 Attack with your melee weapon by making a duel: Shooting(normal) vs Cover. Keep in mind that the cover roll is done once 
+		 If you win the duel roll damage for your weapon and apply it.
+		Using a weapon you are not used to makes your part of the duel a **hard** roll.
+
+**Action:** Reload(mostly ranged weapons)
+		  Reload your ranged weapons magazines, to do so fast and without jamming your weapon you must pass a Shooting(easy) check(this can be ignored with a specialisation of shooting).
+		The check my be **normal** or even **hard** for weapons you are not used to / don't know.
+
+
+**Move:** Normal Move
+	  Move up to 3 metres. If you intend to traverse an obstacle you may need to roll a check on the respective ability.
+
+**Move+Action**: Sprint
+	 Move up to 6 metres.  If you intend to traverse an obstacle you may need to roll a check on the respective ability, this check is one category **harder** than usual.
+
+**Action**: Take cover 
+Assume a covered position that still allows participation in combat. Roll a  Cover(normal) check to see what quality of cover you find/ how well you use it. Very open terrain may have a maximum achievable cover value.
+On moving the Cover is usually lost.
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-28T23:01:19+02:00
+
+====== NeurohubAdapter ======
+Created Sunday 28 June 2015
+
+This is an adapter located in one brain hemisphere that allows connecting two brain based Bionics.
+
+Slots: Brain(1)
+Plasticity cost: 2
+Grants two additional slots for Brain Bionics. The functionality of these rests completely on this implant doing its job properly.

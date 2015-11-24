@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-12T23:48:36+02:00
+
+====== Carbo City ======
+Created Sunday 12 July 2015
+
+{{../../../Pictures/CarboCity_Map.png?width=800}}
+
+**Population**: ~3000 Citizens, ~2000 Slum inhabitants
+**Location**: Last Lake
+
+**Notables**: 
+The mud river flows into the "last lake" near this town and is used for **hydroelectric power** generation and **river docks**. 
+Industrial and even slum areas are fortified by automatic **gunturrets** every few hundred metres, that scan and warn human intruders but won't open fire unless someone gets very close to them(self defense)
+A r**efinery** that turns red algae into fuel, a large **fish processing factory**. A few square kilometers of famland that is irrigated by the mud river and a sink for the factories biowaste.
+
+**Connections**: 
+The red ring road leads "eastward" wards Lithium city and "westward"  the morgue road goes to Spires. A small boat may take you upwards the mud river. 
+Ships can cross the last lake to reach Aqua, Oxygen, Lithium and Hydrogen city.
+
+**Government:**
+This city is ruled by 3 big families: 
+The Gevera which own the hydroelectric plant, the refinery and a lot of the farmland by proxy.
+The Estra Haba which own the carbon works, the city police, the gunworks and most of the dock infrastructure.
+The Reffa which own the fish processing plant alongside three fishing trawlers on the lakes, they also have control over most estabilshments in town.
+
+Carbo city sends 5 council members to Hydrogen city usually 2 Gevera, 2 Din Haba and 1 Reffa. internally the order is controlled mostly by the Gavellis and the Reffas due to their control over the masses.
+The way their descision making works is not visible to the normal citizens of the city but is usually fair. 
+It helps that the families all are known for discipline and lack of decadence so that only the people in the slums sometimes get violent.

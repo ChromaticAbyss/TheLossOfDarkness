@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-07T22:30:08+02:00
+
+====== Isotonic Solution ======
+Created Tuesday 07 July 2015
+
+A medic can use this solution to balance out strong bleeding and prevent an instant collapse due to pressure loss.
+
+=== General Item Stats ===
+**Wgt**: 1kg
+**Durability**: ?
+**Est Value**: 1 Army Rations
+
+=== Crafting Stats ===
+
+
+
+=== Lesser Quality ===
+**Effect**: Grants the target a puffer of 5 points from which half of the bleeding damage is taken until its consumed.
+**Side Effect**: Deals one point of Vitality damage.
+**Duration**: 1 hour
+**Apllication Duration**: 2 Actions
+
+=== Medium Quality ===
+**Effect**: Grants the target a puffer of 10 points from which half of the bleeding damage is taken until its consumed.
+**Side Effect**: -
+**Duration**: 1 hour
+**Apllication Duration**: 2 Actions
+
+
+=== High Quality ===
+**-**
+
+
+
+
+=== Addiction ===
+**-**

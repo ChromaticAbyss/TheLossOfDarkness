@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-08-08T16:26:56+02:00
+
+====== Carbon ======
+Created Saturday 08 August 2015
+
+This marvel of technology is as light as a leather armor and can stop bullets as well as steel can. The major downside aside form the price is that carbon tends to splinter into thousands of sharp shards when broken so that everything that actually penetrates the armor does full damage.
+
+=== General Item Stats ===
+**Wgt**: 4 kg
+**Durability**: ?
+**Est Value(Wilderness)**: 400 Army Rations
+**Est Value(Cities)**: 400 TU
+
+
+=== Armor Stats ===
+**Zones**: Varies, the most common variant is only for the chest. Additional zones cost +100 TU each.
+**Pierce Armor**: 5, **Special Rule**: If this armor is penetrated the damage is not reduced by the value.
+**Blunt Armor**: 2
+**Cold Protection**: 1
+**Radiation Protection**: 1
+**Mali**: -1
+
+
+
+=== Variants and Modifications ===
+**Harness: **A more rigid construction offers slightly better protection, Pierce Armor 6, Price 600 TU, Mali are -2, chest only 
+**Invisible**: The armor doesn't look much different from commonly worn leather/thick clothing. Price +50 TU.
+

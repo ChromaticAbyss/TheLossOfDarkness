@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-07T12:18:17+02:00
+
+====== Example Spark ======
+Created Tuesday 07 July 2015
+
+Spark is a technician with a love for spicy food and gambling. Hes also known to sleep only very little each day.
+
+He demonstrates a character that only invests in abilities.
+
+150 Points
+
+Specials[0] -
+Bindings[0] -
+
+Abilities[149]
+Perception 3			6
+Crafting 7:  			28
+Scavenging 7 		28
+Hand To Hand 3		6
+Cover 2				3
+Tactics 4			10
+Reflexes	1			1
+Driving 4			10
+Language 3			6
+Fast Talk 3			6
+Negotiation 3		6
+Knowledge Cities 3	6
+Knowledge Cultures 3	6
+Hacking 3			6
+Bionics 3			6
+Willpower 2			3
+
+
+1 leftover point
+

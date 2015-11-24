@@ -1,0 +1,53 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-17T22:11:35+02:00
+
+====== Tactics ======
+Created Donnerstag 17 September 2015
+
+The art of coming up with plans and fighting schemes for most effective engagements. If the skillcheck succeeds the plan from Tactics always beats out Reflexes in terms of initiative. If it fails Refleyxes still can be used.
+If both parties have a successful plan the party with the most leftover points wins out. 
+Tactic rolls should not replace coming up with a plan at the table but can be used to spot obvious flaws if needed. Well planned operations can recieve a bonus to the roll.
+
+=== Attributes ===
+**Intelligence**
+
+
+=== Incompetent ===
+-
+
+=== Beginner ===
+**Requirements**: Intelligence 3
+**Cost**: 5 PP
+
+
+=== Intermediate ===
+**Requirements**: Intelligence 4
+**Cost**: 10 PP
+
+
+=== Experienced ===
+**Requirements**: Intelligence 5
+**Cost**: 20 PP
+
+
+=== Professional ===
+**Requirements**: Intelligence 6
+**Cost**: 40 PP
+
+
+=== Legend ===
+**Requirements**: Intelligence 7
+**Cost**: 80 PP
+
+
+
+
+=== Specialisations ===
+
+
+=== Character Generation Modifiers ===
+**Background**: Usually some kind of criminal/military/leader.
+
+
+

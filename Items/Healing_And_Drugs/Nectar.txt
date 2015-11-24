@@ -1,0 +1,53 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-05T19:23:36+02:00
+
+====== Nectar ======
+Created Saturday 05 September 2015
+
+Nectar is a sweet plant based substance with is mildly hallucinogenic and increases endurance. Its commonly used as a recreational drug and commonly in combination with other intoxicating substances like alcohol.
+Its very common to find in cocktails and "sweet beer", its widely portrayed to be completely safe and compared to a lot of other things it might even be. 
+
+
+=== General Item Stats ===
+**Wgt**: neglectible
+**Durability**: -
+**Est Value**: 2 TU
+
+=== Crafting ===
+**Materials**: 5 [[World:Plants:AlageenaFlower|Alageena Flower leaves]], 0.2 kg honey or sugar, 1 [[World:Plants:Kadra|Kadra root]] 
+**Duration:** 10 minutes to set up, then needs to rest 1 day.
+**Check:** Crafting + Intelligence (normal)
+[Failure] 1D3 doses of nectar (lesser quality)
+[Success] 1D3+3 doses of Nectar (medium quality)
+[Success 5+] 6 doses of Nectar (high quality)
+
+=== Lesser Quality ===
+**Effect**: Euphoria, +1 Endurance
+**Side Effect**: Alcohol is 50% more intoxicating.
+**Duration**: 1 hour.
+**Addiction**: +1D3
+**Application**: varies, rarely taken pure.
+
+=== Medium Quality ===
+**Effect**: Euphoria, +2 Endurance, Mild hallucinations
+**Side Effect**: Alcohol is 50% more intoxicating.
+**Duration**: 2 hours.
+**Addiction**: +3
+**Application**: varies, rarely taken pure.
+
+
+=== High Quality ===
+**Effect**: Euphoria, +3 Endurance, Mild hallucinations
+**Side Effect**: Alcohol is 50% more intoxicating.
+**Duration**: 3 hours.
+**Addiction**: +4
+**Application**: varies, rarely taken pure.
+
+
+
+=== Addiction ===
+**Fall off**: 1/day
+**Resistance Threshold**: 45
+**Addiction Threshold**: 30
+**Withdrawl**: Depression, -1 maximum Stability

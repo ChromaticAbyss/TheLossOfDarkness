@@ -1,0 +1,56 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-03T23:08:32+02:00
+
+====== ThirdEye ======
+Created Donnerstag 03 September 2015
+
+A drug that enhances vision in a multitude of ways.
+Usually comes in the form of eye drops or is released directly into the brain via an implant.
+Its pretty rare and expensive.
+
+=== General Item Stats ===
+**Wgt**: neglectible
+**Durability**: -
+**Est Value**: 50 TU
+
+
+=== Lesser Quality ===
+**Effect**: Grants +2 Awareness.
+**Side Effect**: -1 Willpower.
+**Duration**: 30 min
+**Addiction**: +3
+**Application**: 2 Actions
+
+=== Medium Quality ===
+**Effect**: Grants +2 Awareness.
+**Effect:** Random extension of senses 1D6
+1. Infrared Vision
+2. X Ray vision (passive)
+3. Extreme Touch sensitivity (+3 modifier)
+4. Empowered sense of smell (+3 modifier)
+5. Gain sensory input of random people within 20 metres around you.
+6. Ultrasound perception
+**Side Effect**: -
+**Duration**: 30 Minutes
+**Addiction**: +4
+**Application**: 2 Actions
+
+=== High Quality ===
+**Effect**: Grants +2 Awareness.
+**Effect:** 
+1. Can see electrical current/feel magnetic fields
+2. Grants True Sight with all the advantages and disadvantages that brings.
+3+. Choose any from the medium category
+
+**Side Effect**: -
+**Duration**: 30 Minutes
+**Addiction**: +6
+**Application**: 2 Actions
+
+
+=== Addiction ===
+**Fall off**: 1/hour
+**Resistance Threshold**: 8
+**Addiction Threshold**: 16
+**Withdrawl**: -1 Awareness and Willpower

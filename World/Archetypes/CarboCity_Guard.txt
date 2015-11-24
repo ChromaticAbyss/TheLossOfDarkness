@@ -1,0 +1,67 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-18T10:11:02+02:00
+
+====== CarboCity Guard ======
+Created Freitag 18 September 2015
+
+
+
+=== Variable Stats ===
+[[Attributes:Vitality|Vitality]]		 
+Maximum	: 14
+Current		: 14
+
+[[Attributes:Stability|Stability]] 		
+Maximum	: 12
+Current    	: 12
+Common psychosis: Confusion
+
+[[Attributes:WoundThreshold|Wounds]]
+Treshold	:  5
+
+[[Attributes:GlowThreshold|Glow]]		
+Threshold	: -
+Current		: -
+
+[[Attributes:Plasticity|Plasticity]]
+Available	: -
+Used		: -
+
+**Other temporary effects** (enter wounds, diseases etc. here)
+
+
+=== Attributes ===
+Burst		: 3
+Endurance	: 4
+Dexterity	: 3
+Willpower	: 2 
+Intelligence	: 3
+Awareness	: 3
+
+=== Abilities ===
+**Name 	[Beginner][Intermediate][Experienced][Professional][Legend]**
+		  **Specialisations**
+
+Cover[Intermediate]		-15
+HandToHand[Intermediate]	-15
+Medic[Beginner]			-5
+Reflexes[Intermediate]		-15
+Scouting[Intermediate]	-15
+Shooting[Intermediate]	-15
+Routine -5, Deadly Aim -5
+Tactics[Intermediate]		-15
+				Sum 105
+
+
+=== Equipment ===
+[Weight] Name, important stats
+Carbon Armor, Chest, Legs: Pierce Armor  5 (0 reduction if penetrated), Blunt Armor 2
+Riot Shield(Carbon Variant) Reflexes duel redirects damage to left arm (Left Arm Pierce 4, Blunt 2)
+Nightstick(1h melee) 1D6+2
+9mm standart police gun: 25 metres, 1D6+3, 4D6 Ammo
+Sometimes: Sonic Gun, Shotgun
+
+
+
+

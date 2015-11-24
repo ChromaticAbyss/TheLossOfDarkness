@@ -1,0 +1,64 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-05T13:45:42+02:00
+
+====== Zoology ======
+Created Saturday 05 September 2015
+
+Knowledge of dangerous and huntable animals and common mutated variants.
+Can also infer unknown creatures abilities from known ones.
+This ability also includes laying traps for animals.
+
+
+
+=== Attributes ===
+**Intelligence, Awareness**, Endurance(hunting)
+
+
+
+=== Incompetent ===
+-
+
+=== Beginner ===
+**Requirements**: Intelligence 2, Awareness 1
+**Cost**: 5 PP
+
+
+=== Intermediate ===
+**Requirements**: Intelligence 2, Awareness 3
+**Cost**: 10 PP
+
+
+=== Experienced ===
+**Requirements**: Intelligence 3, Awareness 4
+**Cost**: 20 PP
+
+
+=== Professional ===
+**Requirements**: Intelligence 4, Awareness 5
+**Cost**: 40 PP
+
+
+=== Legend ===
+**Requirements**: Intelligence 4, Awareness 6
+**Cost**: 80 PP
+
+
+
+
+=== Specialisations ===
+**Hunter/Trapper**
+**Requirements**: Beginner, Awareness 3
+**Cost**: 5 PP
+Passive
+Gain +1 when hunting. This bonus applies to all related checks incuding the weapon skill check if one is needed.
+
+
+
+
+=== Character Generation Modifiers ===
+**Starting Equipment**: 
+Beginner: You start with 10 food rations.
+Intermediate: You start with 15 food rations and a basic trap for small animals.
+Experienced: You start with 15 food rations and a basic trap for small animals..
+Professional: You start with 15 food rations and a quality trap for small animals.

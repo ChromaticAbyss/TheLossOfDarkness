@@ -1,0 +1,61 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-24T21:39:14+02:00
+
+====== Abilities ======
+Created Wednesday 24 June 2015
+
+[TODO: Update this list into the one above]
+
+
+List:
+
+**--Survival--**
+Perception
+Knowledge: Flora
+Knowledge: Fauna
+Pathfinding(through swamps, up mountains etc.)
+Crafting
+Scavenging/Knowledge: Ruins
+Resistance(to physical changes, poison, etc.)
+Stealth
+
+**--Chasing--**
+Driving
+Tracking
+Endurance
+Sprinting
+Obstacle
+
+**--Combat--**
+Hand to hand
+Shooting
+ThrowingWeapons
+Cover(action the grants defense boni until you move, depends on terrain)
+[[AbilityOverview:Tactics|Tactics]]
+[[AbilityOverview:Reflexes|Reflexes]](sometimes iniative, defensive action against melee and telegraphed range attacks)
+
+**--Social--**
+Language
+FastTalk
+Negotiation
+Intimidate
+Knowledge: Cities
+Knowledge: Cultures
+Knowledge: History
+
+**--Science--**
+Hacking
+Bionics
+Chemistry
+Medic
+
+**--Mental--**
+Cast
+Binding
+Willpower
+[[AbilityOverview:Meditation|Meditation]]
+
+
+Skill cost:  n-1 -> n costs n progress points.
+Gauss: From 0 -> n you get (n*(n+1))/2 total cost.

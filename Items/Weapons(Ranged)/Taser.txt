@@ -1,0 +1,51 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-30T10:08:29+02:00
+
+====== Taser ======
+Created Thursday 30 July 2015
+
+The taser fires two metal contacts and then stuns the target by firing electrical flow between them.
+
+=== General Item Stats ===
+**Wgt**: 1kg
+**Durability**: ?
+**Est Value(Wilderness)**: 40 Army Rations
+**Est Value(Cities)**:  40 TU
+
+=== Crafting Stats ===
+Modifying a taser for overcharge requires the Craft specialization Electrics. 
+Its a **normal** check for double overcharge, a **hard** check for lethal overcharge. On failure the taser and the battery inside are destroyed on test firing.
+
+
+=== Combat Stats: ===
+**Range**: 20 metres
+**Damage**: 1D3
+**Reload**:
+   **every X uses**: 1
+**   takes:** 2 Actions (check at the end)
+**Recoil**: 1
+**Size**:Small, One Hand
+The taser only sticks if it penetrates armor.
+Firing only works if there is at least one charge left in the battery.
+
+For the electrical discharge roll 1D6. Half of that is applied as damage(zone doesn't matter). 
+If the dice roll is equal to or greater than the targets wound threshold the victim then has to pass a Willpower normal(-the dice roll) check or is stunned for 2 turns of combat.
+
+As long as the contacts remain unbroken you can repeatedly shock the victim as an **action**.
+
+
+
+
+=== Ammunition: ===
+**Battery:**
+	**Est Value(Wilderness)**: 10 Army Rations
+	**Est Value(Cities)**:  10 TU
+	Contains 20 charges, each electrical shock consumes one charge.
+
+
+
+
+=== Variants ===
+Double overcharge: Consumes 3 battery charges, roll 2D6 for each shock.
+Lethal overcharge: Consumes 6 battery charges, roll 3D6 for each shock.

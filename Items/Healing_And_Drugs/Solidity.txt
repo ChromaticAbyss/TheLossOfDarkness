@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-04T00:25:47+02:00
+
+====== Solidity ======
+Created Freitag 04 September 2015
+
+An inhaled drug that enhances Willpower, little side effects if not taken more than once every few days. 
+Its pretty common for a person to require higher dosage after a few basic doses.
+
+=== General Item Stats ===
+**Wgt**: neglectible
+**Durability**: -
+**Est Value**: 8 TU
+
+
+=== Lesser Quality ===
+**Effect**: Grants +1 Willpower.
+**Side Effect**: -
+**Duration**: 12 hours
+**Addiction**: +3
+**Applictation**: 5 Minutes
+
+=== Medium Quality ===
+**Effect**: Grants +2 Willpower.
+**Side Effect**: -
+**Duration**:24 hours
+**Addiction**: +3
+**Applictation**: 5 Minutes
+
+=== High Quality ===
+**Effect**: Grants +3 Willpower.
+**Side Effect**: -
+**Duration**: 24 hours
+**Addiction**: +3
+**Applictation**: 5 Minutes
+
+
+
+=== Addiction ===
+**Fall off**: 1/day
+**Resistance Threshold**: 4
+**Addiction Threshold**: 10
+**Withdrawl**: -1 Willpower, -1 Intelligence

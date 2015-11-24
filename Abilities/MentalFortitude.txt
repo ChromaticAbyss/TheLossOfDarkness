@@ -1,0 +1,66 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-04T00:27:27+02:00
+
+====== MentalFortitude ======
+Created Freitag 04 September 2015
+
+The character is specfically trained is resisting mental intrusion.
+
+=== Attributes ===
+**Willpower**
+
+
+
+=== Incompetent ===
+-
+
+=== Beginner ===
+**Requirements**: Willpower 2
+**Cost**: 5 PP
+
+
+=== Intermediate ===
+**Requirements**: Willpower 3
+**Cost**: 10 PP
+
+
+=== Experienced ===
+**Requirements**: Willpower 4, Intelligence 1, Awareness 1
+**Cost**: 20 PP
+
+
+=== Professional ===
+**Requirements**: Willpower 5, Inelligence 2, Awareness 2
+**Cost**: 40 PP
+
+
+=== Legend ===
+**Requirements**: Willpower 6, Intelligence 3, Awareness 3
+**Cost**: 80 PP
+
+
+
+
+=== Specialisations ===
+
+**Stability**
+**Requirements**: Beginner, Willpower 3
+**Cost**: 5 PP
+Passive
++1 maximum Stability.
+
+
+**Denial Mechanism**
+**Requirements**: Intermediate, Willpower 4, Stress Resistance
+**Cost**: 10 PP
+Passive
+Take -1 Stability damage taken(a minimum of one remains).
+
+
+=== Character Generation Modifiers ===
+**Background**: A character needs to have some background explaination as to why he possesses this somewhat rare ability.
+**Starting Equipment**: 
+Intermediate+: You may start with 1D6 medium quality doses of the drug [[Items:Healing And Drugs:Solidity|Solidity]].
+
+

@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-30T16:13:51+02:00
+
+====== Items ======
+Created Tuesday 30 June 2015
+
+Note: The cost in Rations refers to food that is very resistant to spoilage and can be stashed for long durations. 
+Regular food usually goes for way less (depends on quality). There is an abundance of local/group specific currencies. 

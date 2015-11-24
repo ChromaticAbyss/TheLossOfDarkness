@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-18T11:43:40+02:00
+
+====== Thievery in the Slums ======
+Created Freitag 18 September 2015
+
+A doctor(Luther Gordon) passing through the slums got robbed of his medicine by some punks. The characters are tasked with finding out what happened, why the doctor was in the slums(illegaly helping for little payment, tax free), recovering the medicine.
+
+Optional choice: tell the Gevera family that someone bypasses taxes. (+1 status with the Gevera family, -1 status in the slums)
+

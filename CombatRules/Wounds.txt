@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-07T13:25:07+02:00
+
+====== Wounds ======
+Created Tuesday 07 July 2015
+
+Whenever dealing damage to a character roll a zone
+roll a D6: 6 Head, 5,4,3 Torso,2 Arm, 1 Leg  , roll again to decide left/right:  1,2,3 left 4,5,6 right
+
+Any attack that deals damage to a limb deals causes no direct Vitality loss.
+
+
+**Wound Threshold**: 
+A Value, defaulting to 5 that determines how much damage needs to be inflict in a single strike to deal a wound to this character.
+Wounds inflict negative modifiers to related skills.
+
+
+Zone:
+Head[1x] -2 to all skills, Bleeding
+Head[2x] Loss of consciousness, Massive Bleeding
+Head[3x] Death
+
+Torso[1x] No natural Vitality regeneration by sleeping until this wound is healed,  -1 modifier to all Endurance skill checks, Bleeding
+Torso[2x] No natural Vitality regeneration by sleeping until this wound is healed, ,  -3  modifier to all Endurance skill checks, Massive Bleeding
+Torso[3x] No natural Vitality regeneration by sleeping until this wound is healed,  Loss of consciousness, Massive Bleeding
+Torso[4x] Death
+
+Arm[1x] -2 to everything that needs the arm, Bleeding
+Arm[2x] Limb unsuable, Massive Bleeding
+Arm[3x] Limb permanently crippled/lost, Massive Bleeding
+
+Leg[1x] -2 to every movement related skill check(dex,endurance,burst),  Bleeding
+Leg[2x] Limb unsuable, Massive Bleeding()
+Leg[3x] Limb permanently crippled/lost, Massive Bleeding
+
+
+**Bleeding**: The character loses 1 point of Vitality each minute.
+**Massive Bleeding**:  The character loses 1 point of Vitality each 2 turns of combat.
+
+
+

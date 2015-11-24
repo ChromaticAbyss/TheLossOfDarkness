@@ -1,0 +1,119 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-05T16:36:03+02:00
+
+====== Medic ======
+Created Saturday 05 September 2015
+
+
+**Stop bleeding**
+5 Actions
+Stopping a wound from bleeding requires little in terms of material(some fabric), actual pressure bandages are much better and grant a +3 modifier.
+This checks difficulty varies on the location of the bleeding.
+Leg, Arm: **Easy**
+Torso: **Medium**
+Head: **Hard**
+Attribute used is Dexterity
+
+**Woundcare**
+5 minutes
+Takes basic care of a wound to reduce the chances of infection and increase chances of fast healing.
+Leg, Arm: **Medium**
+Head, Torso: **Hard**
+On a success the wound won't infect and the healing check gains a bonus equal to all leftover points over 3.
+Attribute used is Intelligence
+
+
+**Emergency** **Stabilization**
+15 Actions
+Stabilizing a **dieing** person ( <0 hp) to stop further hp loss is way more difficult then stopping a bleeding and requires a **hard** skill check.
+Its usually best to take care of ongoing bleeding first in some way.
+If you succeed with leftover points the duration drops by those points(maximum reduction is 5).
+On a success the **dieing** process stops until further damage is recieved(bleeding does not count), a lot of care is needed when transporting a person in such state as even small mistakes can turn a person critical again.
+Attribute used is the minimum of Dexterity and Intelligence.
+
+
+
+
+
+=== Attributes ===
+**Intelligence**, Dexterity
+
+
+
+=== Incompetent ===
+-
+
+=== Beginner ===
+**Requirements**: Intelligence 3, Dexterity 3
+**Cost**: 5 PP
+
+
+=== Intermediate ===
+**Requirements**: Intelligence 3, Dexterity 3, one of them 4
+**Cost**: 10 PP
+
+
+=== Experienced ===
+**Requirements**: Intelligence 4, Dexterity 4, one of them 5
+**Cost**: 20 PP
+
+
+=== Professional ===
+**Requirements**: Intelligence 5, Dexterity 5
+**Cost**: 40 PP
+
+
+=== Legend ===
+**Requirements**: Intelligence 6, Dexterity 6
+**Cost**: 80 PP
+
+
+
+
+=== Specialisations ===
+**Patch them up**
+**Requirements**: Intermediate
+**Cost**:5 PP
+Passive
+Stopping a bleeding only takes 3 actions. 
+
+
+**Lifesaver**
+**Requirements**: Experienced
+**Cost**:5 PP
+Passive
+When performing **Emergency** **Stabilization **the maximum reduction in duration you can achieve is now 8.  
+
+
+**Vital Operation**
+**Requirements**: Experienced
+**Cost**:5 PP
+Takes 1 hour
+Requires: Somewhat sterile enviournment, Operation instruments, some form of anesthesia(**vey hard** skill check if a component is missing).
+Attempt to bring a person that is **stable** but in negative vitality up to 0 health. This is a **hard** check, the amount of leftover points is added to the targets vitality(maximum to 0). 
+On a failure the target loses the **stable** status and starts losing vitality again until they can be stabilized again.
+Attribute used is the minimum of Dexterity and Intelligence.
+
+**Get well soon**
+**Requirements**: Intermediate
+**Cost**:5 PP
+Passive
+When you successfully care for a persons wound they can roll a check for healing it every 3 days instead of every 7.
+
+
+
+**Apothecary**
+**Requirements**: Intermediate
+**Cost**:3 PP
+Passive
+Gain a +2 modifier for all medicine/drug related Medicine checks. 
+You gain a +1 bonus when using Medicine to give a bonus to any Medic related skill check (e.g. healing powder).
+
+
+=== Character Generation Modifiers ===
+**Starting Equipment**: 
+Beginner: 20 TU in drugs and medicine
+Intermediate: 30 TU in drugs and medicine, 30 TU of common items.
+Experienced: 40 TU in drugs and medicine, 90 TU of common items.
+Professional: 50 TU in drugs and medicine, 150 TU of common items.

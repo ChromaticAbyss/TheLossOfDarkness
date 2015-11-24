@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-30T16:15:02+02:00
+
+====== Hunting Crossbow ======
+Created Tuesday 30 June 2015
+
+A ranged weapon that fires bolts that can easily be hammered from scrap metal, the advantage of dirt cheap ammunition is balanced out by a long manual reload after every shot, 
+which isn't as much of a huge drawback on the hunt as it is in a full blown firefight.
+The crossbow itself is also made from simple but well worked materials making repairs less costly and more time consuming.
+
+=== General Item Stats ===
+**Wgt**: 2kg
+**Durability**: ?
+**Est Value(Wilderness)**: 20 Army Rations
+**Est Value(Cities)**:  20 TU
+
+=== Crafting Stats ===
+...
+
+=== Combat Stats: ===
+**Range**: 30 metres
+**Damage**: 1D6+4
+**Reload**:
+   **every X uses**: 1
+**   takes:** 2 Actions(only check at the last)
+**Recoil**: 2 (Irrelevant due to weapon meachnics)  
+**Size**: Large, Two Hands 
+
+=== Ammunition: ===
+**Metal Bolt**
+	**Est Value(Wilderness)**: 1 Army Rations per [10]
+	**Est Value(Cities)**:  0.1 TU
+
+**Carved Wood Bolt**
+	**Est Value(Wilderness)**:  1 Army Rations per [20] / a few minutes of woodworking
+	**Est Value(Cities)**:  - 
+	**Damage**: -1 
+

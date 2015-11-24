@@ -1,0 +1,53 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-03T22:22:14+02:00
+
+====== Ice ======
+Created Donnerstag 03 September 2015
+
+Ice is a drug that induces a physical and emotional coldness, reduces shaking while increasing manual dexterity.
+Additionally it reduces body temperature generation which makes infrared detection less useful but also increases the dangers of cold.
+While being extremely potent and somewhat affordable its also highly addictive.
+It comes in the form of a square sugar pill usually with weird flavours that indicate the producer.
+
+
+=== General Item Stats ===
+**Wgt**: neglectible
+**Durability**: -
+**Est Value**: 3 TU
+
+=== Crafting ===
+**Materials**: An assortment of chemicals that can be looted from hospitals or bought from a chemical plant for around 10 TU
+**Duration:** 2 hours, needs some laboratory equipment
+**Check:** Crafting + Intelligence (normal)
+[Failure] 2D6-5 doses of Ice(lesser quality)
+[Success] 3D6+10 doses of Ice (medium quality, missing laboratory equipment automatically results in lesser quality)
+[Success 5+] 3D6+10 doses of Ice (high quality,  missing laboratory equipment automatically results in lesser quality)1
+
+=== Lesser Quality ===
+**Effect**: +1 Modifier to all Dexterity skill checks that have to do with the hands or precision, +1 Intelligence, -2 to detection checks via infrared.
+**Side Effect**: -2 Cold Resistance, Known problems exist when taking this and bionic drug called "Neuroplacine" at the same time: -2 to Burst and Dexterity due to slowed motor responses.
+**Duration**: 10 Minutes
+**Addiction**: +5
+**Application**: 1 Action, takes 10 Turns of Combat(1 minute to kick in)
+
+=== Medium Quality ===
+**Effect**: +2 Modifier to all Dexterity skill checks that have to do with the hands or precision, +2 Intelligence, -2 to detection checks via infrared.
+**Side Effect**: -2 Cold Resistance, Known problems exist when taking this and bionic drug called "Neuroplacine" at the same time: -2 to Burst and Dexterity due to slowed motor responses.
+**Duration**: 20 Minutes
+**Addiction**: +5
+**Application**: 1 Action, takes 10 Turns of Combat(1 minute to kick in)
+
+=== High Quality ===
+**Effect**: +3 Modifier to all Dexterity skill checks that have to do with the hands or precision, +3 Intelligence, -2 to detection checks via infrared.
+**Side Effect**: -2 Cold Resistance, Known problems exist when taking this and bionic drug called "Neuroplacine" at the same time: -2 to Burst and Dexterity due to slowed motor responses.
+**Duration**: 1 hour
+**Addiction**: +4
+**Application**: 1 Action, takes 5 Turns of Combat(1/2 minute to kick in)
+
+
+=== Addiction ===
+**Fall off**: 1/day
+**Resistance Threshold**: 7
+**Addiction Threshold**: 15
+**Withdrawl**: Shaking: -2 Modifier to all Dexterity skill checks that have to do with precision or the hands. -1 to Intelligence. -1 Cold Resistance

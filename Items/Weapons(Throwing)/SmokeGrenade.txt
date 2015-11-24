@@ -1,0 +1,52 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-08-09T11:17:08+02:00
+
+====== SmokeGrenade ======
+Created Sunday 09 August 2015
+
+A small grenade that harmlessly explodes into a large volume of smoke, essentially creating a powerful cover on the fly or blinding oponents.
+This weapon has excellent offensive and defensive uses and is usually carried by anyone who seriously expects to go into firefights.
+
+
+
+=== General Item Stats ===
+**Wgt**: 0.5 kg
+**Durability**: ?
+**Est Value(Wilderness)**: 5 Army Rations 
+**Est Value(Cities)**: 5 Trade Units
+
+
+=== Crafting Stats ===
+**Self made smoke bomb variant**
+**Craft:** Easy
+**Requires**: A few common chemicals, ash, a little gunpowder
+**Duration**: 30 min
+**Success**: 
+**Failure:** roll 1D6
+1,2,3,4-won't explode
+5,6-goes off during production
+
+
+
+**Regular variant**
+
+
+
+=== Combat Stats: ===
+**Range**: 20 metres
+**Damage**:-
+**Reload**:	-
+**Recoil**: Not applicable
+**Size**: Small, One Hand
+**Cover can be used**: No
+Creates a 10 metre radius zone of thick smoke. 
+Usually lasts for about 2 minutes but the smoke field may dissipate quickly in strong wind and linger longer in an enclosed space.
+Shots into the shroud are basically randomized unless the shooter can see through it with x ray vision (infrared does not work).
+The smoke is also very good at absorbing/scattering lasers which lose 2 points of damage for every metre of smoke they have to penetrate.
+
+
+=== Variants and Modifications ===
+**Self made smoke bomb**: Takes 1 turn of combat for the smoke to build up. Laser weapon strength reduction only 1 point per metre.
+
+

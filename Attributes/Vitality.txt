@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-15T14:22:24+02:00
+
+====== Vitality ======
+Created Dienstag 15 September 2015
+
+Derived Stat
+Maximum is 10 (+ the characters Endurance )
+
+The amount of damage a characters body can handle, be it from organ damage, poison or blood loss from wounds.
+Note: Combat damage taken to a limb is not deducted from Vitality however bleeding from inflicted wounds will still drain a characters Vitality.
+
+On a regular day that has enough sleep and no massive strain a character regenerates one point of Vitality. Wounds and Diseases may hamper this regeneration.
+
+
+The following penalties apply on certain thresholds of life.
+A character reduced to **5** **Vitality** or less suffers from massive **pain** and takes a -1 penalty to all rolls. Certain abilities or herbs can allow a character to ignore this effect but his usually comes at the cost of not knowing the extent of their wounds.
+A character reduced to **0** or less **Vitality** starts **dieing/critical** as more and more organs fail. In this state a character must take a [[Attributes|Endurance]] check each turn of combat or lose anther point of Vitality. Normally a character in this state can not act anymore(exceptions like [[Binding:Berserk|Berserk]] exist). To stop this process either the characters hitpoints must be raised above 0 or someone with the [[Abilities:Medic|Medic]] skill applies the **stabilized** condition.
+A character reduced to the **negative of his maximum Vitality** or less is **dead**.

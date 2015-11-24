@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-28T22:10:41+02:00
+
+====== Tactics ======
+Created Sunday 28 June 2015
+

@@ -1,0 +1,60 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-06T23:07:34+02:00
+
+====== Stealth ======
+Created Sonntag 06 September 2015
+
+Summarises a characters ability to move around unnoticed, stay hidden and enter places he should not be in.
+
+=== Attributes ===
+**Dexterity**, Awareness
+
+
+
+=== Incompetent ===
+-
+
+=== Beginner ===
+**Requirements**: Dexterity 2, Awareness 1
+**Cost**: 5 PP
+
+
+=== Intermediate ===
+**Requirements**: Dexterity 2, Awareness 2
+**Cost**: 10 PP
+
+
+=== Experienced ===
+**Requirements**: Dexterity 3, Awareness 2
+**Cost**: 20 PP
+
+
+=== Professional ===
+**Requirements**: Dexterity 4, Awareness 3
+**Cost**: 40 PP
+
+
+=== Legend ===
+**Requirements**: Dexterity 6, Awareness 5
+**Cost**: 80 PP
+
+
+=== Specialisations ===
+Infiltrator
+
+
+Pickpocket
+
+
+Blend in crowd
+
+
+
+=== Character Generation Modifiers ===
+**Starting Equipment**: 
+Beginner: -
+Intermediate: You start with a stolen item worth up to 70 TU.
+Experienced: You start with a stolen item worth up to 130 TU and other traded items or currency worth up to 20 TU.
+Professional: You start with a stolen item worth up to 150 TU and other traded items or currency worth up to 40 TU.
+

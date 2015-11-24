@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-03T22:49:03+02:00
+
+====== TP508 ======
+Created Donnerstag 03 September 2015
+
+A special medicine that protects the fast regenerating cells in a body from radiation. Since these cells are by far the most damaged ones this massively reduces the aquivalent dose present in a body.
+It also contains a powerful anti biotic to prevent infections following up the radiation damage in these zones massively increasing surivial rate.
+
+
+
+=== General Item Stats ===
+**Wgt**: neglectible
+**Durability**: -
+**Est Value**: 50 TU
+
+=== Crafting ===
+**-**
+
+=== Lesser Quality ===
+**-**
+
+=== Medium Quality ===
+**Effect**: Reduces the amount of dSv present in the body by 1 per hour. You take one less point of vitality loss from present radiation for next regeneration phase.
+**Side Effect**: Stomach Pain
+**Duration**: 12 hours
+**Addiction**: +5
+**Application**: 1 Action
+
+=== High Quality ===
+**-**
+
+
+=== Addiction ===
+**Fall off**: 1/day
+**Resistance Threshold**: 7
+**Addiction Threshold**: 15
+**Withdrawl**: Shaking: -2 Modifier to all Dexterity skill checks that have to do with precision or the hands. -1 to Intelligence. -1 Cold Resistance

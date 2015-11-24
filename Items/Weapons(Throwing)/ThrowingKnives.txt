@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-08T17:59:43+02:00
+
+====== ThrowingKnives ======
+Created Wednesday 08 July 2015
+
+And similar weapons like throwing stars.
+
+=== General Item Stats ===
+**Wgt**: 0.1kg
+**Durability**: ?
+**Est Value(Wilderness)**: 0.2 Army Rations
+**Est Value(Cities)**:  0.1 TU
+
+=== Crafting Stats ===
+...
+
+=== Combat Stats: ===
+**Range**: 7 metres
+**Damage**: 1D6
+**Reload**:	-
+**Recoil**: 0
+**Size**: Small, One Hand
+**Cover can be used**: Yes
+**Reusable**: Yes
+
+
+
+

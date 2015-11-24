@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-28T22:43:39+02:00
+
+====== Bionics ======
+Created Sunday 28 June 2015
+
+Slots: 
+Eye(2)
+Brain(2)
+Spine(1)
+Arm/Hand(2)
+Leg/Feet(2)
+Chest(unlimited)
+Skin(1)
+
+If a slot are mutated they can not be used for Bionics.

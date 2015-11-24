@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-08-08T17:24:33+02:00
+
+====== LiquidCrystallizationArmor ======
+Created Saturday 08 August 2015
+
+This refined product of the [[Binding:Crystalline|Crystalline Binding]] has the marvellous ability of being completely flexible in liquid form and under sudden impacts of any kind will instantly crystallize and harden into a formidable defense.
+
+
+
+=== General Item Stats ===
+**Wgt**: 7 kg
+**Durability**: ?
+**Est Value(Wilderness)**: -
+**Est Value(Cities)**: 1000 TU
+
+
+=== Armor Stats ===
+**Zones**: All 
+**Pierce Armor**: 5
+**Blunt Armor**: 5
+**Cold Protection**: 1
+**Radiation Protection**: 0
+**Electrical Protection**: 1
+**Mali**: -1
+Downside: After taking a hit that deals 5 or more damage the armor hardens and is less flexible for 5 turns of combat. This increases the armor malus by -1 for the time, the timer is reset on each such impact.
+
+
+
+=== Variants and Modifications ===
+**Chest only**: 500 TU cost, maximum Malus: 3.

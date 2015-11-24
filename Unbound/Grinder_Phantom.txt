@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-10-25T22:11:01+01:00
+
+====== Grinder Phantom ======
+Created Sonntag 25 Oktober 2015
+
+These are the devastated remains of Tormented Steel infused tribal warmachines.
+They are rolling clouds or spinning tornados filled with dust and metal shards weighting up to 3 kilograms, able to quickly tear apart most materials it comes into contanct with.
+
+
+**Stats&Abilities:** 
+Vitality/Stability:  20
+Movement Speed: Regular Running Speed
+Cloud Radius: 4 metres
+
+
+
+=== Combat Behaviour ===
+Attacks by moving ontop of things and eroding them.
+
+=== Special Abilities ===
+**Tornado of the gritting waste**
+Per turn of combat everyone within the cloud must roll a Hard Reflexes+Dexterity roll to avoid getting hit with scrap for 1D6 blunt damage.
+Even if a character manages to not get hit their equipment takes 4 Structural Damage and they cannot breathe while in the cloud.
+The tornado manages to even erode armored vehicles fairly quickly.
+
+
+**Incorporeal(Debris Swarm)**
+Cannot be harmed with mechanical damage that results from crushing and piercing.
+Explosive weaponry is effective.

@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-29T08:19:13+02:00
+
+====== HandGrenade ======
+Created Wednesday 29 July 2015
+
+A simple fragmentation grenade.
+
+=== General Item Stats ===
+**Wgt**: 0.5 kg
+**Durability**: ?
+**Est Value(Wilderness)**: 6 Army Rations 
+**Est Value(Cities)**: 4 Trade Units
+
+
+=== Crafting Stats ===
+...
+
+=== Combat Stats: ===
+**Range**: 20 metres
+**Damage**: 2D6+4 (-1 per metre distance) On cheap self made grenades the fracturing is very random so this damage is rolled for each combatant that could be affected
+**Reload**:	-
+**Recoil**: Not applicable
+**Size**: Small, One Hand
+**Cover can be used**: At half its value applied to the duel below
+**Duel vs Reflexes:** Always, the attack is not fully blocked if the Reflexes win. Instead  a distance of 2 metres per surplus point is added to the grenade(throwing it away in a direction of choice or dashing to safety)
+
+
+
+=== Variants and Modifications ===
+**Army standard grenade**: Breaks apart in very regular patterns which makes it easier to estimate the kill zone. Damage is 1D6+8. Price 15 TU
+

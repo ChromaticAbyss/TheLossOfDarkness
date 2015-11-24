@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-08T21:55:55+02:00
+
+====== OneHandedMeleeWeapon ======
+Created Wednesday 08 July 2015
+
+Axe, Hammer, Meat Cleaver etc. 
+Also use for things like: Bar chair, Smashing someone through a window etc. 
+
+Deals 1D6+2
+

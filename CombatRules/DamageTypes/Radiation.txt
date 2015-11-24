@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-18T12:22:13+02:00
+
+====== Radiation ======
+Created Freitag 18 September 2015
+
+Radiation damage kills by destroying fast growing cells in the body like mucosal tissue and immune cells which subsequently leads to infections which prove just as lethal as the initial damage.
+One of the main threats is that radiation can remain in a body for quite some time and continue to do its deadly work.
+
+**Radiation Damage** is reduced by **Radiation Armor** (weakest zone) if it is from an external source. Radiation that comes from consuming irradiated matter does not get removed in this way.
+Each point of **Radiation Damage** a character takes inflicts one deciSievert (**dSv**) of biologically active radiation onto them, also for every full 3 **Radiation Damage** a character takes they lose 1 point of [[Attributes:Vitality|Vitality]] instantly.
+A character that has any positive amount of **dSv** counts as **radiation sick** and will not regenerate [[Attributes:Vitality|Vitality.]]
+Once a day(usually in parallel with the regeneration phase) a character loses 1 [[Attributes:Vitality|Vitality]] for each full 5 **dSv** they have, then reduce the **dSv** by 1. This degeneration damage can get reduced by Antibiotics. 
+
+
+

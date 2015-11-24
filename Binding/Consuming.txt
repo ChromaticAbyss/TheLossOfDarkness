@@ -1,0 +1,77 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-25T11:44:23+02:00
+
+====== Consuming ======
+Created Thursday 25 June 2015
+
+This binding yearns for food and glottony but when properly fed it powers up the body to amazing levels.
+
+[[ProgressPoints|PP]]-cost on character generation: 20
+
+
+=== Binding Process ===
+[[Binding|Stability]]: Normal difficulty (-0)
+[[Binding|Mutation:]] Normal difficulty (+4)  
+		**Sharp Teeth**: The characters teeth are sharp and mean looking(Fast Talk, Negotation get a -1 modifier) and hurt quite a lot(+1 damage in unarmed combat), also grants a +1 modifier to Intimidate.
+		
+[[Binding|Mutation:]] Normal difficulty (+0)  
+		**Constant Hunger**: The character requires twice the normal food intake for basic functioning.
+		
+[[Binding|Mutation:]] Normal difficulty (+5)  
+		**Fat:** The character is/becomes pretty fat independent form their actual food intake(Sprinting, Obstacle, Reflexes get a -1 modifier).
+		
+[[Binding|Mutation:]] Normal difficulty (+2)  
+		**Unhingable Jaw:** The character can unhinge his jaw and may unconsciously do so while feeding whcih looks kinda disturbing.
+
+[[Binding|Mutation:]] Easy difficulty (+3)  
+		**Cannibal:** The character must consume one meal of human flesh at least once a week to be able to use any casts/passives from this Binding.
+
+[[Binding|Burn Table:]] Normal difficulty (+0)
+		**Hunger:** applies a -1 penalty to everything you do until you consume half as many meals as you have [[Glow]] at the moment of this triggering.
+
+[[Binding|Burn Table:]] Normal difficulty (+0)
+		**Feeding on the host:** You take 1 point of damage, 2 if your current [[Glow]] is higher than 15.
+	
+
+[[Binding|Amalgamation]]: Normal difficulty
+
+=== Specialisations/Casts ===
+
+**Gluttony** 
+[Starting Cast]
+Glow: 5 , at least 1 hour
+Start consuming excessive amounts of food to bring your body into overdrive. You must at least consume 5 meals worth of food, you can however eat more to have the effect last longer.
+You gain 2 + one per meal worth of food you at over 5 stacks of **Gluttony**.  If you reach 5 stacks of **Gluttony** this way you instantly regenerate 3 Vitality.
+These fall off at a rate of 1 per day unless you eat an additional meal that day, if you dont eat your basic intake you lose the respective amount of stacks in addition.
+While you have any stacks of **Gluttony** you regenerate 1 additional Vitality each day even when not resting, you maximum Vitality is increased by your **Gluttony**.
+While you have more than 5 stacks of **Gluttony** you suffer from the effects of the **Fat** mutation if you don't have it already.
+		
+**Instant Gratification** 
+Costs: 4PP, Requires [[BindingMastery:]] 4
+Cast: Glow: 5, 1 Action
+Instantly gulp down a meal which doesn't sate your hunger or grant **Gluttony** stacks. You are however healed by 2 Vitality.
+
+**Power Surge** 
+Costs: 4PP, Requires [[BindingMastery:]] 6
+ Passive
+ The instant heals you gain from reaching 5 stacks via the **Gluttony** cast or from casting **Instant Gratification** are increased by 2.
+
+**Flesh becomes flesh** 
+Costs: 6PP, Requires [[BindingMastery:]] 6
+Passive
+While you have stacks of **Gluttony** you regenerate an extra point of Vitality each day.
+
+**Gourmet** **of Phantoms**
+Costs: 6PP, Requires [[BindingMastery:]] 7
+Cast: Glow: 15, 1 Action
+Consume a defeated [[Unbound]], [[Binding]] or a fallen enemy that had a Binding. You gain your [[Binding:BindingMastery|Mastery]] worth of **Gluttony** stacks and restore an equal amount of Vitality.
+You have to roll checks for the first Mutation and Burn Table entry of the Binding you consumed(that you don't already have), these checks are one category **easier**, you add your half binding mastery value instead of the Binding ability bonus/malus for all required skill checks.
+This is a very useful and much safer way to dispose of unwanted [[Unbound]]! The benefits are only short lasting tough.
+
+
+=== Low Stability ===
+**Spirit of Hunger**: Character requires 3 rations worth of meal each hour it is active. Not getting any of these rations causes 1 Stability damage. Character will do almost anything to get this food.
+
+
+

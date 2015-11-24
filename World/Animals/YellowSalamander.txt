@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-05T17:24:24+02:00
+
+====== YellowSalamander ======
+Created Saturday 05 September 2015
+
+There are a bunch of of yellow coloured salamanders, some of which are poisonous and some of which produce a weak drug. 
+
+
+=== Biome ===
+Swamp
+River
+Lake
+
+
+=== Hunting ===
+These salamanders are hunted using small traps from twigs and twine with a small insect as bait, sometimes parts of plastic bottles can be used as well.
+**Check**: Zoology+Dexterity (easy)
+**Duration**: 2 hours
+**Time of Year**: Spring,Summer,Autumn
+**[Failure] **
+1D3-2 Lesser Salamander 
+**[Success]**
+1D3 Lesser Salamander, 1D3-2 Good Salamanders
+**[Success 5+]**
+1D3 Lesser Salamanders, 1D3-1 Good Salamanders
+
+
+=== Loot ===
+Salamander Skin(Lesser/Good)
+Food: 1 ration for good salamanders, lesser salamander inedible unless eater has the **Iron Stomach** ability.

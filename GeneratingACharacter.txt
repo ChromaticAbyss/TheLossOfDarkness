@@ -1,0 +1,78 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-24T22:55:00+02:00
+
+====== GeneratingACharacter ======
+Created Wednesday 24 June 2015
+
+A character has 6 [[Attributes]]: Burst,Endurance, Dexterity, Intelligence, Willpower, Awareness. Allocate 18 points as is described in the [[Attributes]] page (-1 to 6 range).
+
+Each character starts with **150** [[ProgressPoints]] (**PP**).
+
+There are the following options for spending these:
+[[Abilities]] per the usual rules, should make up at least 100 of the points.
+Beginner(5 PP), Intermediate(15 = 5+10 PP), Experienced(35 = 5+10+20PP), Professional(75 = 5+10+20+40PP)
+Note that some abilities require explaination in the background and a lot of them grant fitting starting equipment.
+Its also possible to buy Specialisations for **PP** right from the start if the respective Abilities are high enough. 
+
+There are a few other things to spend points on that are only accessible upon generating a character:
+**+1 point in an attribute **costs 25 PP (up to twice)
+
+**Bindings/Mutations **
+Its possible and encouraged to start characters with Bindings!
+The rolls for the binding will still apply (usually after you finish everything else, it may be useful to keep a few **PP** to react to mutations).
+However since the character probably had a long time to get used to this Binding **all rolls** necessary are one category **easier**! 
+Each **Binding** has its own attribute(the [[Binding:BindingMastery|mastery]]) which starts at **5** for Bindings purchased in character generation.
+
+These are the Bindings that a character can start with. 
+All checks are **normal** difficults by default for these so they become **easy,** none of these have crippling mutations or burn table entries.
+
+[[Binding:Crystalline|Crystalline]]
+[[Binding:Trickster|Trickster]]
+[[Binding:Spectrum|Spectrum]]
+[[Binding:Consuming|Consuming]]
+[[Binding:Drifter|Drifter]]
+[[Binding:Reach|Reach]]
+
+a few also common but more intrusive ones are to be used mainly for characters where the downside can shape the character or be avoided by having fitting skills.
+
+=== Starting Equipment ===
+A lot of abilities grant certain fitting items. In addition a character may chose a pack of equipment based on where he lives.
+
+**Wilderness pack**
+* Knife or other [[Items:Weapons(Melee):OneHandedMeleeWeapon|one handed melee weapon]].
+* Rain and lightproof tent for one person and backpack made from animal hide.
+* A basic cooking set
+* Something to make a fire.
+* [[Items:Armor:ThickClothing|Sturdy clothing]]
+* 1D6 army rations and one dose of medium quality wound powder.
+* 10 TU in other items of choice
+
+**Outpost pack**
+* Knife or other [[Items:Weapons(Melee):OneHandedMeleeWeapon|one handed melee weapon]].
+* A basic tent made from plastic
+* 1D6 Army rations and a bottle of booze
+* 30 TU in other items of choice
+
+**City pack**
+* An id card or similar item that allows free movement in most parts of the city
+* 1 Army ration 
+* A bottle of booze or one dose of a drug that costs less than 10 TU(low instead of medium quality costs half, high costs double)
+* 50 TU in other items of choice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

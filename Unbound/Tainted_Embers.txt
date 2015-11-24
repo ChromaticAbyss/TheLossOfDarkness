@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-10-25T21:48:08+01:00
+
+====== Tainted Embers ======
+Created Sonntag 25 Oktober 2015
+
+Commonly found in the Gritting Waste these spirits are manifestations of dirty looking, cold and erratic flame. 
+Summoned in large amounts by Iden Yamah these spririts once served to annihalate the army of Kastan Firdust.
+It can mainly be found in the [[World:Gritting Waste|Gritting Waste]].
+
+**Stats&Abilities:** 
+Vitality/Stability:  4
+
+
+
+
+=== Attack ===
+**Hand of Rust(Normal,6)**
+This melee attack induces spontaneus corrosion of equipment and flesh.
+Deals 1D6 Fire damage which the special rule that the burn can affect everything (except chemically hardened metal and ceramic).
+On non organic matter this deals 3 structural damage each turn of combat for 10 turns.
+
+**Ferrokinesis(Normal,4)**
+A metallic object with a mass of up to 25 kilograms is rendered immovable and falls to the ground. This lasts 10 turns.
+Groups of these unbound can cast this ability to affect large vehicles.
+
+=== Special Abilities ===
+**Incorporeal(Fire)**
+This entity is of a flame like essence and thus immune to physical damage.
+Damage can be dealt by submerging the entity in water or starving it of oxygen in another way.
+		
+**Volatile**
+When reduced to 0 Vitality/Stability0roll a dice. On 5,6 this entity explodes in a wake of decay that deals damage to equipment and biomatter of everyone nearby. 
+If this happens the unbound is disposed.
+
+
+
+
+

@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-23T14:09:24+02:00
+
+====== Hydrogen City ======
+Created Mittwoch 23 September 2015
+
+Hydrogen city, also commonly referred to as just council is a zeepelin like structure anchored one hundred metres above the surface of the last lake. It is supplied via suspended carrier lifts which makes it nearly impossible to siege. In addition it is fortified against storms and all kinds of possible attacks.
+Only the 44 council members are allowed to enter this faculty even tough quite a few of them are not actually there. 
+A fast way of communicating to the council is via special light towers in each city that can transmit a binary message to the city these towers make the structure flicker at night while messages are sent from multiple directions. 
+The council answers via messengers using bikes or boats.

@@ -1,0 +1,41 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-25T14:35:02+02:00
+
+====== Radiance ======
+Created Thursday 25 June 2015
+
+A slow moving bright entity bursting with alpha, beta and gamma rays. These entities were sometimes used to enhance nuclear reactors and weapons but the intense radiation and heat in their working enviournment often tore away their unmaintained binding.
+
+
+**Stats&Abilities:** 
+Vitality/Stability:  10
+
+
+
+
+
+**Special Abilities:** 
+**Neutron Feeder**
+Regenerates 1 Stability per turn of combat near any highly radiactive material.
+		
+**Incorporeal(Ion form)**
+Can pass right through anything that isn't a massive concrete wall, thick lead or heavy water. Which also means that most weapons will not do damage.
+Damage can be dealt by submerging the entity in heavy water or pushing it with heavy lead blocks.
+		
+**Slow** 
+Most people should be able to outrun this creature unless they are heavily injured.
+		
+**Searing Aura**
+Per turn of combat everyone within 10 metres (and not shielded by a wall, lead etc.) takes 1D3 [[CombatRules:DamageTypes:Radiation|Radiation Damage]].
+It also effectively blinds anyone looking at it from that distance resulting in a -1 penalty to everything that relies on sight. Blind lasts up to a minute if the exposure is too long.
+Everyone closer than 5 metres takes 1D6 instead.
+
+
+
+
+[[Binding:Radiance]] 
+
+
+
+

@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-05T13:49:35+02:00
+
+====== SalamanderSkin ======
+Created Saturday 05 September 2015
+
+The skin of certain salamanders can be fried with fat. The fat then can be consumed to obtain a calming effect and curb infections.
+Lesser quality refers to a less potent and slightly more poisonous variant of the salamander which is easy to confuse.
+This is an emergency medicine and poor peoples drug, the salamanders for which are usually caught by children in swamps.
+
+=== General Item Stats ===
+**Wgt**: neglectible
+**Durability**: -
+**Est Value**: 4 TU
+
+=== Crafting ===
+[[World:Animals:YellowSalamander|By hunting]]
+
+
+=== Lesser Quality ===
+**Effect**: Grants +1 to all Endurance checks to fight infection. +1 to Meditate checks during the duration.
+**Side Effect**: -1 Willpower
+**Duration**: 6 hours
+**Addiction**: +1
+**Applictation**: 5 Minutes
+
+=== Medium Quality ===
+**Effect**: Grants +2 to all Endurance checks to fight infection, regenerates 1 stability per two hours.
+**Side Effect**: roll a d6, on a 1,2,3: -1 Willpower 
+**Duration**:12 hours
+**Addiction**: +1
+**Applictation**: 5 Minutes
+
+=== High Quality ===
+**-**
+
+
+=== Addiction ===
+**Fall off**: 1/day
+**Resistance Threshold**: 2
+**Addiction Threshold**: 10
+**Withdrawl**: -1 Willpower

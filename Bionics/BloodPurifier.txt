@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-28T23:07:25+02:00
+
+====== BloodPurifier ======
+Created Sunday 28 June 2015
+
+Slots: Chest
+Plasticity cost: 1
+
+Grants a +2 modifier to the Resistance skill when dealing with poison. There are variants that do and some that don't make the character immune to alcohol and lesser drugs.
+This implant can replace a kidney too.

@@ -1,0 +1,64 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-05T13:56:04+02:00
+
+====== Scouting ======
+Created Saturday 05 September 2015
+
+This ability is used to actively search for dangers and estimate them before encountering them.
+Its also used to look out for the best way and find interesting sites nearby.
+
+
+=== Attributes ===
+**Awareness, **Dexterity
+
+
+
+=== Incompetent ===
+-
+
+=== Beginner ===
+**Requirements**: Awareness 2
+**Cost**: 5 PP
+
+
+=== Intermediate ===
+**Requirements**: Awareness 3
+**Cost**: 10 PP
+
+
+=== Experienced ===
+**Requirements**: Awareness 4, Dexterity 2
+**Cost**: 20 PP
+
+
+=== Professional ===
+**Requirements**: Awareness 5, Dexterity 3
+**Cost**: 40 PP
+
+
+=== Legend ===
+**Requirements**: Awareness 6, Dexterity 3
+**Cost**: 80 PP
+
+
+
+
+=== Specialisations ===
+**Unseen scouting**
+**Requirements**: Intermediate, Dexterity 3, Intermediate Stealth
+**Cost**: 5 PP
+Passive
+While scouting you are by default moving stealthily.
+
+
+
+
+
+=== Character Generation Modifiers ===
+**Starting Equipment**: 
+Intermediate: A low quality set of binoculars(+1 modifier, low durability, requires common mainainance)
+Experienced: A medium quality set of binoculars(+1 modifier)
+Professional: A high quality set of binoculars(+1 modifier, doesn't give off light reflexes that can betray your presence)
+
+

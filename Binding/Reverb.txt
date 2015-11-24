@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-10-12T00:42:52+02:00
+
+====== Reverb ======
+Created Montag 12 Oktober 2015
+
+-Look/Hear into the past a little, for long distances the exact moment may not be pinpointed precisely and can vary about 5% of the distance that is looked back.
+-Prepare an afterimage of yourself at this point that appears to do/say something. Its incorporeal and thus cannot interact with anything.
+-Resonating Force: When casting your ranges can be calculated from any point you visited during the last X minutes

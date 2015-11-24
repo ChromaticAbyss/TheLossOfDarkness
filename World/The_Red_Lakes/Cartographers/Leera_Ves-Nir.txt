@@ -1,0 +1,74 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-28T12:06:55+02:00
+
+====== Leera Ves-Nir ======
+Created Tuesday 28 July 2015
+
+Leera is one of the scouts of the Cartographers.
+As a scout she has to be alone away from the convoy quite a lot and explore roads and locations beforehand. 
+She has a knack for getting into trouble but is also quite good at getting out of it, her plentiful mutations helping out in both regards.
+
+Generating: Points 300(experienced)
+Specials[10] +1 glow threshold
+Bindings[60] Trickster,Drifter,Hydra
+
+**Mutations** 
+Split Tongue
+Reshaping Flesh
+Hydra Serious[
+Black Spirit(Head instead of hair, tied to a plait so they don't move around as much)
+Deformed(Head, elongated)
+]
+Changed Flesh
+Hydra Small[
+Weird Greenish somehwat reflective texture on the left hand and leg
+]
+Drifters Drive
+
+**Burn Table**
+Drifters Trance(3)
+Distracting Presence(5)
+
+
+
+
+[Survival]
+Perception 6 						
+Pathfinding 10			
+	Cartography 5		     			
+Resistance 3					    
+
+[Chasing]
+Driving 7					
+Obstacle 5					
+Sprinting 4					
+Tracking 3					
+
+
+[Combat]
+Shooting 4					
+Hand To Hand 6
+Cover 4						
+
+
+[Social]
+Language 6				
+Fast Talk 8				
+Negotiation 6
+Intimidate 3
+Knowledge: Cultures 3
+Knowledge: Cities 6
+
+[Mental]
+Cast 4
+Willpower 5				   	
+Meditation 3			
+
+
+[Binding Masteries]
+Trickster 7
+	Tricksters Contract, Dazzle
+Drifter 7
+	Walk it off, Fluency
+Hydra 3	

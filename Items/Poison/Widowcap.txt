@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-17T22:39:47+02:00
+
+====== Widowcap ======
+Created Donnerstag 17 September 2015
+
+A bitter tasting mushroom that is pretty poisonous when eaten. Its a little difficult to hide the taste but if it succeeds it can prove extraordinarily deadly. 
+
+
+
+
+=== General Item Stats ===
+**Wgt**: neglectible
+**Durability**: -
+**Est Value**: 2 TU
+
+=== Crafting ===
+By collecting them in nature and cooking 
+
+=== Lesser Quality ===
+**-**
+
+
+=== Medium Quality ===
+**Effect**: After an hour the victim takes 2 damage per hour until the end of the effect. Within the first 2 hours its possible to stop the effect by inducing vomiting.
+**Duration**: 12 hours.
+**Application**: as food poison
+
+
+=== High Quality ===
+**-**
+

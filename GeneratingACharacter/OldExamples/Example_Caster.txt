@@ -1,0 +1,99 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-07T14:51:08+02:00
+
+====== Example Caster(Trickster) ======
+Created Tuesday 07 July 2015
+
+The Difference from this guy to the example Binder is the extreme specialization on one binding: The trickster
+Its abilities will be used at every possible occasion without much respect to the [[Glow]] buildup.
+We won't put points in Binding since background wise the Binding occured naturally unlike with the Binder example character.
+
+Specials[20] Maximum Glow Threshold +2
+Bindings[20] Trickster
+
+Abilities[\110]
+Perception 4				10
+
+Stealth 1					1
+Shooting 2				3
+Cover 3					6
+Reflexes 3				6
+
+Language 3				6
+Fast Talk 6				21
+Nagotiation 2			3
+Knowledge Cities 4		10
+
+Cast 6					21
+Willpower 1				1
+				-sum 88
+
+
+We keep a few PP to upgrade our Binding after rolling it.
+
+
+=== Binding Rolls [Consuming]: ===
+**Stability rolls**(maximum is 15 so we have 8 rolls to nail this): 
+(Willpower + Binding-ability)/2 is 0
+1. Easy(1) 19 9 8 fail
+2. Easy(2) 8 2 - success
+
+**Mutation rolls**
+Binding-ability + (Resistance /2) = 0
+
+**Split tongue**: easy(+5) 3 - - success
+	→ Mutation does not apply 
+
+**Burn Table rolls:** 
+Binding-ability is 0
+
+**Dancing illumination: **easy(+0) 17, 13, 8, missing 8 so we take the maximum of 5 entries of Dancing Illumination
+Position roll: 5 so we enter this effect from 5 to9
+
+**Distracting Presence: **easy(+0) 7 8 1, with a giant strike of luck we take only 1 entry of Distracting Presence
+Position Roll: 1 so we enter this effect at 3
+
+**Unnerving Presence: **easy(+7) 6 - -  success
+
+We take no mutation and only 6 burn table entries(5 of which are rather harmless) thanks to nice rolls.
+
+Final burn table: 
+1 Consume: You take a tenth of your Glow amount as damage to your Stability
+2 
+3 
+4 **Distracting Presence**
+5 **Dancing illumination**
+6 **Dancing illumination**
+7  **Dancing illumination**
+8  **Dancing illumination**
+9  **Dancing illumination**
+10 
+11 
+12 
+13
+14
+15 
+16 
+17 
+18
+19
+20 Sting: You take a tenth of you Glow amount as damage to your Vitality
+
+Since this table is so harmless we don't even need to increase our Cast skill, 6 is a pretty decent value. Spamming abilities will definitly be doable.
+
+Now with that in mind lets spend the res tof the points(22):
+Binding Mastery(Trickster) 5 → 6			6
+Trickster: Dazzle							6
+Trickster: Magic Trick						2
+Trickster: Tricksters Contract 				7
+so we start with all the cool abilities(or at least their base versions)
+
+Leaves 1 point open 
+
+
+
+
+
+
+

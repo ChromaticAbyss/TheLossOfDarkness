@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-17T22:46:57+02:00
+
+====== Curl ======
+Created Donnerstag 17 September 2015
+
+A blood poison that induces convulsion after a short time, effectively rendering the target incapacitated for the duration.
+
+
+=== General Item Stats ===
+**Wgt**: neglectible
+**Durability**: -
+**Est Value**: 10 TU
+
+=== Crafting ===
+From snake or stingmouse venom, then some basic cooking and desitallation
+Crafting+Intelligence medium
+
+
+=== Lesser Quality ===
+**Effect**: After 1D6 turns of combat the target suffers from pain(-1 all) and inability to control its muscles(additional -2 all physical attributes)
+**Duration**: 2 minutes
+**Application**: weapon poison
+
+=== Medium Quality ===
+**Effect**: After 1 turns of combat the target suffers from pain(-1 all) and inability to control its muscles(additional -2 all physical attributes)
+**Duration**: 2 minutes
+**Application**: weapon poison
+
+=== High Quality ===
+**Effect**: Instantly the target suffers from pain(-1 all) and inability to control its muscles(additional -2 all physical attributes)
+**Duration**: 2 minutes
+**Application**: weapon poison
+
+

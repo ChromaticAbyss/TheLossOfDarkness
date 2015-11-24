@@ -1,0 +1,41 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-29T10:17:48+02:00
+
+====== LightHarpoon ======
+Created Wednesday 29 July 2015
+
+The light harpoon is a pnematically powered gun that fires a small harpoon. The barbed hapoon sticks to a target and can be used to pull it using the grip where the wire is anchored on the gun.
+The main downside of this gun is that you can't fire againbefore you repressurized the gun and pulled the harpoon back in.
+
+=== General Item Stats ===
+**Wgt**: 4kg
+**Durability**: ?
+**Est Value(Wilderness)**: 80 Army Rations
+**Est Value(Cities)**:  50 TU
+
+=== Crafting Stats ===
+...
+
+=== Combat Stats: ===
+**Range**: 20 metres
+**Damage**: 1D6+3
+**Reload**:
+   **every X uses**: 1
+**   takes:** 10 Actions (check at the end)
+**Recoil**: 4
+**Size**: Large, Two Hands 
+The harpoon only sticks if it causes a **wound**.
+Pulling on enemies is handled like a supressing attack. 
+
+=== Ammunition: ===
+**Replacement Harppon:**
+	**Est Value(Wilderness)**: 2 Army Rations
+	**Est Value(Cities)**:  2 TU
+
+
+
+
+
+=== Variants ===
+

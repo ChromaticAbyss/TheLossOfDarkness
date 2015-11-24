@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-08-08T16:18:07+02:00
+
+====== ElectroArmor ======
+Created Saturday 08 August 2015
+
+The main defensive mechanism of this armor is deterrence. It shocks anyone who pierces it in melee potentially stunning them.
+
+
+=== General Item Stats ===
+**Wgt**: 4kg
+**Durability**: ?
+**Est Value(Wilderness)**: -
+**Est Value(Cities)**: 50 TU
+
+
+=== Armor Stats ===
+**Zones**: Vary, usually full
+**Pierce Armor**: 2
+**Blunt Armor**: 2
+**Cold Protection**: 2
+**Radiation Protection**: 1
+**Electrical Protection**: 5
+**Mali**: -1
+
+For the electrical discharge roll 1D6. Half of that is applied as damage(zone doesn't matter). 
+If the dice roll is equal to or greater than the targets wound threshold the victim then has to pass a Willpower normal(-the dice roll) check or is stunned for 2 turns of combat.
+
+
+=== Ammunition: ===
+**Battery:**
+	**Est Value(Wilderness)**: 10 Army Rations
+	**Est Value(Cities)**:  10 TU
+	Contains 20 charges, each electrical shock consumes one charge.
+
+
+=== Variants and Modifications ===
+**Invisible**: The armor doesn't look much different from commonly worn leather/thick clothing. Price +50 TU.

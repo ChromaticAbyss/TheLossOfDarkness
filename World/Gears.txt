@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-08-28T17:18:44+02:00
+
+====== Gears ======
+Created Freitag 28 August 2015
+
+A popular game among mercenaries. This is a card game with one or more gears printed on each as well as additive(+0,+1,+2) or multiplicative points(x0,x2,x3) or an engine(positive or negative start direction, - gives points usually).
+The goal is to lay them down in a line connecting to another player. Its possible to build onto any line starting from or leading to you. 
+
+A completed 5 card line awards points: Ends on +: To the player that started it. Ends on -: To the player that it ends at.
+
+Each player has a deck of 15 cards that is customizable pre game.
+
+Cards can be played face down if they have +0 or x0. 
+
+Card types:
+Engine(Positive)
+Engine(Negative, +2)
+
+Connector(+0)
+Gears(+1,+2)
+Gears(x2,x3)
+Reverser(Reverse,+0)
+Reverser(Reverse,+2)
+Reverser(Reverse,x2)
+Broken Gear(x0)
+
+Certain inns also hand out special versions of these cards so a deck can sometimes tell quite a lot about the owner.

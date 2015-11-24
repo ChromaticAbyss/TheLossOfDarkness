@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-08-08T16:09:34+02:00
+
+====== CombatHelmet ======
+Created Saturday 08 August 2015
+
+An advanced composite combat helmet with the potential to stop small projectiles or severely limit their impact.
+
+=== General Item Stats ===
+**Wgt**: 1kg
+**Durability**: ?
+**Est Value(Wilderness)**: 30 Army Rations
+**Est Value(Cities)**:  40 TU
+
+
+=== Armor Stats ===
+**Zones**: Head
+**Pierce Armor**: 4
+**Blunt Armor**: 3
+**Cold Protection**: 0
+**Mali**: -1 perception

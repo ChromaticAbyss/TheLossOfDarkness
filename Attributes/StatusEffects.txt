@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-10-01T20:28:33+02:00
+
+====== StatusEffects ======
+Created Donnerstag 01 Oktober 2015
+
+Exhausted: -1 modifier to Endurance
+Tired: -1 Awareness, Intelligence (1 day without sleep)
+Sleep Deprived: -2 Awareness, Intelligence, -1 Endurance, Willpower  (3+ days without sleep)

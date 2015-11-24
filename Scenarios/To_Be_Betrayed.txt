@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-30T16:08:47+02:00
+
+====== To Be Betrayed ======
+Created Tuesday 30 June 2015
+
+Watcher
+
+The Bleak
+
+
+Stages:
+[1] Preparations
+-Collect class 17 binding (marked territory of a band of scavengers)
+-Collect filled data carriers(yellow or red lights)
+-Find an electrician
+
+[2] Scouting
+-Go to Shivering Pulse and live there for a week. Learn to know people and customs, take note of any strangenesses.
+
+[3] Rerouting
+-Gather tons of electrical materials
+-Set up electrical conduits across the land
+
+[4] Lure
+-Acess the bleak version of Shivering Pulse, plant the lure and the carrier cable.
+
+[5] Showdown
+-Fire all systems hope for the best
+-Dayan absorbs the watcher and reveals his plan.

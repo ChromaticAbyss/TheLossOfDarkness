@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-23T16:36:51+02:00
+
+====== OtherPeopleAndPlaces ======
+Created Mittwoch 23 September 2015
+
+Travellers Rest
+**Location**: Civic District
+**Services: **Beds(short term only), storage. Thats it. 
+**Description:** Rooms are to be cleaned at 7 in the morning and left after inspection at around 8. Very clean and cold design. No more than one person per room allowed.
+**Owner: **Delia Byrd, a veterean of the army with only one leg and a loud voice.
+
+
+Cook John's Cantina
+**Location**: Civic District
+**Services: **cheap Food, prepared with more duty than love
+**Description:** Small cantina with two different foods prepared each day. The jovial John also sells army rations of nearly indefinite durability, a useful resouce for those that seek to travel out into the wilds for longer periods of time.
+**Owner: **Cook John
+
+
+
+
+
+
+
+Mutant Ferry
+**Location**: Outside Town
+**Services:** Carries mutants which are not allowed in the city around it for a small fee, can also provide simple housing if needed.
+**Description:** One red and one blue shabby motor boat.
+**Owner:** Alvin and Rachael Soto

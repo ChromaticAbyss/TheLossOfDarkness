@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-08-08T16:04:39+02:00
+
+====== Kevlar ======
+Created Saturday 08 August 2015
+
+A kevlar vest that is extremely strong against piercing attacks but less potent at absorbing blunt impacts. They won't really stop heavy weapons or armor piercing rounds tough. And they don't protect the head.
+
+=== General Item Stats ===
+**Wgt**: 6kg
+**Durability**: ?
+**Est Value(Wilderness)**: 40 Army Rations
+**Est Value(Cities)**:  60 TU
+
+
+=== Armor Stats ===
+**Zones**: Torso, front and back
+**Pierce Armor**: 4
+**Blunt Armor**: 2
+**Cold Protection**: 0
+**Radiation Protection**: 1
+**Mali**: -2
+
+
+
+
+
+=== Variants and Modifications ===
+**Invisible**: The armor doesn't look much different from commonly worn leather/thick clothing. Price +50 TU.

@@ -1,0 +1,61 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-18T09:51:40+02:00
+
+====== Punk ======
+Created Freitag 18 September 2015
+
+
+
+=== Variable Stats ===
+[[Attributes:Vitality|Vitality]]		 
+Maximum	: 15
+Current		: 15-D6
+
+[[Attributes:Stability|Stability]] 		
+Maximum	: 11
+Current    	: 11-D6
+Common psychosis: Fear
+
+[[Attributes:WoundThreshold|Wounds]]
+Treshold	: 6
+
+[[Attributes:GlowThreshold|Glow]]		
+Threshold	: -
+Current		: -
+
+[[Attributes:Plasticity|Plasticity]]
+Available	: -
+Used		: -
+
+**Other temporary effects** (enter wounds, diseases etc. here)
+Pontentially Weakened/Diseased: -1 all Attributes
+Potentially Drugged: -2 Awareness, -1 Intelligence and Willpower 
+
+
+=== Attributes ===
+Burst		: 4
+Endurance	: 5
+Dexterity	: 4
+Willpower	: 2
+Intelligence	: 1
+Awareness	: 2
+
+=== Abilities ===
+**Name 	[Beginner][Intermediate][Experienced][Professional][Legend]**
+		  **Specialisations**
+Hand To Hand [Intermediate]  		15
+Throwing Weapons [Intermediate]	15
+Stealth [Intermediate]				15
+Cover [Beginner]					5
+Craft [Beginner]					5
+Reflexes [Intermediate]			15
+Scavenging[Intermediate]			15
+						   Sum 85
+
+
+=== Equipment ===
+[Weight] Name, important stats
+Melee Weapon 1h: 1D6+2
+Throwing Weapon Basic: 1D6, 7 metres
+

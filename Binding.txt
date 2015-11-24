@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-24T21:54:16+02:00
+
+====== Binding ======
+Created Wednesday 24 June 2015
+
+{{../Pictures/Binding_Mesh.png?width=400}}
+A [[Containment]] is a small technological unit, most often in the form of a cube that is used to contain and exploit an otherworldly entity. In past times these often malevolent or chaotic beeings we cast into these structures for abuse of their amazing potential, a lot of them still work but a large number of them has decayed by now resulting in the escape of whatever is contained within. This is how [[Unbound]] come to be.
+
+[[Binding]] refers to the dangerous process absorbing or being possessed(the difference is floating) by such a being. This happens for a variety of reasons: A weak willed coming across an entity looking for a host, a person absorbing an entity from a technological Binding to aquire its powers or someone binding an [[Unbound]]  to themselves to stop it from roaming.
+In all of these cases the consequences can be dangerous for the weak willed with the dangers increasing manifold for persons binding multiple entities. Common is a variety of physical changes (reffered to in world as [[Mutations]]) and unwanted interaction between bindings which is to say that as a person hosts more Bindings the effects of [[Glow]] can get worse (see [[BurnTable]]).
+
+
+Taking a binding requires the [[Abilities:Binding|Binding]] skill, certain preparation and a series of skill checks.
+All of these difficulties are one category **easier** if the Binding is chosen as part of character generation, one category **harder** if you are binding an [[Unbound]] against its will.
+
+**Stability** 
+This check yields acute (and maybe permenent reductions in [[Attributes:Stability|Stability]]). Roll checks of the **respective difficulty** against your [[Abilities:Binding|Binding]]+[[Attributes|Willpower]] + **the modifier in brackets**. Each time you fail lose 2 Stability, should this reduce you to 0 Stability, lose one point of your maximum and refresh to your new maximum. Roll these checks until your succeed, adding (+1) to your modifier each time.
+Note: If this is part of **character generation** you can only lose 1 point of maximum Stability this way, wether you fail or not fill up your Stability afterwards.
+
+**Mutation**  
+This check tests wether the character obtains physical changes upon taking a Binding. For any Binding there is a list of Mutations, check against **each**! 
+The check is rolled with the respective difficulty against the [[Abilities:Binding|Binding]] + [[Attributes|Endurance]] +  **modifier in brackets**  (this means that a character not skilled in Binding is likely to take such a Mutation).
+If you take any Mutation you gain (+5) to the modifier on all subsequent rolls which makes multiple mutations less likely. If so desired the active Binding part can be forfeit and set to 0 to **increase** the likelyhood of getting a desired mutation, for the other components this is not possible.
+
+**BurnTable** 
+This checks wether the character obtains chaotic changes to their Aura which makes interactions with the [[Glow]] riskier, again check against **each!**
+ This check is rolled with the respective difficulty against the [[Abilities:Binding|Binding]]+[[Attributes|Intelligence]] + **modifier in brackets**. If the check failed the **difference** is how many entries of this type you have to add to you BurnTable, **at most 5**. 
+Randomly determine where these go by either rolling for a starting index keeping them grouped or rolling for each individual. Reroll any identical entries that stack.
+[[BurnTable]] entries are not less likely if you got some already. **Entries here** **commonly have special rules, read them.**
+**Tip**: Note only the keyword if you have an easy to overlook amount of Bindings.
+
+
+**Amalgamation** this check yields the [[Binding:BindingMastery|Mastery in a Binding]], skip it when rolling a Binding as part of character generation. Roll a check with the respective difficulty against your [[Abilities:Binding|Binding]] + [[Attributes|Awareness]], if you have leftover points you gain half of them as you starting skill level. 
+
+
+
+
+

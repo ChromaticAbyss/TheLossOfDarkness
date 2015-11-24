@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-08-08T16:13:27+02:00
+
+====== Plate ======
+Created Saturday 08 August 2015
+
+A bulky steel monstrosity padded with a little fabric. Very hard to pierce, not as good at absorbing blunt impacts.
+
+=== General Item Stats ===
+**Wgt**: 15 kg
+**Durability**: ?
+**Est Value(Wilderness)**: 50 Army Rations
+**Est Value(Cities)**: -
+
+
+=== Armor Stats ===
+**Zones**: Varies, commonly all
+**Pierce Armor**: 5
+**Blunt Armor**: 2
+**Cold Protection**: 0
+**Radiation Protection**: 4
+**Mali**: -5, -2 perception if head is included
+
+
+=== Variants and Modifications ===
+**Titanium Alloy: **Pierce Armor 6, Price 300 TU
+**Alluminum Alloy**: Weight -4 KG, Price 150 TU, Mali -4 
+**Lead Suit**: Weight 30Kg, Pierce Armor is 4, Radiation protection 7, Mali -7, Chest only.
+**Ceramic:** Cermaic plates shatter easily under blunt impacts which absorbs a lot of the energy. All covered zones have 5 Blunt Armor but are rendered useless(against all damage) if penetrated once.
+
+

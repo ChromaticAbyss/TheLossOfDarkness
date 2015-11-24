@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-15T15:57:43+02:00
+
+====== WoundThreshold ======
+Created Dienstag 15 September 2015
+
+Derived Stat
+Starts at 5. A character with [[Attributes|Burst]] or [[Attributes|Endurance]] 5 or more gains +1 WoundThreshold.
+A Value that determines how much damage needs to be inflict in a single strike to deal a wound to this character. Wounds inflict negative modifiers to related skill checks aswell as causing bleed and having the risk of infectiton.
+
+Healing of wounds: Every 7 days after obtaining a wound you can roll for wound healing in your regeneration phase. 
+This is a **Normal** check on a value of 7-the amount of wounds you have total. If you succeed you heal one wound (oldest wounds first).
+ If you fail and the wound is not clean it will become infected.
+

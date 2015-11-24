@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-08-08T15:59:15+02:00
+
+====== LeatherArmor ======
+Created Saturday 08 August 2015
+
+For example the commonly found motorcycle suit or some mercenaries cobbled together and patched armor. It has very little downsides in terms of mobility but trades some of thick clothings cold protection for more armor. By the time the armor is fully penetrated by the weapon the electroshock subsides to not shock the wearer as well.
+
+
+=== General Item Stats ===
+**Wgt**: 4kg
+**Durability**: ?
+**Est Value(Wilderness)**: 20-30 Army Rations
+**Est Value(Cities)**:  10-20 TU
+
+
+=== Armor Stats ===
+**Zones**: Vary, usually full
+**Pierce Armor**: 2
+**Blunt Armor**: 2
+**Cold Protection**: 2
+**Radiation Protection**: 1
+**Mali**: -1
+
+
+

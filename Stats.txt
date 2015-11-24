@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-24T22:19:21+02:00
+
+====== Stats ======
+Created Wednesday 24 June 2015
+
+Stats to keep track of:
+Vitality(Physical) 
+	Default Maximum is 15
+Stability(Mental) 
+	Default Maximum is 15
+[[Glow]](Goes up as you use your Binding abilities, cools down naturally) 
+	Default trigger Threshold is 5
+	Goes down 1 per hour if no Casts are used, not outside at night(Aura).
+Plasticity(The characters brains ability to map to bionics)
+	Default Maximum is 3, which means 3 simple implants can be handled
+
+

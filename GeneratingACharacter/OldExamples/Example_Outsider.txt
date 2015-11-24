@@ -1,0 +1,126 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-07T13:43:45+02:00
+
+====== Example Outsider ======
+Created Tuesday 07 July 2015
+
+The world has had its chance to kill Gjeffrey Valencis and it probably will get a lot more. Not that Gjeffrey would give a damn.
+
+150 Points
+
+Specials[10] +1 Vitality
+Bindings[40] Drifter, Trickster
+
+Abilities[74]
+Perception 2					3
+Knowledge Fauna 2			3
+Pathfinding 2				3
+Crafting 3					6
+Resistance 3					6
+Stealth 3						6
+
+Tracking 1					1
+Obstacle 2					3
+
+Hand to Hand 2				3
+Throwing weapons 3			6
+Cover 3						6
+Reflexes 3					6
+
+Language 1					1
+Fast Talk 3					6
+Negotiation 3				6
+Intimidate 2					3
+
+Medic  2						3
+
+Willpower 2					3
+			makes 74
+			26 leftover which we will use to adapt to our mutations if needed
+			
+			
+
+=== Binding Rolls [Drifter]: ===
+(Willpower + Binding-ability)/2 is 1
+Maximum Stability is 15 so we  have 8 tries to nail this.
+1. Easy(1) 19 11 16 fail
+2. Easy(2) 8 4 8 fail
+3. Easy(3) 3 - - success
+
+**Mutation rolls**
+Binding-ability + (Resistance /2) = 2
+**Drifters Drive**: easy(2-5): Auto fail 
+	→ This character has the **drifters drive** mutation
+
+
+**Burn Table rolls:** 
+Binding-ability is 0
+
+**Drifters Trance:** Easy(0) 16 15 15 -> miss by 15 so we take to full maximum of 5 entries.
+	Position roll 19, so we get burn table entries at 19,20,1,2,3
+
+
+=== Binding Rolls [Trickster]: ===
+(Willpower + Binding-ability)/2 is 1
+Maximum Stability is 15 so we  have 8 tries to nail this.
+1. Easy(1) 9 11 13 fail
+2. Easy(2) 1 - - success
+
+**Mutation rolls**
+Binding-ability + (Resistance /2) = 2
+
+**Split tongue**: easy(2+5) 14 1 - success
+	→ Mutation does not apply 
+
+**Burn Table rolls:** 
+Binding-ability is 0
+
+**Dancing illumination: **easy(+0) 10,9,8 missing 8 so we take the maximum of 5 entries of Dancing Illumination
+Position roll: 7, so we enter this effect at 7 to 11
+
+**Distracting Presence: **easy(+0) 11 15 3, missing 3 so we take 3 entries of Distracting presence
+Position Roll: 1 so we enter this effect at 1 to 3
+
+**Unnerving Presence: **easy(+7) 18,20,17, issing 10 so we take the maximum of 5 entries of Unnerving Presence
+Position Roll: 1 so we enter this effect at 1 to 5
+
+
+
+Final burn table: 
+1 Consume: You take a tenth of your Glow amount as damage to your Stability | **Drifters Trance **| **Distracting Presence **| **Unnerving Presence**
+2 **Drifters Trance | Distracting Presence | Unnerving Presence**
+3 **Drifters Trance | Unnerving Presence**
+4 **Distracting Presence | Unnerving Presence**
+5
+6
+7 **Dancing illumination**
+8 **Dancing illumination**
+9 **Dancing illumination**
+10 **Dancing illumination**
+11 **Dancing illumination**
+12 
+13
+14
+15 
+16 
+17 
+18
+19 **Drifters Trance**
+20 Sting: You take a tenth of you Glow amount as damage to your Vitality | **Drifters Trance**
+
+Upon looking at this burn table we notice that especially the first 4 entries hurt **a lot**. We will have to moderate our use of Casts to not stack up too much Glow most of the time. We can still risk it in emergency situations because the chance for a relatively harmless effect is quite high(6 to 19).
+All in all i think this does not warrant putting some of the remaining points in the Cast skill. Instead we add some points to the skills we could buff with our abilities so that we don't have to do so as often:
+Leftover: 26
+Perception 2 → 3  		3
+Fast Talk 3 → 4			4
+Fast Talk 4 → 5			5
+Pathfinding 3 → 4  		4
+Pathfinding 4 → 5			5
+Drifter:Fluency			3 
+Language 1 → 2			2
+
+Leaves us with 0 points.
+
+
+
