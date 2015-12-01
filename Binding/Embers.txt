@@ -71,6 +71,11 @@ Cast: Glow: 5, 1 Actions
 You are immune to damage dealt by heat,fire,smoke and suffocation due to fire consuming your oxygen while in it.
 Duration: [[BindingMastery:|BindingMastery]] minutes.
 
+**Pyrolysis**
+Cost: 5 PP, Requires [[BindingMastery:]] 7
+Cast: Glow: 8, 1 Actions
+Massively accelerates a fire. This increases the burn damage taken each round by your BindingMastery, at least 25% at most 100%.
+
 
 === Low Stability ===
 **Pyromania**: The character wants to set fire to as much stuff as possible and then watch the flames.

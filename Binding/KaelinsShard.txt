@@ -5,17 +5,66 @@ Creation-Date: 2015-09-30T19:42:51+02:00
 ====== KaelinsShard ======
 Created Mittwoch 30 September 2015
 
-Exists in physical form(crystalline) even as unbound.
-Art: Floating runes etc.
+Exists in physical form(crystalline) even as unbound. One special thing is that the **BindingMastery **in this Binding is limited. Each shard comes with a **power rating** thats usually around 1-3 which determines the maximum obtainable value.
+However by killing an unbound of this type or creature with this binding the owner of this binding may add its **power rating** to their own. 
+If you commit enough murders this is one of the most powerful bindings to have.
 
-Abilities:
 
-Kaelins Horizon - Grants a shield of x floating runes. Each rune absobs a wound. If during the duration the shield is reduced to 0 all wounds are applied to random zones.
+[[ProgressPoints|PP]]-cost on character generation: 20 (starts at 2 power rating)
+
+=== Binding Process ===
+[[Binding|Stability]]: Normal difficulty (-0)
+[[Binding|Mutation:]] Normal difficulty (+4)  
+**Eldritch Resonance**: -1 Glow Threshold, -1 modifier to the Cast ability.
+
+[[Binding|Burn Table:]] Normal difficulty (+0)
+: You take a tenth of your [[Glow]] amount as damage to your Stability.
+	
+
+[[Binding|Amalgamation]]: Normal difficulty
+
+
+
+
+=== Specialisations/Casts ===
+
+**Kaelins Horizon**
+[Starting Cast]
+Glow: 15 , 4 Actions
+Grants a shield made of 3 glowing runes that float around the caster, these last  [[BindingMastery]] * 5 turns of combat.
+Each rune absorbs a wound or an effect that would trigger instead of a wound, like stun. 
+Should all shield runes be destroyed during the duration all the effects are applied at once to random zones.
+
+
+**Sigil of Protection** 
+Costs: 10PP, Requires [[BindingMastery:]] 3
+Cast: Glow: 5, 1 Action
+Upgrades the skill **Kaelins Horizon.**
+ [[BindingMastery]] 3+: +1 rune shield
+ [[BindingMastery]] 5+:  Duration + 5
+ [[BindingMastery]] 7+:  Glow cost -5
+ [[BindingMastery]] 10+:  Cast time -2 Actions
+ [[BindingMastery]] 15+:  Also absorbs damage equal to the wound threshold
+ [[BindingMastery]] 20+:  On last rune shield breaking 1D6 effects of your choice are ignored
+ [[BindingMastery]] 25+:  On last rune shield breaking all effects are discarded
+
+
+**Third Eye**
+Costs: 10PP, Requires [[BindingMastery:]] 3
+Increasing the **Binding Mastery **of this mastery costs less **Progress Points: **only 10 instead of the usual 15. 
+[[BindingMastery]] 10+: Cost further reduced to 7 **PP.**
+[[BindingMastery]] 15+: +1 to the [[Abilities:Cast|Cast]], [[Abilities:MentalFortitude|MentalFortitude]] and x skills.
 
 Ghastly Blaze - Adds Glow to a target that has a Binding
 
 Reduce - Spell that is harder to resist and deals more damage the more Glow a target has
 
-Spirit Blade - Creates a spectral copy of the shard that is able to deal Stun unbound on a successfull melee attack, deals 1D6 stun damage. Vs persons with a binding a triggered stun only make it impossible for them to use binding abilities.
+Spirit Blade - Creates a spectral copy of the shard that is able to deal Stun damage to an unbound on a successfull melee attack, deals 1D6 stun damage. Vs persons with a binding a triggered stun only make it impossible for them to use binding abilities.
 
 Tether - Connects to a person with a Binding. Lasts X, max Range Y. While casting both characters gain half of the Glow of the spell. Can be cast on enemies but they can resist it.
+
+
+
+=== Low Stability ===
+**Paranoia**: 
+

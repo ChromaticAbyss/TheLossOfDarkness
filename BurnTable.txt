@@ -26,7 +26,7 @@ A BurnTable is a table of bad things that can happen on a failed Cast check. It 
 17
 18
 19
-20 Sting: You take a tenth of you [[Glow]] amount as damage to your Vitality.
+20 Sting: You take a tenth of your [[Glow]] amount as damage to your Vitality.
 
 As the characters aquire Bindings they will most likely gain entries in their [[BurnTable]] that will increase the potential for side effects that fit with the Binding they aquired.
 Note: Its completely possible that side effects of different types stack in a field.

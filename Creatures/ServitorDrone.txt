@@ -21,3 +21,8 @@ Hit Zones/Wound Effects:
 Melee: 6
 Reflexes: 3
 Cover: 3
+
+
+
+Abilities: 
+[[Binding:TormentedSteel|Pass through metal]]
