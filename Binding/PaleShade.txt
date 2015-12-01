@@ -43,8 +43,8 @@ Character becomes completely unmemorable even for persons that observed them up 
 Cost: 5 PP, Requires [[BindingMastery:]] 5
 Glow: 5, 3 Actions
 Character starts blending into the current enviournment. This camoflage affects all senses, to detect the character the character a **hard** check on [[Attributes|Awareness]] is needed, this may be modified in addition by the remaining points of a [[Abilities:Stealth|stealth]] roll.
-Lasts up to [[BindingMastery]] turns of combat. 
+Lasts up to [[BindingMastery]] * 2 turns of combat but is broken by fast movement.
 This ability does not have any effect on animals, machines, phantoms and other lesser intellects.
 
 
-**Siluette**:  Move through solid matter
+

@@ -43,7 +43,7 @@ Use your Binding to deliver a physical strike onto a target in vision that is [[
 This can of course also be used to shatter objects at a distance.
 
 
-**Glowing Arrow**: 
+**Glowing Arrow**
 Cost: 5 PP, Requires [[BindingMastery:]] 5
 Glow: 4, 1 Actions
 You have up to [[BindingMastery:|BindingMastery]] turns to use any Cast. That cast has its range extended by your [[BindingMastery:|BindingMastery.]] 
@@ -56,10 +56,10 @@ Instantly teleport to a location [[BindingMastery:|BindingMastery]] / 2 metres a
 
 		
 **Ether Grasp**
-Cost: 4 PP, Requires [[BindingMastery:]] 9
+Cost: 4 PP, Requires [[BindingMastery:]] 9, **Glowing Arrow**
 Passive
 The range of all Reach abilities and the range bonus from Glowing Arrow are doubled.
 
 === Low Stability ===
-**Slave to spacetime:** See the mutation, stacks with it. The actual space around you warps so all physical activities get another -1 modifier if they happen closer than D20 metres to you (roll range anew for each check).
+**Slave to spacetime:** The actual space around you warps so all physical activities get a -2 modifier if they happen closer than D20 metres to you (roll range anew for each check). Gain 2 [[Glow]] each hour.
 

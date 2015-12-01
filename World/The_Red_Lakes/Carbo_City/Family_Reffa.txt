@@ -8,7 +8,7 @@ Created Freitag 18 September 2015
 
 
 The Reffa family owns the fish processing plant and trawlers on the red lakes. In addition to controling this major source of food they are tied to pretty much every inn and brothel in Carbo city. 
-Victoria Reffa, bald somewhat
+
 
 === Values of the organisation ===
 **Quality of Life**: Even in those dire times life must be worth living for everyone!
@@ -19,3 +19,7 @@ Fish Processing Plant
 Fishing trawlers
 6 Inns/motels
 2 Brothels
+
+
+=== Important persons ===
+[[World:Persons:Victoria Reffa|Victoria Reffa]], manages the Fish Processing plant

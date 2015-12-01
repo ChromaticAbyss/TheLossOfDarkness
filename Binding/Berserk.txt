@@ -37,11 +37,10 @@ An entity of pure rage is bound within the character. When unleashed it turns th
 [Starting Cast]
 Glow: 3 , 1 Action
 The character enters berserking mode which means the player no longer sees the amount of Vitality the character has. 
-The character does not get any penalties due to pain and will fight until they bleed out staying at full combat capacity until they reach -max Vitality at which point they drop dead. They still take bleedout damage tough!
-Gains an extra action each turn only usable as an attack, Melee attacks also deal +1 damage.
- Also a Berserking character is less perceptive of his enviournment, Reflexes and Perception , Cover suffer a -2 modifer. 
- After the last hostile has fallen the character must roll a Willpower(normal) check to calm down or he keeps attacking allies. Its also possible to cancel the berserk after 5 or more turns of combat even with hostiles around, this is a Willpower(hard) check.
-	   
+**Pain Immunity: **While berserking the character does not get any penalties due to pain and will fight until they bleed out staying at full combat capacity until they reach -max Vitality at which point they drop dead. They still take bleedout damage tough!
+Gains an extra action each turn, only usable as an attack, Melee attacks also deal +1 damage.
+Also a Berserking character is less perceptive of his enviournment: [[Attributes|Awareness]],  [[Abilities:Reflexes|Reflexes]] , [[Abilities:Cover|Cover]] suffer a -2 modifer. 
+After the last hostile has fallen the character must roll a [[Attributes|Willpower]](normal) check to calm down or he keeps attacking allies. Its also possible to cancel the berserk after 5 or more turns of combat even with hostiles around, this is a [[Attributes|Willpower]](hard) check.
 
 **Squad leader** 
 Costs 4PP, Requires [[BindingMastery:]] 8
@@ -56,22 +55,22 @@ Cast while **Berserking** to gain +1Action(Move only) and +1Action(Attack only) 
 **Blast of Rage** 
 Costs 3PP, Requires [[BindingMastery:]] 4
 Glow: 7 , 0 Actions
-Cast while **Berserking** to gain +[[Binding:BindingMastery|BindingMastery]] /2 damage to your next attack. Must be within this turn of combat, if the attack misses the bonus is lost.
+Cast while **Berserking** to gain +[[Binding:BindingMastery|BindingMastery]] /2 damage to your next melee attack. Must be within this turn of combat, if the attack misses the bonus is lost.
 
 **Fueled by Pain**
 Costs 5PP, Requires [[BindingMastery:]] 6
  Passive
-When taking a wound while not Berserking or otherwise suppressing wound pain you gain an Action and can cast **Berserk** instantly for no action cost.
+When taking a wound while not **Berserking** or otherwise **Pain Immune** you gain an **Action** and can cast **Berserk** instantly for no action cost.
 
 **Bloodborn**  
 Costs 5PP, Requires [[BindingMastery:]] 7
 Passive
-You don't take bleedout damage while **Berserking**.
+You don't take **bleeding** and **critical vitality** damage while **Berserking**.
 
 **Sanguine Roar**
 Costs 8PP, Requires [[BindingMastery:]] 4
 Glow: 14 , 2 Actions
-A powerful shout that can desorient equals, stun inferiors and outright kill the weakest foes. 
+A powerful shout that can desorient equals, stun inferiors and outright kill the weakest foes, entities with **Immunity to Fear** are immune to this ability.
 Power rating is [[BindingMastery:|BindingMastery]] + 3 while **Berserking,** +3 if caster is below 5 Hitpoints - target [[Attributes|Willpower]]** + **[[Attributes|Endurance]]
 A power rating of 1 or more results in a -1 modifier on every action for 5 turns of combat.
 A power rating of 3 or more results in a 1D3 turn of combat stun and the above daze.

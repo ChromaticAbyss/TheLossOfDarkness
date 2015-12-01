@@ -50,7 +50,7 @@ Weapons made of metal still have their normal effect on you.
 **Lockdown**
 Costs:8PP, Requires [[BindingMastery:]] 4
 Glow: target mass in kg * 2 , 2 Actions
-Disbles a weapon or other technolgoical object with a mass of  [[BindingMastery:|BindingMastery²]] kilograms or less for 10 turns of combat.
+Disbles a weapon or other technolgoical object with a mass of  [[BindingMastery:|BindingMastery]] ^2  kilograms or less for 10 turns of combat.
 
 === Low Stability ===
 **???**

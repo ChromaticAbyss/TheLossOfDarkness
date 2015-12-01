@@ -13,17 +13,16 @@ If you commit enough murders this is one of the most powerful bindings to have.
 [[ProgressPoints|PP]]-cost on character generation: 20 (starts at 2 power rating)
 
 === Binding Process ===
+**Special Rule: **Kaelin's Shard is actively trying to bind. No [[Abilities:Binding|Binding]] skill is required to initiate the process, however the -3 modifier to incompetent is applied in every roll! (Just because it wants to bind does not mean it doesn't try to change you)
 [[Binding|Stability]]: Normal difficulty (-0)
 [[Binding|Mutation:]] Normal difficulty (+4)  
 **Eldritch Resonance**: -1 Glow Threshold, -1 modifier to the Cast ability.
 
 [[Binding|Burn Table:]] Normal difficulty (+0)
-: You take a tenth of your [[Glow]] amount as damage to your Stability.
+**Slipping Sanity**: You take a tenth of your [[Glow]] amount as damage to your Stability.
 	
 
 [[Binding|Amalgamation]]: Normal difficulty
-
-
 
 
 === Specialisations/Casts ===
@@ -35,19 +34,23 @@ Grants a shield made of 3 glowing runes that float around the caster, these last
 Each rune absorbs a wound or an effect that would trigger instead of a wound, like stun. 
 Should all shield runes be destroyed during the duration all the effects are applied at once to random zones.
 
+**Where dreams go to die**
+[Starting Cast]
+Glow: 0, 0 Actions
+Absorb another **Kaelin's Shard** granting you its power level but none of the other boni.
+You don't need to make any Stability, Mutation, Burn Table or AMalgamation rolls. 
 
 **Sigil of Protection** 
 Costs: 10PP, Requires [[BindingMastery:]] 3
-Cast: Glow: 5, 1 Action
+Passive
 Upgrades the skill **Kaelins Horizon.**
  [[BindingMastery]] 3+: +1 rune shield
  [[BindingMastery]] 5+:  Duration + 5
- [[BindingMastery]] 7+:  Glow cost -5
+ [[BindingMastery]] 7+:  +1 rune shield
  [[BindingMastery]] 10+:  Cast time -2 Actions
- [[BindingMastery]] 15+:  Also absorbs damage equal to the wound threshold
+ [[BindingMastery]] 15+:  Glow cost -5
  [[BindingMastery]] 20+:  On last rune shield breaking 1D6 effects of your choice are ignored
  [[BindingMastery]] 25+:  On last rune shield breaking all effects are discarded
-
 
 **Third Eye**
 Costs: 10PP, Requires [[BindingMastery:]] 3
@@ -55,13 +58,50 @@ Increasing the **Binding Mastery **of this mastery costs less **Progress Points:
 [[BindingMastery]] 10+: Cost further reduced to 7 **PP.**
 [[BindingMastery]] 15+: +1 to the [[Abilities:Cast|Cast]], [[Abilities:MentalFortitude|MentalFortitude]] and x skills.
 
-Ghastly Blaze - Adds Glow to a target that has a Binding
+**Ghastly Blaze**
+Costs: 5PP, Requires [[BindingMastery:]] 5
+Glow: 5 , 1 Action
+Target gains [[Glow]] equal to 5 + 2 x the amount of different bindings they have. Afterwards they have to roll a [[Abilities:Cast|Cast]] check or roll on their burn table.
 
-Reduce - Spell that is harder to resist and deals more damage the more Glow a target has
+**Chaotic Disection **
+Costs: 10PP, Requires [[BindingMastery:]] 6, **Ghastly Blaze**
+Passive
+Upgrades the skill **Ghastly Blaze.**
+[[BindingMastery]] 6+: +1 x the amount of targets bindings as [[Glow]].
+[[BindingMastery]] 8+: -2 modifier to target cast check
+[[BindingMastery]] 10+: +3 base [[Glow]] added
+[[BindingMastery]] 12+: -2 modifier to target cast check
+[[BindingMastery]] 14+: Should the target roll on their [[BurnTable]] all even numbers additionally read as "Take a tenth of your [[Glow]] as [[Attributes:Stability|Stability]] damage, cannot use [[Binding]] powers for 1D3 turns of combat."
+[[BindingMastery]] 16+: +2 x the amount of targets bindings as [[Glow]].
+[[BindingMastery]] 18+: +3 base [[Glow]] added
+[[BindingMastery]] 20+: -2 modifier to target cast check
+[[BindingMastery]] 25+: Should the target have to roll on the burn table they roll twice, both results take effect.
 
-Spirit Blade - Creates a spectral copy of the shard that is able to deal Stun damage to an unbound on a successfull melee attack, deals 1D6 stun damage. Vs persons with a binding a triggered stun only make it impossible for them to use binding abilities.
+**Reduce**
+Costs: 5PP, Requires [[BindingMastery:]] 4
+Glow: 5 , 2 Actions
+Targets a creature or person, the first effect of this spell is that it allows the caster to know wether this entity currently has [[Glow]]. Secondly this spell deals [[Glow|Target-Glow]] / 10 damage to both [[Attributes:Stability|Stability]] and [[Attributes:Vitality|Vitality]]. 
 
-Tether - Connects to a person with a Binding. Lasts X, max Range Y. While casting both characters gain half of the Glow of the spell. Can be cast on enemies but they can resist it.
+**Spirit Blade**
+Costs: 5PP, Requires [[BindingMastery:]] 2
+Glow: 5 , 2 Actions
+Creates a spectral copy of the shard that is able to deal Stun damage to an unbound on a successfull melee attack, deals 1D6 stun damage. 
+Vs creatures/persons with a binding a triggered stun only make it impossible for them to use binding abilities.
+The blade lasts for 5 + [[BindingMastery]] * [[BindingMastery]] turns.
+
+**Slicing Rune**
+Costs: 10PP, Requires [[BindingMastery:]] 6, **Spirit Blade**
+Passive
+Upgrades the skill **Spirit Blade.**
+Deals +1 stun damage for each full 2 BindingMastery. 
+[[BindingMastery]] 20+: If you hit a target with your **Spirit Blade** you may cast Ghastly Blaze or Reduce on them instantly without expending an action(s).
+
+**Rune of the distant light**
+Costs: 5PP, Requires [[BindingMastery:]] 15
+Passive
+Upgrades the skills **Spirit Blade **and **Sigil of Protection**
+While any of these skills is active all casts from this Binding cost one less [[Glow]].
+
 
 
 

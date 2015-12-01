@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2015-09-18T09:28:35+02:00
-
-====== Alayine Gevera ======
-Created Freitag 18 September 2015
-

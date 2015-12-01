@@ -5,6 +5,7 @@ Creation-Date: 2015-07-29T09:35:48+02:00
 ====== Cartographers Arrival ======
 Created Wednesday 29 July 2015
 
+Aka. Something out of nothing
 
 Resources needed:
 500 Rations of Food
@@ -12,10 +13,34 @@ Resources needed:
 1000 Litres of Fuel
 200 TU worth of Ammunition (they don't need that so its not neccessary to collect this)
 
-These resources are granted to them by the council to be taken from the city. The problem is its not stated **where** exactly these are taken from and who is responsible so trouble arises quickly.
+These resources are granted to them by the council to be taken from the city. The problem is its not stated **where** exactly these are taken from and who is responsible so trouble is bound to arise quickly.
+In the end unclean negotiations and maybe even stealing certain things may be necessary.
+
+In Carbo city the following sources/organisations/persons could supply things: 
+
+=== Food ===
+[[World:Persons:Victoria Reffa|Victoria Reffa]]: Can supply food rations and help negotiating with other suppliers. Will give 100 rations openly and 100 if 300 are found from other sources.
+[[World:Persons:Alayine Gevera|Alayine Gevera]]: What do you mean? We produce no food. 
+
+=== Fuel ===
+**Refinery **/ [[World:Persons:Alayine Gevera|Alayine Gevera]]: Will provide 100 litres of Fuel (a measly amount) and then ask the characters to leave and search for support elsewhere. 
+To get more out of her requires some serious negotiation power, maybe [[Abilities:Intimidate|Intimidation]] with help from other groups in town or abuse of the fact that the public opinion of her is low.
+[[World:Persons:Kastav Gevera|Kastav Gevera:]] Will promise support(~400 litres of fuel compared to Alayines 100) but will intentionally delay everything as long as possible and try to get additional deals. The hardest part is even getting to him which is a tas requiring patience and good connections. 
+Will kick out anyone talking bad about a family member without hesitation.
 
 
-in Carbo city the following persons could supply things: 
+=== Water ===
+New **Water Filters** can be bought for ~50 credits and massively improve the quality of water pumped at the river, **Water Purifier** can be bought for ~200 credits and is even more effective.
+It will probably be easier to just earn the money for this, compared to nailing down any singular person willing to pay for this. 
+Some persons may do it tough, just for the credit and/or for having to spend nothing else.
 
 
+=== Weapons ===
+Weapons and Ammunition are not needed but the characters might aswell try to et them anyway for personal upgrades.
+Most notably while asking around a random crippled veterean called **Hensert** will shuffle up and just hand over 100 Credits without even a second thought. He will also tell lots of war stories from his time in the lithium border patrol. He will also recommend to "smoke all of 'dem abominations out there" multiple times.
 
+
+=== Generic Monetary Support ===
+[[World:Persons:Theresia Estra Haba|Theresia Estra Haba:]] "no, fuck off."
+[[World:Persons:Melis Estra Haba|Melis Estra Haba:]] "Might be we hav' some leftover stuffs. I'm gonna ask one of my guys." Results in a barrel of beer, 5 spare tires, a box of screws in different sizes, two cans of oil and a **one** **person boat** in dire need of repair
+[[World:Persons:Mahd Estra Haba|Mahd Estra Haba:]] 100 TU after a lengthy discussion and lots of people sent to check legitimacy. easily 300 if the words "city" and "security" fall at some points. 
