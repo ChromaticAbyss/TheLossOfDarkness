@@ -9,7 +9,7 @@ Created Wednesday 24 June 2015
 A [[Containment]] is a small technological unit, most often in the form of a cube that is used to contain and exploit an otherworldly entity. In past times these often malevolent or chaotic beeings we cast into these structures for abuse of their amazing potential, a lot of them still work but a large number of them has decayed by now resulting in the escape of whatever is contained within. This is how [[Unbound]] come to be.
 
 [[Binding]] refers to the dangerous process absorbing or being possessed(the difference is floating) by such a being. This happens for a variety of reasons: A weak willed coming across an entity looking for a host, a person absorbing an entity from a technological Binding to aquire its powers or someone binding an [[Unbound]]  to themselves to stop it from roaming.
-In all of these cases the consequences can be dangerous for the weak willed with the dangers increasing manifold for persons binding multiple entities. Common is a variety of physical changes (reffered to in world as [[Mutations]]) and unwanted interaction between bindings which is to say that as a person hosts more Bindings the effects of [[Glow]] can get worse (see [[BurnTable]]).
+In all of these cases the consequences can be dangerous for the weak willed with the dangers increasing manifold for persons binding multiple entities. Common is a variety of physical changes (reffered to in world as Mutations) and unwanted interaction between bindings which is to say that as a person hosts more Bindings the effects of [[Glow]] can get worse (see [[BurnTable]]).
 
 
 Taking a binding requires the [[Abilities:Binding|Binding]] skill, certain preparation and a series of skill checks.

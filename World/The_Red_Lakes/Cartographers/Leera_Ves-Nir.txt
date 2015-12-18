@@ -5,19 +5,71 @@ Creation-Date: 2015-07-28T12:06:55+02:00
 ====== Leera Ves-Nir ======
 Created Tuesday 28 July 2015
 
-Leera is one of the scouts of the Cartographers.
+Leera is the scout/technician of the Cartographers.
 As a scout she has to be alone away from the convoy quite a lot and explore roads and locations beforehand. 
 She has a knack for getting into trouble but is also quite good at getting out of it, her plentiful mutations helping out in both regards.
+Her other great passion is mountaineering. When she was a more or less normal human a fall from great height nearly killed her, a high dose of Animoplasm saved her life but left her paralyzed.
+Scrapping together lots of cash a bionic spine was bought for her and implanted to replace her damaged nerve cords. The implant had multiple malfunctions requiring two follow up operations,
+each of which was sealed with a dose of cheap Hydraplasm to get going faster. The high dosage over a short time made her fuse with the Hydra enabling her body to self heal. 
+The implant is now useless and slowly broken down by her body. Leera saw her Binding as an awesome new possibility and immediately studied it and its interactions with great curiosity and will to learn.
+She has a large grief against anyone who rejects their amazing possibilities.
+ 
 
-Generating: Points 300(experienced)
-Specials[10] +1 glow threshold
-Bindings[60] Trickster,Drifter,Hydra
+Generating: Points  ?
+Bindings[40] Drifter,Hydra
+
+
+
+=== Variable Stats ===
+[[Attributes:Vitality|Vitality]]		 
+Maximum	: 16
+Current		:
+
+[[Attributes:Stability|Stability]] 		
+Maximum	:  13
+Current    	: 
+Common psychosis: See Hydra
+
+[[Attributes:WoundThreshold|Wounds]]
+Treshold	: 6
+
+[[Attributes:GlowThreshold|Glow]]		
+Threshold	: 5
+Current		:
+
+[[Attributes:Plasticity|Plasticity]]
+Available	: 
+Used		: -
+
+=== Attributes ===
+Burst		: 3
+Endurance	: 5
+Dexterity	: 3
+Willpower	: 3
+Intelligence	: 2
+Awareness	: 4 
+
+=== Abilities ===
+**Name 	[Beginner][Intermediate][Experienced][Professional][Legend]**
+		  **Specialisations**
+Craft [Experienced] Specialised in Vehicular Maintainance
+Scouting [Professional]**[Teacher]** Specialised in Mountaineering
+Hand To Hand [Experienced] 
+Reflexes [Experienced]
+Driving [Intermediate]
+Cast [Intermediate]
+
+=== Bindings ===
+Drifter 4
+	Walk it off, Fluency
+Hydra 8 **[Teacher]**
+	Bioweapon(Thorny hooks and impaling spike tentacles), Rapid adaption, Close wound, Lifeguard, Scar Tissue
+
 
 **Mutations** 
-Split Tongue
 Reshaping Flesh
 Hydra Serious[
-Black Spirit(Head instead of hair, tied to a plait so they don't move around as much)
+Black Spirit(Head instead of hair, tied to a plaid so they don't move around as much)
 Deformed(Head, elongated)
 ]
 Changed Flesh
@@ -26,49 +78,8 @@ Weird Greenish somehwat reflective texture on the left hand and leg
 ]
 Drifters Drive
 
-**Burn Table**
-Drifters Trance(3)
-Distracting Presence(5)
+=== Burn Table ===
+Since Leera has the Cast skill its rare to have anything happen here. If she has to push really hard she will likely get new small mutation. 
 
 
 
-
-[Survival]
-Perception 6 						
-Pathfinding 10			
-	Cartography 5		     			
-Resistance 3					    
-
-[Chasing]
-Driving 7					
-Obstacle 5					
-Sprinting 4					
-Tracking 3					
-
-
-[Combat]
-Shooting 4					
-Hand To Hand 6
-Cover 4						
-
-
-[Social]
-Language 6				
-Fast Talk 8				
-Negotiation 6
-Intimidate 3
-Knowledge: Cultures 3
-Knowledge: Cities 6
-
-[Mental]
-Cast 4
-Willpower 5				   	
-Meditation 3			
-
-
-[Binding Masteries]
-Trickster 7
-	Tricksters Contract, Dazzle
-Drifter 7
-	Walk it off, Fluency
-Hydra 3	

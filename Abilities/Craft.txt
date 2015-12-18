@@ -92,7 +92,7 @@ Passive
 Can understand and work on complicated electrical circuits.
 
 **Bionics**
-**Requirements**: Experience, Intelligence 4, Electrician, Medic Intermediate
+**Requirements**: Experienced, Intelligence 4, Electrician, Medic Intermediate
 **Cost**:10 PP
 Passive
 Can understand and work on bionic implants and limbs.

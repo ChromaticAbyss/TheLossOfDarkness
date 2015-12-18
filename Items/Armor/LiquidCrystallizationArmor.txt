@@ -10,7 +10,7 @@ This refined product of the [[Binding:Crystalline|Crystalline Binding]] has the 
 
 
 === General Item Stats ===
-**Wgt**: 7 kg
+**Wgt**: 5 kg
 **Durability**: ?
 **Est Value(Wilderness)**: -
 **Est Value(Cities)**: 1000 TU

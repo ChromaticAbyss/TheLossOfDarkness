@@ -17,6 +17,9 @@ A pale entity that stalks the shadows and blends in crowds.
 [[Binding|Mutation:]] Normal difficulty (+0)  
 		**Pale Skin**: Very pale almost white skin, does not take to direct sunlight very kindly(-1 modifier to everything while out in bright sun without cover).
 
+[[Binding|Mutation:]] Normal difficulty (+0)  
+	**          Mask for a Face**: This mutation consists of a botox like frozen face that looks very young but can not convey emotion very well. Included is a reduction of the ability to read others emotion as well, -2 to all checks in social situations.
+
 [[Binding|Mutation:]] Normal difficulty (+5)  
 	**          Whisper**: The characters voice is only a whisper. They can't talk loudly for long and can not scream at all.
 

@@ -56,7 +56,7 @@ To determine the sideeffects calculate the following(in order):
 
 Whenever a character gains Hydramutagenity they will have to roll Resistance(Hard) and on failure a result happens that corresponds dependent on the **Hydramutagenity** of the character.
 The Resistance check has a Bonus equal to the surplus Medic points if there are any.
-0-4: Nothing of importance, only a small bump in [[OmegaFactor]] for several days.
+0-4: Nothing of importance, only a small bump in OmegaFactor for several days.
 5-14: Roll a small mutation from the [[Binding:Hydra:Hydra Mutations|Hydra Mutations table]].
 15-24:Roll a large mutation from the [[Binding:Hydra:Hydra Mutations|Hydra Mutations table]].
 25+: The character is obtains the [[Binding:Hydra|Hydra Binding]]. This is a neutral binding but the base difficulties of Hydra are high.

@@ -15,6 +15,7 @@ You start at that level. At worst you automatically fail any check related to th
 Modifier: 0
 Cost Default: 5
 
+
 === Intermediate ===
 Modifier: 3
 Cost Default: 10
@@ -35,8 +36,3 @@ Modifier: 12
 Cost Default: 80
 
 
-
-
-GIT TEST ENTRY
-
-SECOND GIT TEST ENTRY

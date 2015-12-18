@@ -15,8 +15,11 @@ If you commit enough murders this is one of the most powerful bindings to have.
 === Binding Process ===
 **Special Rule: **Kaelin's Shard is actively trying to bind. No [[Abilities:Binding|Binding]] skill is required to initiate the process, however the -3 modifier to incompetent is applied in every roll! (Just because it wants to bind does not mean it doesn't try to change you)
 [[Binding|Stability]]: Normal difficulty (-0)
-[[Binding|Mutation:]] Normal difficulty (+4)  
+
+[[Binding|Mutation:]] Normal difficulty (+0)  
 **Eldritch Resonance**: -1 Glow Threshold, -1 modifier to the Cast ability.
+
+
 
 [[Binding|Burn Table:]] Normal difficulty (+0)
 **Slipping Sanity**: You take a tenth of your [[Glow]] amount as damage to your Stability.

@@ -15,7 +15,7 @@ On a regular day that has enough sleep and no further unease to the mind a chara
 The following penalties apply on certain thresholds of stability.
 A character reduced to **5** **Stability** or less suffers from a **psychotic episode** what exactly happens depends on the trigger for the stability loss and the character in question. The effect magnifies the lower the stability goes. This lasts 6-Stability hours after the triggering event. -2 to Willpower. 
 A character reduced to **0 Stability** or below will stay in the state until positive **Stability** is reached again, also [[Glow]] does not Decay. 
-A character reduced to the **negative of his maximum Stability** or less is **unrecoveably insane** the only options are to either kill them or lock them away so they are no danger to others.
+A character reduced to the **negative of his maximum Stability** or less is **unrecoverably insane** the only options are to either kill them or lock them away so they are no danger to others.
 
 **Psychotic Episodes**
 A temporary madness overcomes the character, chose from the list fitting the character and situation. 

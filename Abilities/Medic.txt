@@ -95,12 +95,12 @@ Attempt to bring a person that is **stable** but in negative vitality up to 0 he
 On a failure the target loses the **stable** status and starts losing vitality again until they can be stabilized again.
 Attribute used is the minimum of Dexterity and Intelligence.
 
+
 **Get well soon**
 **Requirements**: Intermediate
 **Cost**:5 PP
 Passive
 When you successfully care for a persons wound they can roll a check for healing it every 3 days instead of every 7.
-
 
 
 **Apothecary**

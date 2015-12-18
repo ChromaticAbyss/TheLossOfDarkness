@@ -9,11 +9,11 @@ Created Montag 21 September 2015
 The Chapter of Purity
 
 === Symbols ===
+{{../../../Pictures/ChapterOfPurity.png}}
 
 === Core Belief ===
-There once was a **guardian god** that shaped the world and protected it from the other, envious gods. However greedy humans made a pact with a dark god called **Leer** to banish **The Guardian**. After the heretic deed was completed he gave them the power to summon demons at the price of their souls.
-The humans in their infinity greed used their new power to turn on each other turning the world into a blasted hellscape. The only hope to return **The Guardian** is to eradicate all faces of **Leer**, all that follow his teachings, all abominations that make a demon part of them and of course the demons themselves.
-Only when the last of the demons is slain **The Guardian** will return and restore the world.
+There once was a **guardian god** that shaped the world and protected it from the other, envious gods. However greedy humans made a pact with a dark god called **The Empty One** to banish **The Guardian**. After the heretic deed was completed he gave them the power to summon demons at the price of their souls.
+The humans in their infinity greed used their new power to turn on each other turning the world into a blasted hellscape. The only hope to return **The Guardian** is to eradicate all faces of **The empty one**, all that follow his teachings, all abominations that make a demon part of them and of course the demons themselves.
 
 === Organization ===
 During the founding of old Arenna this was made the state religion and source of the ideals and politics of the ambitious nation. After the shattering of that nation refuges carried the religion of purity across the land where it took a foothold mostly in major cities.
@@ -23,7 +23,7 @@ The head of a **Cenotaph** is a **Munditus**, a temple servant or honoured laype
 
 === Acts of Worship ===
 Prayer ceremonies to the guardian god, these are held by two different persons in two different roles. 
-Dependant on the goals of the ceremony its a varying combination of instilling fear,hatred and hope.
+Dependant on the goals of the ceremony its a varying combination of instilling fear, hatred and hope.
 These ceremonies are held once a day with military precision. 
 
 === Holy Books and Artifacts ===
@@ -34,19 +34,18 @@ These ceremonies are held once a day with military precision.
 8/10
 
 === Ideals ===
-Eradicate all faces of **Leer**, all that follow his teachings, all **abominations** that make a demon part of them and of course the demons themselves.
+Eradicate all faces of **The empty one**, all that follow his teachings, all **abominations** that make a demon part of them and of course the demons themselves.
 Only when the last of the demons is slain **The Guardian** will return and restore the world.
 For those that don't go to war themselves staying clean through regular prayer,cleansings and upholding of morals is the bare minimum. 
 
 === Sins ===
 Being a mutant, binder, summoner and afflicting with such "persons".
 Disobeying orders of higher ups.
-Lack of morals.
+Lack of morals and discipline.
 
 === Saints and other Religious Persons ===
-**Arjaan** who postulated his theory about the hundred faces of **Leer ** and how to in theory find and destroy them.
-[           ] who annihalated the first and second of the faces, giving up his life in the process.
-Revas is seen as a saint and nothing more.
+**Arjaan** who postulated his theory about the hundred faces of **The empty one ** and how to in theory find and destroy them.
+[[World:Religions:Revas|Revas]] while not accepted as divine is still revered as a saint for the killing of the **second face** of **The empty one**, **Ismael Voidshaper. **
 
 === Places of Prayer ===
 The place of gathering and prayer for this religion is called a **Cenotaph **(of God)**. **These are usually large buildings with inhuman proportions, the interior made of black marble and obsidian.
@@ -57,11 +56,11 @@ The **Memorius** traditional dress is grey and the **Divinarius** dress is colou
 
 
 === Other streams of belief ===
-**The Order of Arjaan** hunts the hundred faces of **Leer** and protects all knowledge of them. 
+**The Order of Arjaan** hunts the hundred faces of **The empty one** and protects all gathered knowledge about them. 
 
 === Phrases ===
 "The clean ascend, the corrupted dissolve in the wake of eternity"
-"Corruption runs to deep for the corrupted to even realise" - Usually said on sentencing a discovered mutant to death
+"Corruption runs to deep for the corrupted to even realise" - Usually recited on sentencing a discovered mutant to death
 
 
 

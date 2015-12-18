@@ -6,7 +6,7 @@ Creation-Date: 2015-11-11T10:22:16+01:00
 Created Mittwoch 11 November 2015
 
 A spiderlike metallic construct of the past that served to repair war machinery.
-it is imbued with a **tormented steel** spirit, that commonly manifest via a screaming face on the machinery.
+It is imbued with a **tormented steel** spirit, that commonly manifest via a screaming face on the machinery.
 The tormented steel allows the machine to move without any pneumatics or other engine parts like one would expect from a classical fantasy skeleton.
 The servitor drone has no weapons but can wield its metalworking tools as somewhat threatening melee implements.
 
@@ -17,6 +17,7 @@ Armor 5 Main Body, 3 on Limbs
 Hit Zones/Wound Effects: 
 [1,2,3,4] Main Body, -1D3 Vitality
 [5,6] Limb, -1 all skills
+Damage: 1D6
 
 Melee: 6
 Reflexes: 3
@@ -26,3 +27,4 @@ Cover: 3
 
 Abilities: 
 [[Binding:TormentedSteel|Pass through metal]]
+Otherworldly (Poison Immunity, Fear Immunity)

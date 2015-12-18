@@ -11,8 +11,12 @@ Created Sunday 28 June 2015
 
 **Binding Process:** 
 [[Binding|Stability]]: Normal difficulty (-0)
-[[Binding|Mutation:]] Normal difficulty (+5)  
+[[Binding|Mutation:]] Normal difficulty (+0)  
 		**Distorted Spacial Awareness**: To this character things commonly appear much closer than they are (-2 modifier to Pathfinding,Shooting,Throwing weapons, Reflexes).
+		
+[[Binding|Mutation:]] Normal difficulty (+5)  
+		**Distanced**: The character always appears a little further away than it should be, even at almost touching distance it feels like they are about a metre away. 
+				-1 to Hand to Hand for this character and against this character, -1 to hitting the character with throwing or shooting weapons, -1 modifier to all dexterity skill checks as the character somtimes has to stretch more than expected to grab something.
 		
 
 [[Binding|Burn Table:]] Normal difficulty (+0)  

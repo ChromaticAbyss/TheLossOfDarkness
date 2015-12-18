@@ -74,7 +74,7 @@ A powerful shout that can desorient equals, stun inferiors and outright kill the
 Power rating is [[BindingMastery:|BindingMastery]] + 3 while **Berserking,** +3 if caster is below 5 Hitpoints - target [[Attributes|Willpower]]** + **[[Attributes|Endurance]]
 A power rating of 1 or more results in a -1 modifier on every action for 5 turns of combat.
 A power rating of 3 or more results in a 1D3 turn of combat stun and the above daze.
-A power rating of 5 or more results in the above effects and 1 life force damage per power rating.
+A power rating of 7 or more results in the above effects and 1 life force damage per 2 power rating.
 Effect radius: 10 + [[BindingMastery:|BindingMastery]] metres
 
 === Low Stability ===

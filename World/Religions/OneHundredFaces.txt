@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2015-09-22T21:19:53+02:00
-
-====== OneHundredFaces ======
-Created Dienstag 22 September 2015
-
-Goal kill the hundred incantations of xyz
