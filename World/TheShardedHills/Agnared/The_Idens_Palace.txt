@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-12-26T21:53:12+01:00
+
+====== The Idens Palace ======
+Created Saturday 26 December 2015
+
+An old suite that seems to belong to a conjurer. Even the dimly lit parts seem to hurt in the eyes. 
+Awareness checks with Spectrum: Reveals infinitely small lines of extreme brightness that form runes and circles on the walls.

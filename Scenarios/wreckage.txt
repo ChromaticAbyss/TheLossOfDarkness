@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-11-30T23:16:18+01:00
+
+====== wreckage ======
+Created Montag 30 November 2015
+
+
+Approach: Heavy snow, Frozen lake, site still clear. 
+
+
+
+Contains:
+
+-Servitor Drone
+-Echos
+-A nesting swarm of emberbats
+-Closed hatches
+-corridors that need to be crawled through
+-Electrified water in a corridor
+-Backup tormented core
+-unexploded suncore ammunitions
+-in a locked box a hypertech anti tank rifle (single shot)
+-Corpse with a fragment of [[Binding:KaelinsShard]] (potency 1) embedded into their skull
+
+
+-Reactivating the console yields weirdly deforming walls with bumps and rust like particles forming images and a voice warning 
+"Main control core lost, install backup core immediately. — Main energy core lost, install backup immediately. — Diagnosis system lost access, send a technician immediately — Emergency systems damaged, immediate maintainance needed — Point defense systems inactive, evacuate vehicle. — Perimeter breached, to arms . — Main control core lost..."

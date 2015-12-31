@@ -5,11 +5,9 @@ Creation-Date: 2015-06-25T10:33:59+02:00
 ====== Trickster ======
 Created Thursday 25 June 2015
 
-												   **Trickster Binding**
 										"Don't deal with a trickster, you can only lose..."
 
 A manipulative entity that is only known to bind to to humans.
-
 
 [[ProgressPoints|PP]]-cost on character generation: 20
 
@@ -17,16 +15,16 @@ A manipulative entity that is only known to bind to to humans.
 **Binding Process:** 
 [[Binding|Stability]]: Normal difficulty (-0)
 [[Binding|Mutation:]] Normal difficulty (+3)  
-		**Split tongue**: -1 modifier to perception checks that deal with taste. No downsides regarding speech.
+**Split tongue**: -1 modifier to perception checks that deal with taste. No downsides regarding speech.
 
 [[Binding|Burn Table:]] Normal difficulty (+0)
-		**Dancing illumination:** Dancing lights surround you, lasting for as many turns of combat as you have [[Glow]]. This makes Stealth basically impossible for the duration.
+**Dancing illumination:** Dancing lights surround you, lasting for as many turns of combat as you have [[Glow]]. This makes Stealth basically impossible for the duration.
 
 [[Binding|Burn Table:]] Normal difficulty (+0)
-		**Distracting Presence:** A presence that manifests near the edges of your vision and with barely audible whispers distracts you for as many turns of combat as you have [[Glow]]. This results in a -1 modifier to everything you do for the duration.
+**Distracting Presence:** A presence that manifests near the edges of your vision and with barely audible whispers distracts you for as many turns of combat as you have [[Glow]]. This results in a -1 modifier to everything you do for the duration.
 
 [[Binding|Burn Table:]] Normal difficulty (+5)
-		**Unnerving Presence:** Same as **Distracting Presence** except that it affects your **allies** within 10 metres and **not you**.
+**Unnerving Presence:** Same as **Distracting Presence** except that it affects your **allies** within 10 metres and **not you**.
 
 [[Binding|Amalgamation]]: Normal difficulty
 
@@ -74,6 +72,5 @@ Just thinking about breaking the contract does not count as a try btw.
 
 
 
-
 === Low Stability ===
-**Babylon:** The character loses the ability to communicate with language be it written or spoken. Basic signs still work.
+**Babylon:** The character loses the ability to communicate with language be it written or spoken. Basic gestures still work.

@@ -14,19 +14,19 @@ A multicoloured entity that when bound to a living organism or machine enhances 
 **Binding Process:** 
 [[Binding|Stability]]: Normal difficulty (-0)
 [[Binding|Mutation:]] Normal difficulty (+5)  
-		**Odd Eye Colour/Form**: The character has an extremely weird eye colour that unless concealed by sunglasses makes it very easy to remember this character.  It makes holding eye to eye contact unpleasant (-1 modifier Fast Talk, Negotiation) 
-		Both eye zones count as [[Bionics|mutated]].		
+**Odd Eye Colour/Form**: The character has an extremely weird eye colour that unless concealed by sunglasses makes it very easy to remember this character.  It makes holding eye to eye contact unpleasant (-1 modifier Fast Talk, Negotiation) 
+Both eye zones count as [[Bionics|mutated]].		
 
 [[Binding|Mutation:]] Normal difficulty (+3)  
-		**Chromatic Confusion:** The character starts seeing colours in an entirely different way, which makes it very hard to describe what he sees via speech or drawing. He can still say "i see a car" but not "i see a red car" etc. (-2 modifier to all checks it applies to)
-						He has similar problems finding the things normal humans describe ("look hes at the red car").
+**Chromatic Confusion:** The character starts seeing colours in an entirely different way, which makes it very hard to describe what he sees via speech or drawing. He can still say "i see a car" but not "i see a red car" etc. (-2 modifier to all checks it applies to)
+He has similar problems finding the things normal humans describe ("look hes at the red car").
 
 [[Binding|Burn Table:]] Normal difficulty (+0)
-		**Spectral illumination:** You start visionally glowing for as many minutes as you have [[Glow]]. This makes Stealth basically impossible for the duration.
+**Spectral illumination:** You start visionally glowing for as many minutes as you have [[Glow]]. This makes Stealth basically impossible for the duration.
 
 [[Binding|Burn Table:]] Normal difficulty (+0)
-		**Spectral overflow:** Colours swirl madly before your eyes effectively blinding you for half your current [[Glow]] in turns of combat.
-		  **Special Rule**: Maximum 3 entries.
+**Spectral overflow:** Colours swirl madly before your eyes effectively blinding you for half your current [[Glow]] in turns of combat.
+**Special Rule**: Maximum 3 entries.
 
 
 [[Binding|Amalgamation]]: Normal difficulty

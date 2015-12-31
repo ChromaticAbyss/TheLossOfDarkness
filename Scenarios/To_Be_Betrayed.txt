@@ -5,27 +5,56 @@ Creation-Date: 2015-06-30T16:08:47+02:00
 ====== To Be Betrayed ======
 Created Tuesday 30 June 2015
 
-Watcher
 
-The Bleak
+=== Hook line and sinker ===
+A [[Scenarios:To Be Betrayed:AnIntrodutoryNote|message]] is found on a dead messenger.
+On handing the message over to the council or the bloodline some support can be obtained, an expedition is mounted to meet [[World:Persons:Iden Khonsu|Iden Khonsu]]. Nobody from the council would ever go there for fear of it turning out a trap so that (well paid) job falls to the player characters.
+Objective: Meet [[World:Persons:Iden Khonsu|Khonsu]] and gather as much information on his abilities and military strength. Report back to the employer.
 
 
+=== Meeting the Iden ===
+Go to [[World:TheShardedHills:Agnared|Agnared]] and live there for a week. Learn to know people and customs, take note of any strangenesses.
+On their way there they should meet the **Dissident Priest** and have quite a few opportunities to use their skills to help out different people in the [[World:TheShardedHills|Sharded Hills]].
+
+
+When the characters meet [[World:Persons:Iden Khonsu|Iden Khonsu]] he will easily determine that they are not among the leaders of the [[World:The Red Lakes|Red Lake Autonomy]] should they pretend to be.
+He will be somewhat irritated by the refusal of compliance but then agree to demonstrating his might to the messengers. 
+While he alludes to his great abilities as a Binder and Conjurer he first shows off the cities military might.
+This series of meetings will end with one of the characters being "//gifted//" two bindings, most likely the character that made it most clear that they would never want such a thing done to them. 
+
+=== (Optional: Join the Resistance) ===
+If they stay around and talk to enough people they may be invited to join a resistance movement that aims to take down [[World:Persons:Iden Khonsu|Khonsu]].
+The Resistance movement is ultimately doomed because the player characters are watched on every step after the point they meet [[World:Persons:Iden Khonsu|Khonsu]] and will be struck down
+with full force after a few initial successes. The player characters will survive this unscathed either by their own skill or because the assaulting troops have order to let the "diplomats" escape 
+as a warning (that doesn't mean it will not look like they try hard to hunt and kill them).
+
+
+
+=== Take the fight to us ===
 Stages:
-[1] Preparations
+[1] Meet **dissident priest **for the second time.
+The invisible entity stalking the characters will be noticed by him and prevented from leaving.
+It will have to be taken down in a fight, dependant on the entity a character may want to have the creature bound to them, if not the **dissident priest** will take it. 
+What entity this is will be chose from **bleeding spectrum(**for groups that can't fight at all), **voideye**(suitable for most groups), **bleak hand**(combat heavy groups or large groups).
+
+[2] Preparations
 -Collect class 17 binding (marked territory of a band of scavengers)
 -Collect filled data carriers(yellow or red lights)
 -Find an electrician
 
-[2] Scouting
--Go to Shivering Pulse and live there for a week. Learn to know people and customs, take note of any strangenesses.
 
 [3] Rerouting
 -Gather tons of electrical materials
 -Set up electrical conduits across the land
 
 [4] Lure
--Acess the bleak version of Shivering Pulse, plant the lure and the carrier cable.
+-Acess the fade version of Agnared, plant the lure and the carrier cable.|
 
 [5] Showdown
 -Fire all systems hope for the best
 -Dayan absorbs the watcher and reveals his plan.
+
+
+=== Khonsu's Vengeance ===
+Just when the seemingly final battle is done the troops of the Iden appear on the horizon out for blood and armed with mortars, machineguns, molotov cocktails and rifles
+combat wise this is an extremely hard encounter that may very well end the characters after their success. Its possible but not easy to get out of this situation using diplomacy and turning the Idens men against him.

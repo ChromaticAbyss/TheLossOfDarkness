@@ -5,9 +5,6 @@ Creation-Date: 2015-06-25T11:44:33+02:00
 ====== Drifter ======
 Created Thursday 25 June 2015
 
-												   **Drifter Binding**
-
-
 An aimlessly drifting entity that sometimes binds to travellers of the wastes.
 
 
@@ -17,10 +14,10 @@ An aimlessly drifting entity that sometimes binds to travellers of the wastes.
 **Binding Process:** 
 [[Binding|Stability]]: Normal difficulty (-0)
 [[Binding|Mutation:]] Normal difficulty (-7)  
-		**Drifters Drive**: -1 modifier to all skills when staying longer than a week in one location.
+**Drifters Drive**: -1 modifier to all skills when staying longer than a week in one location.
 
 [[Binding|Burn Table:]] Normal difficulty (+0)
-		**Drifters Trance:** If this happens during action it equals a 1 turn stun. If it happens in a calm the driver just silently walks away for [[Glow]] minutes to gaze at the sky. If they are stopped from leaving they suffer from **Drifters Drive** for the duration.
+**Drifters Trance:** If this happens during action it equals a 1 turn stun. If it happens in a calm the driver just silently walks away for [[Glow]] * 5 minutes to gaze at the sky. If they are stopped from leaving they suffer from **Drifters Drive** for the duration.
 
 [[Binding|Amalgamation]]: Normal difficulty
 

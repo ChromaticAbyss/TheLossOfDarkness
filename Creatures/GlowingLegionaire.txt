@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-12-03T20:09:20+01:00
+
+====== GlowingLegionaire ======
+Created Donnerstag 03 Dezember 2015
+
+Humanoid but heavily mutated creatures that are covered in glowing runes that are known to sometimes harmlessly watch persons and sometimes viciously attack them. 
+Usually bright light can deter the night dwelling creature from an attack, but if it isn't you better pack some serious firepower. 
+They charge with the force and speed of a moving train, jump inhumanly far, rip people to shreds with long claws they can produce at will and root onlookers in fear.
+Even if they sustain wound these creatures do not seem to suffer from pain and quickly recover from them.
+The worst thing about them is that they tend to hunt in groups of 3.
+
+Glowing Legionaire attacks are more common on traveling groups that have persons with [[Glow]] within them.
+
+
+Attributes:
+All: 8 + 1D6 (roll once)
+
+Vitality: 10+Endurance
+Stability: -
+Wound Threshold: 7, hit zones like human
+Claw damage: 1D6+3 (+1D6 while berserking)
+
+Abilities: Reflexes, Cover, Hand To Hand, Mental Fortitude, Self control **Professional** (+9)
+
+=== Special Abilities ===
+Mind Effect Immunity, Fast Movement(2)
+[[Abilities:HandToHand|Parry, Counterattack]]
+**Evasive Movements+: **Gain a cover rating of 3 at all times
+**Glow stacking: Glowing Legionaires** don't roll [[Abilities:Cast|Cast]] checks. They will stop casting if their [[Glow]] reaches 40 and even retreat if the rest can not be resolved without casting.
+
+Berserk Binding(20): Berserk, Sanguine Roar(half the power rating, twice the radius)
+Consuming Binding(20): Gourmet of Phantoms  
+Hydra(20): **Enhanced Healing,  Rapid Adaption, Close Wound, Lifeguard**
+Spectrum(20): Permanent Spectrum vision

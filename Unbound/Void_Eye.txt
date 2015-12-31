@@ -1,0 +1,70 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-12-19T19:21:15+01:00
+
+====== Void Eye ======
+Created Saturday 19 December 2015
+
+[Spoilers]
+
+The Void eye is a **Fade **borne creature that is essentially a man sizes floating ball with a huge cavity in the middle that houses a swarm of **blade winged stalkers**.
+
+**Stats:**
+[[Unbound|Agency]]:  18
+
+
+**Behaviour:**
+Follows a person or group of persons around, gathering additional information using **blade winged stalkers.**
+
+1 **Action**
+If a combat starts the creature spits out all its **blade winged stalkers** at once (2D6), this swarm counts as a distinct creature with its values listed below. 
+
+1 **Action**
+The Voideye manufactures another **blade winged stalker.** and adds it to the swarm 
+
+1 **Action**
+**Beacon of Dissection**: Targets a character that can defend itself by passing a **hard** [[Abilities:MentalFortitude|Mental Fortitude]] + [[Attributes|Willpower]] check, on failure the target is vulerable to the attacks of the swarm: **blade winged stalkers **can now pass through **armor** and body of the target without resistance, 
+their damage is converted to [[Attributes:Stability|Stability]] damage(does not cause wounds but stuns for 1D6 turns of combat instead). This lasts 3 turns of combat.
+
+
+=== Special Rules ===
+**Incorporeal(Fade Shadow)**
+Can pass right through anything that doesn't have a representation in the** Fade**(solid walls, some tree trunks).
+Which also means that physical weapons will not do damage.
+The situation is different if the creature is fought from within the **Fade: **Physical weapons deal full damage to the creature that is fully corporeal here.
+
+**Invisible(Fade Shadow)**	
+This creature is pretty much invisible unless observed from the **Fade.**
+A very aware character may spot it as a spot of slightly dampening colours following them if they pass a **very** **hard** [[Attributes|Awareness]] check, if the [[Binding:Spectrum|Spectrums]] augmented vision is used the check is additionally **normal** difficulty only. 
+
+=== Binding ===
+See **Hive**, [[Binding:Spectrum|,]] can stack with that(in that case the new starting cast is also gained).
+
+Starting Cast is replaced with
+**Create Bladed Stalker**
+costs etc. same
+**Abilities**: Scout, Attack(Mindslicer: Wounds converted to 3 stability damage), Unseen Scout
+
+
+====== Blade Winged Stalker ======
+
+Insect like creatures spawned from a **Void Eye. **They have sharp metallic wings they use to slice enemies and lots of small purple eyes around their bodies that they use to spy on their victims.
+these creatures are treated as a **swarm.**
+The **Blade Winged Stalker** is treated as a creature, not as an **Unbound.**
+
+**Stats:**
+Vitality per creature: 2
+
+=== Special Rules ===
+**Swarm**
+Damage dealt to this swarm kills at most one creature unless it has some kind of area of effect. Area of effect weapons and weapons that attack multiple times can kill a respective amount of creatures that depends on their damage divided by the creatures hitpoints.
+The swarm has an automatic cover/reflexes roll of 10. Swarms may at any point split up and join.
+When the swarm attacks a single creature it deals **1D6** **per 5 creatures**, each of these is calculated against **pierce armor **individually. After that step the damage is summed up to see if [[CombatRules:Wounds|Wounds]] were inflicted.
+Characters with at least **Intermediate** [[Abilities:Reflexes|Reflexes]] may try to dodge part of the damage, on a successfull **normal  **[[Abilities:Reflexes|Reflexes]]  + [[Attributes|Dexterity]] check they may remove the highest roll.
+
+**Mindslicer**
+Instead of dealing wounds the physical damage from this creature deals an addional 3 [[Attributes:Stability|Stability]] damage for each wound it would deal and stuns for 1D6 turns of combat unless a [[Attributes|Willpower]]+[[Abilities:SelfControl|Self Control]] check is passed(ignore pain helps). Pain immune combatatnts ignore this effect.
+
+**Invisible(Mind Spell)**
+This creature can glide through both the"**normal**" world and the** Fade** invisibly but on attacking or grouping as a swarm that cover drops.
+A very aware character may spot it as a spot of slightly dampening colours following them if they pass a **very** **hard** [[Attributes|Awareness]] check, if the [[Binding:Spectrum|Spectrums]] augmented vision is used the check is additionally **normal** difficulty only. 

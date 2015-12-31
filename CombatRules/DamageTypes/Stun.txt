@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-12-01T00:08:41+01:00
+
+====== Stun ======
+Created Dienstag 01 Dezember 2015
+
+**Stun damage** is only stopped by armor if mentioned in the attacks description.
+
+If **Stun damage** reaches the wound threshold it will stun for 1D6 turns of combat. If such an attack deals more ore equal damage to the double wound threshold it stuns for 2D6 turns instead.
+Certain abilities may increase the [[Attributes:WoundThreshold|Wound Threshold]] used specifically for this scenario.

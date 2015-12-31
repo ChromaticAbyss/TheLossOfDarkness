@@ -23,7 +23,7 @@ Easier to reload but harder to maintain than Revolvers. Ammunition is a bit more
 **Reload**:
    **every X uses**: 8
 **   takes:** 1 Action
-**Recoil**: 2
+**Recoil**: 3
 **Size**: Small, Two Hands 
 
 === Ammunition: ===

@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-12-27T14:23:52+01:00
+
+====== ScorpionManMutant ======
+Created Sunday 27 December 2015
+
+A kin of formerly human creatures that dwell in city ruins and mountains around the sharded hills area. They crawl on enlarged hands with 10 elongated fingers on each and miss the lower body. Their spin protudes from outside their flesh and has a sharp needle on it that delivers a lethal venom. All of these mutants are identical clones and have the minds of agressive, territorial animals. They reproduce from egg like lumps of meat the grow where their lower body should have been.
+
+=== Variable Stats ===
+[[Attributes:Vitality|Vitality]]		 
+Maximum	: 14
+
+[[Attributes:Stability|Stability]] 		
+Maximum	: 2
+
+[[Attributes:WoundThreshold|Wounds]]
+Treshold	:  5
+
+
+=== Attributes ===
+Burst		: 4
+Endurance	: 4
+Dexterity	: 2
+Willpower	: 1
+Intelligence	: -1
+Awareness	: 2
+
+=== Abilities ===
+Stealth(Experienced)
+Cover(Intermediate)
+Reflexes(Intermediate)
+Hand To Hand(Experienced)
+
+
+=== Bindings ===
+Hydra: 7
+	Default Healing surge, 2 vitality each turn for 7 turns, cast only once per fight 
+	Bioweapon(1D6+3 damage, on wound poisons for 2 vitality damage every turn of combat up to 5 turns)
+
+
+
+
+

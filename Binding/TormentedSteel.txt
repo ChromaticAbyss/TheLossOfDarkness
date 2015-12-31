@@ -10,15 +10,15 @@ Created Sunday 12 July 2015
 [[Binding|Stability]]: Hard difficulty (-0) [only Medium if you have 3 or more Bionics]
 
 [[Binding|Mutation:]] Hard difficulty (-5)  
-		**Machine like**: All movements become more machine like, less fluid.
-		-2 to Dexterity
-		The following abilities gain a bonus of 1: Hand to Hand, Bionics, Craft(Metal,Engines)
+**Machine like**: All movements become more machine like, less fluid.
+-2 to [[Attributes|Dexterity]]
+The following abilities gain a bonus of 1: Hand to Hand, Bionics, Craft(Metal,Engines)
 		
 [[Binding|Mutation:]] Hard difficulty (+0)  
-		**Steel Skin**: The characters skin produces steel armor plates. The thus hardened skin grants the character +1 [[CombatRules:Armor|Armor]]. However this skin isn't very flexible(-1 modifier to Reflexes, Sprint and Obstacle).
+**Steel Skin**: The characters skin produces steel armor plates. The thus hardened skin grants the character +1 [[CombatRules:Armor|Armor]]. However this skin isn't very flexible(-1 modifier to [[Attributes|Dexterity]]).
 		
 [[Binding|Mutation:]] Hard difficulty (+0)  
-		**Well oiled machine**: The character now has to consume oil regularly(1 ltr / week) or suffer a -1 modifer to all physical attirbutes. Also his sweat is replaced with oil. 
+**Well oiled machine**: The character now has to consume oil regularly(1 ltr / week) or suffer a -1 modifer to all physical attirbutes. Also his sweat is replaced with oil. 
 		
 
 
@@ -30,16 +30,20 @@ Created Sunday 12 July 2015
 **Beyond Flesh**
 [Starting Ability]
  Passive
- You gain your [[Binding:BindingMastery|Mastery]] as Plasticity.
-	
+ You gain your [[Binding:BindingMastery|Mastery]] as [[Attributes:Plasticity|Plasticity]].
 
+**Rust** 
+Cost: 5 PP, Requires [[BindingMastery:]] 3
+Cast: Glow: 7, 1 Actions
+A metallic object nearby starts rusting fast. This deals [[BindingMastery:|BindingMastery]] structural damage to it each turn of combat.
+Certain surfaces and alloys may be resistant to rust and take only half or no damage at all.
+Duration: [[BindingMastery:|BindingMastery]] turns of combat.
 
 **Bionic Regeneration**
 Costs:5PP, Requires [[BindingMastery:]] 7
 Passive
 Your bionics and implants regenerate durability.
-This happens at a rate of 1 point per sleep cycle, the points go to the lowest durability element first.
-			
+This happens at a rate of 1 point per sleep cycle, the points go to the lowest durability element first.		
 
 **Cross Metal**
 Costs:8PP, Requires [[BindingMastery:]] 8

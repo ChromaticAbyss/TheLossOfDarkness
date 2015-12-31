@@ -1,0 +1,53 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-12-14T20:30:20+01:00
+
+====== Pete The Hand ======
+Created Montag 14 Dezember 2015
+
+Pete is pretty close to the classical mercenary archetype with his preferrence for running around dirty, in armor, machinegun on his back, knack for gambling, smoking and booze.
+It might surprise that he is a pretty intelligent man and the main medic and technician and cares for most of the delicate high tech equipment such as laser distance measurement.
+
+
+=== Variable Stats ===
+[[Attributes:Vitality|Vitality]]		 
+Maximum	: 15
+Current		:
+
+[[Attributes:Stability|Stability]] 		
+Maximum	:  14
+Current    	: 
+Common psychosis: Agression
+
+[[Attributes:WoundThreshold|Wounds]]
+Treshold	: 6
+
+[[Attributes:GlowThreshold|Glow]]		
+Threshold	: 5
+Current		:
+
+[[Attributes:Plasticity|Plasticity]]
+Available	: 5
+Used		: 3
+
+=== Attributes ===
+Burst		: 5
+Endurance	: 4
+Dexterity	: 3
+Willpower	: 2
+Intelligence	: 4
+Awareness	: 2 
+
+=== Abilities ===
+**Name 	[Beginner][Intermediate][Experienced][Professional][Legend]**
+		  **Specialisations**
+Craft [Professional] **[Teacher] **Advanced Optics, Electronics
+Medic [Experienced] 
+Shooting [Experienced]
+Cover [Experienced]
+Hand To Hand [Intermediate]
+Reflexes [Intermediate]
+Tactics [Intermediate]
+Stealth [Intermediate]
+Scavenging [Intermediate]
+Fast Talk [Intermediate]

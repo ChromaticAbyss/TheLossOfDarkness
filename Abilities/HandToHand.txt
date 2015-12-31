@@ -17,6 +17,8 @@ You opponent gains a -1 modifier on all actions or your negative modifier ges re
 This value loses any meaning once the combatants disengage.
 
 
+
+
 To hit/grab an enemy expend an action and roll a duel of you [[HandToHand]] + Burst vs their Reflexes + Dexterity.
 
 

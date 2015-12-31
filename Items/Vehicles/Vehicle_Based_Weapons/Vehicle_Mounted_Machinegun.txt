@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-12-20T20:49:45+01:00
+
+====== Vehicle Mounted Machinegun ======
+Created Sunday 20 December 2015
+
+A vehicle mounted machinegun with burst or full auto fire.
+
+=== General Item Stats ===
+**Wgt**: 30kg, Vehicle Mounted
+**Durability**: ?
+**Est Value(Wilderness)**: 300 Army Rations
+**Est Value(Cities)**:  300 TU
+
+=== Crafting Stats ===
+...
+
+=== Combat Stats: ===
+**Range**: 80 metres
+**Damage**: 1D6+8
+**Reload**:
+   **every X uses**: 25
+**   takes:** 3 Actions
+**Recoil**: 4
+**Size**: Large, Vehicle Mounted 
+
+=== Special Rule ===
+No Single Shot
+**Triple Shot**: Fires three times(recoil!) 
+**Full auto**: Fires up to 6 shots(upper limit of shots from this weapon, recoil!)
+
+=== Ammunition: ===
+**15mm machinecannon belt (25 shots)**
+**Est Value(Wilderness)**: 50 Army Rations
+**Est Value(Cities)**:  50 TU
+In some variants of the ammunition every 5th round is a tracer round.
+
+
+
+=== Variants ===
+12 mm Light Vehicle Mounted Machinegun, damage 1D6 + 5, half weight, recoil of only 3, range 50 metres

@@ -1,0 +1,55 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-12-14T01:52:39+01:00
+
+====== Drive ======
+Created Montag 14 Dezember 2015
+
+The ability to drive different kinds of vehicles.
+This includes both land vehicles and boats.
+
+=== Attributes ===
+**Dexterity**, Awareness, Intelligence
+
+
+
+=== Incompetent ===
+-
+Can pilot a rowing boat or bicycle at most.
+
+=== Beginner ===
+**Requirements**: Dexterity 1, Awareness 0
+**Cost**: 5 PP
+Can drive basic vehicles at slow speeds without endangering themselves or others.
+
+=== Intermediate ===
+**Requirements**: Dexterity 2, Awareness 1
+**Cost**: 10 PP
+Can drive slightly more complicated vehicles(manual transmission etc.) and faster.
+
+=== Experienced ===
+**Requirements**: Dexterity 3, Awareness 1, Intelligence 2
+**Cost**: 20 PP
+Can perform difficult manouvers with different vehicles such as 180° fast turns, drifts and dodges.
+
+=== Professional ===
+**Requirements**: Dexterity 3,Awareness 3, Intelligence 3
+**Cost**: 40 PP
+Can drive complicated vehicles such as war machines. Strong grasp at what most machines can do and can not do.
+
+=== Legend ===
+**Requirements**: Dexterity 3,Awareness 3, Intelligence 3 (one of these 6)
+**Cost**: 80 PP
+Can drive basically anything and intuitively grasp the controls and capabilities of unknown vehicles. Can pull off nerve wrecking moves pretty reliably.
+
+
+
+=== Specialisations ===
+
+
+=== Character Generation Modifiers ===
+**Starting Equipment**: 
+Intermediate: You may start with a motorcycle or small car at half the usual cost.
+Experienced:  You start with a motorcycle, motorboat or small car.
+Professional: You start with a car.
+

@@ -92,7 +92,7 @@ This only works if the shot is **Aim**ed.
 **Cost**:5 PP
 Passive
 Allows shooting a second time in a row within the same action if the weapon still has shots in the magazine.
-For automatic/burst fire weapons instead the recoil penalty is reduced by one.
+For weapons that are burst/auto already instead the recoil penalty is reduced by one.
 
 
 **Gunslinger**

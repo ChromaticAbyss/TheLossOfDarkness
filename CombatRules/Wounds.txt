@@ -8,7 +8,7 @@ Created Tuesday 07 July 2015
 Whenever dealing damage to a character roll a zone
 roll a D6: 6 Head, 5,4,3 Torso,2 Arm, 1 Leg  , roll again to decide left/right:  1,2,3 left 4,5,6 right
 
-Any attack that deals damage to a limb deals causes no direct Vitality loss.
+Any attack that deals damage to a limb deals causes no direct [[Attributes:Vitality|Vitality]] loss.
 
 
 **Wound Threshold**: 
@@ -35,8 +35,8 @@ Leg[2x] Limb unsuable, Massive Bleeding()
 Leg[3x] Limb permanently crippled/lost, Massive Bleeding
 
 
-**Bleeding**: The character loses 1 point of Vitality each minute.
-**Massive Bleeding**:  The character loses 1 point of Vitality each 2 turns of combat.
+**Bleeding**: The character loses 1 point of [[Attributes:Vitality|Vitality]] each minute.
+**Massive Bleeding**:  The character loses 1 point of [[Attributes:Vitality|Vitality]] each 2 turns of combat.
 
 
 

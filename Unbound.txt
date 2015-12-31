@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-12-19T20:13:17+01:00
+
+====== Unbound ======
+Created Saturday 19 December 2015
+
+[Spoilers]
+
+The following section is game master only, it details the different kinds of otherwordly beings roaming the world. Most of them are shapeless unless bound to another thing (for those see the [[Creatures]] section).
+All unbound have the following abilities unless noted otherwise
+
+=== Death Immunity ===
+Death is simply not a concept that applies to most **Unbound. **[[Attributes:Stability|Stability]] and [[Attributes:Vitality|Vitality]] are usually fused in a single value: **Agency**. 
+In what ways this value can be attacked(if at all) is noted per creature. A reduction to 0 usually means the creature is weakened too much to use abilities or move, also continuing effects on the enviournment collapse (like the **Searing Aura** of the [[Unbound:Radiance|Radiance]] **unbound**.
+From this state the entity will usually slowly recover within a few days if not **disposed **of in some way.  
+[[Abilities:Binding|Binding]] the entity
+[[Binding:Consuming|Devouring the entity]].
+Using an empty fitting or universal **Containment Unit.**
+Some bindings may be imprisoned otherwise based on their physical properties which is not a permanent solution but usually sufficient.
+
+
+=== Glow Immunity ===
+A single **Unbound** never fights for control or has interferrences. **Unbound** do not gain [[Glow]] when using their Abilities, they only pay the **Action** cost.
+
+
+=== Mind State Immunity ===
+Unless otherwise stated the mind of an unbound is completely alien to the human one and as such an **Unbound** is immune to all human emotion including **Fear** and** Pain.**
+Effects that would manipulate a persons mind or damage their stability simply have no effect on an **Unbound**(unless otherwise stated)**.**

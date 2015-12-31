@@ -1,0 +1,49 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-12-19T22:11:19+01:00
+
+====== Submachinegun AssaultRifle ======
+Created Saturday 19 December 2015
+
+A 9mm gun that can fire single shots, bursts or full auto. Its more maintainance intensive than regular pistols and usually causes larger ammunition expenses.
+
+=== General Item Stats ===
+**Wgt**: 1kg
+**Durability**: ?
+**Est Value(Wilderness)**: 80 Army Rations
+**Est Value(Cities)**:  80 TU
+
+=== Crafting Stats ===
+...
+
+=== Combat Stats: ===
+**Range**: 25 metres
+**Damage**: 1D6+3
+**Reload**:
+   **every X uses**: 8
+**   takes:** 1 Action
+**Recoil**: 3
+**Size**: Small, Two Hands 
+
+=== Special Rule ===
+**Double Shot**: Fires twice(recoil!) 
+**Full auto**: Fires up to 4 shots(upper limit of shots from this weapon, recoil!)
+
+=== Ammunition: ===
+**9mm Bullet**
+	**Est Value(Wilderness)**: 0.2 Army Rations
+	**Est Value(Cities)**:  0.1 TU
+
+
+
+
+=== Variants ===
+**Collapsible stock**
+Cost +40 TU, Wgt +0.5 kg
+Reduces recoil by 1, while expanded weapons counts as large
+
+**Mounted Light**
+Cost: +20 TU
+A special light mounted at the barrel removes the need to carry a flashlight while fighting indoors.
+
+

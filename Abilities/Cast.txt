@@ -43,14 +43,14 @@ Cast is a mental ability that allows safer casting under higher amounts of [[Glo
 
 
 === Specialisations ===
-**Glow Threshold**
+**Glow Threshold(1)**
 **Requirements**: Intermediate, Willpower 3
 **Cost**: 10 PP
 Passive
 Grants +1 maximum Glow Threshold, which allows more casting until checks are needed.
 
 **Glow Threshold(2)**
-**Requirements**: Intermediate, Willpower 4, Glow Threshold
+**Requirements**: Intermediate, Willpower 4, Glow Threshold(1)
 **Cost**: 10 PP
 Passive
 Grants another +1 maximum Glow Threshold, which allows more casting until checks are needed.

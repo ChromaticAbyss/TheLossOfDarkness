@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-12-25T21:59:37+01:00
+
+====== ZBS Collectibles ShardedHills ======
+Created Friday 25 December 2015
+
+=== Zoology(Hunting) ===
+-Rabbit
+-Bushrunner
+-Birds
+-Dogs
+-Cattle(stray or owned)
+
+
+=== Botanics ===
+Springberries(Very common, Spring)
+Burnroot(Hard to ingest but full of nutrients, All Year)
+Fungi(Autumn)
+
+
+
+=== Scavenging ===
+A lot of things can be found in the clustered ruins rising above the surface. Everything above the surface has probably been already found by someone else before and been repurposed/ used up/ thrown away, 
+Digging is a more time consuming option that may pay off in certain areas.
+Very proficient scavengers may also hunt down stashes of other scavengers but this poses a risk.

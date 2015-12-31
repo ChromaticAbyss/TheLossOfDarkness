@@ -19,10 +19,11 @@ If you commit enough murders this is one of the most powerful bindings to have.
 [[Binding|Mutation:]] Normal difficulty (+0)  
 **Eldritch Resonance**: -1 Glow Threshold, -1 modifier to the Cast ability.
 
-
-
 [[Binding|Burn Table:]] Normal difficulty (+0)
-**Slipping Sanity**: You take a tenth of your [[Glow]] amount as damage to your Stability.
+**Bounty**: You send out a pulse that notifies every other entity with Kaelins Binding of your presence. The reach is about [[Glow]] * 10 metres. 
+	
+[[Binding|Burn Table:]] Normal difficulty (+0)
+**Slipping Sanity**: You take a tenth of your [[Glow]] amount as damage to your [[Attributes:Stability|Stability]]. If this reduces you to 0 or below you lose 1D6 [[ProgressPoints]] (PP) from your [[Attributes|Intelligence]] Attribute, even breaking up a point if necessary.
 	
 
 [[Binding|Amalgamation]]: Normal difficulty
@@ -41,7 +42,7 @@ Should all shield runes be destroyed during the duration all the effects are app
 [Starting Cast]
 Glow: 0, 0 Actions
 Absorb another **Kaelin's Shard** granting you its power level but none of the other boni.
-You don't need to make any Stability, Mutation, Burn Table or AMalgamation rolls. 
+You don't need to make any Stability, Mutation, Burn Table or Amalgamation rolls. 
 
 **Sigil of Protection** 
 Costs: 10PP, Requires [[BindingMastery:]] 3
@@ -53,7 +54,7 @@ Upgrades the skill **Kaelins Horizon.**
  [[BindingMastery]] 10+:  Cast time -2 Actions
  [[BindingMastery]] 15+:  Glow cost -5
  [[BindingMastery]] 20+:  On last rune shield breaking 1D6 effects of your choice are ignored
- [[BindingMastery]] 25+:  On last rune shield breaking all effects are discarded
+ [[BindingMastery]] 30+:  On last rune shield breaking all effects are discarded
 
 **Third Eye**
 Costs: 10PP, Requires [[BindingMastery:]] 3
@@ -88,7 +89,7 @@ Targets a creature or person, the first effect of this spell is that it allows t
 **Spirit Blade**
 Costs: 5PP, Requires [[BindingMastery:]] 2
 Glow: 5 , 2 Actions
-Creates a spectral copy of the shard that is able to deal Stun damage to an unbound on a successfull melee attack, deals 1D6 stun damage. 
+Creates a spectral copy of the shard that is able to deal Stun damage to an unbound(even if its incorporeal) on a successfull melee attack, deals 1D6 stun damage. 
 Vs creatures/persons with a binding a triggered stun only make it impossible for them to use binding abilities.
 The blade lasts for 5 + [[BindingMastery]] * [[BindingMastery]] turns.
 
@@ -100,14 +101,17 @@ Deals +1 stun damage for each full 2 BindingMastery.
 [[BindingMastery]] 20+: If you hit a target with your **Spirit Blade** you may cast Ghastly Blaze or Reduce on them instantly without expending an action(s).
 
 **Rune of the distant light**
-Costs: 5PP, Requires [[BindingMastery:]] 15
+Costs: 10PP, Requires [[BindingMastery:]] 3, **Spirit Blade **
 Passive
 Upgrades the skills **Spirit Blade **and **Sigil of Protection**
-While any of these skills is active all casts from this Binding cost one less [[Glow]].
+**Spirit Blade** has a range of 5 metres now as its force can now be projected.  
+Whle **Sigil of Protection** is actice gain +1 [[Abilities:MentalFortitude|Mental Fortitude]].
+[[BindingMastery]] 7: Hitting an unbound or the near realm shadow of one with **Spirit Blade** allows you to pull it into range. 
+[[BindingMastery]] 15: While any of these skills is active all casts from this Binding cost one less [[Glow]].
 
 
 
 
 === Low Stability ===
-**Paranoia**: 
+**Paranoia**
 

@@ -14,28 +14,24 @@ Created Wednesday 22 July 2015
 **Binding Process:** 
 [[Binding|Stability]]: Normal difficulty (+0)
 [[Binding|Mutation:]] Normal difficulty (+0)  
-		**Inner Flame**: The character has a massively increased body temparature. This temperature is needed to sustain him however. The character takes double the effects from cold and half the effects of heat.
+**Inner Flame**: The character has a massively increased body temparature. This temperature is needed to sustain him however. The character takes double the effects from cold and half the effects of heat.
 
 [[Binding|Mutation:]] Normal difficulty (+0)  
-		**Pyromania**: The character has a desire to see things burn, this increases the lower his Stability goes. You can only use the Meditation ability while near a sufficiently large or interesting fire. 
+**Pyromania**: The character has a desire to see things burn, this increases the lower his Stability goes. You can only use the Meditation ability while near a sufficiently large or interesting fire. 
 
 
 [[Binding|Mutation:]] Normal difficulty (+4)  
-		**Mouth of the Abyss**: The mouth and/or eyes of the character are constantly illuminated as if fire would burn within.
+**Mouth of the Abyss**: The mouth and/or eyes of the character are constantly illuminated as if fire would burn within.
 
 [[Binding|Mutation:]] Normal difficulty (+3)  
-		**Emotional Addiction**: The character has very strong emotions like Rage,Fear etc.
+**Emotional Addiction**: The character has very strong emotions like Rage,Fear etc.
 
 
 [[Binding|Burn Table:]] Normal difficulty (+0)
-		**Firestarter:** For [[Glow]] minutes small fires spontaneusly spawn around the character.
+**Firestarter:** For [[Glow]] hours small fires spontaneusly spawn around the character.
 
 [[Binding|Burn Table:]] Normal difficulty (+0)
-		**Self Burn:** Take [[Glow]]/10 points of damage.
-
-[[Binding|Burn Table:]] Normal difficulty (+0)
-		**Burning Rage:** 
-
+**Self Burn:** Take [[Glow]]/10 points of [[CombatRules:DamageTypes:Fire|fire damage]]. 
 
 
 [[Binding|Amalgamation]]: Normal difficulty
@@ -56,13 +52,6 @@ Takes an existing fire and moves it around. This can be used for example to save
 You can attack enemies with the fire during the duration which deals [[Binding:BindingMastery|BindingMastery]] / 2 damage each time.
 The maximum range you can manipulate flames in is 10 metres.
 Duration: [[BindingMastery:|BindingMastery]] / 2 turns of combat.
-
-**Rust** 
-Cost: 5 PP, Requires [[BindingMastery:]] 3
-Cast: Glow: 7, 1 Actions
-A metallic object nearby starts rusting fast. This deals [[BindingMastery:|BindingMastery]] structural damage to it each turn of combat.
-Certain surfaces and alloys may be resistant to rust and take only half or no damage at all.
-Duration: [[BindingMastery:|BindingMastery]] turns of combat.
 
 
 **Fireproof**

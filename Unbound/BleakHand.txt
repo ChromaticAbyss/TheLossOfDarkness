@@ -1,0 +1,55 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-12-19T21:01:10+01:00
+
+====== BleakHand ======
+Created Saturday 19 December 2015
+
+[Spoilers]
+
+The Void eye is a **Fade **borne creature that consist of a main body that sprouts long bone less arms with clawing hands. 
+Its the most powerful minion of the watcher in terms of combat abilities and can easily fight multiple enemies at once.
+
+
+
+**Stats:**
+[[Unbound|Agency]]:  50
+
+[[Abilities:Reflexes|Reflexes]] (Melee Defense): 10
+[[Abilities:Cover]]  (Shadow Shroud): 6
+
+
+**Behaviour:**
+The **Bleak Hand** has 1 Actions + 1 for each full 20 [[Unbound|Agency.]]
+
+1 Action: **Melee Attack**: **7**, Damage **1D6+1** Piercing damage, also adds 1 point of [[Abilities:HandToHand|supression]]. 
+
+1 Action: **Absorb Information**(Refuge of Nightmare): Drains the reality out of a zone around the creature. 
+Deals Stability damage for everyone inside the area each turn of combat unless they pass xyz check, the creature gains [[Unbound|Agency]] for damage dealt this way.
+
+1 Action: **Consuming Tether**, attempts to connect if not xyz(hard) check is passed. On a fail character has to roll xyz(normal) each time they begin a turn. On a fail they can't act this turn, loses 1 [[Attributes|Stability]] and the Bleak Hand gains 1 [[Unbound|Agency.]]
+If the check is passed twice in a row the tether is broken and can't be restored this fight, also the **Bleak Hand **loses 3 Agency. 
+
+
+
+=== Special Rules ===
+**Incorporeal(Fade Shadow)**
+Can pass right through anything that doesn't have a representation in the** Fade**(solid walls, some tree trunks).
+Which also means that physical weapons will not do damage.
+The situation is different if the creature is fought from within the **Fade: **Physical weapons deal full damage to the creature that is fully corporeal here.
+
+**Invisible(Fade Shadow)**	
+This creature is pretty much invisible unless observed from the **Fade.**
+A very aware character may spot it as a spot of slightly dampening colours following them if they pass a **very** **hard** [[Attributes|Awareness]] check, if the [[Binding:Spectrum|Spectrums]] augmented vision is used the check is additionally **normal** difficulty only. 
+
+**Counterattack**
+Succesfully defending against a melee attack allows this creature to deal 2 damage to the attacker. 
+
+**Shadow Shroud**
+This creature has a cover rating of 6 at all times.
+
+
+=== Binding ===
+**Grasping Shadows**
+Stability loss checks recieve an additional -2 modifier.
++2 points of Binding Mastery

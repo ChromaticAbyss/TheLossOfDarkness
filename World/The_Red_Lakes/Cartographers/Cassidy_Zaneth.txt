@@ -1,0 +1,58 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-28T11:46:54+02:00
+
+====== Cassidy Zaneth ======
+Created Tuesday 28 July 2015
+
+Cassidy Zaneth is the leader of the Cartographers organisation.
+His outer appearance is rugged, one of his arms is a bionic percision tool. He lost an arm in an accident and opted to have an arm specifially modified for precision work.
+Aside from drawing maps and other things he likes to work on clocks and other fine mechanical things.
+He is the main person that makes and reads the maps a skill he teaches all others with a passion, tough not a lot of people can compare to the extreme precision his bionic arm offers.
+ "Nobody ever did evil by reading a map"
+
+
+=== Variable Stats ===
+[[Attributes:Vitality|Vitality]]		 
+Maximum	: 13
+Current		:
+
+[[Attributes:Stability|Stability]] 		
+Maximum	:  14
+Current    	: 
+Common psychosis: Insecurity
+
+[[Attributes:WoundThreshold|Wounds]]
+Treshold	: 5
+
+[[Attributes:GlowThreshold|Glow]]		
+Threshold	: 5
+Current		:
+
+[[Attributes:Plasticity|Plasticity]]
+Available	: 5
+Used		: 3
+
+=== Attributes ===
+Burst		: 2
+Endurance	: 3
+Dexterity	: 3 (+2 for manual tasks)
+Willpower	: 4
+Intelligence	: 5
+Awareness	: 4 
+
+=== Abilities ===
+**Name 	[Beginner][Intermediate][Experienced][Professional][Legend]**
+		  **Specialisations**
+Craft [Experienced] Specialised in Fine Mechanics
+Scouting [Professional]**[Teacher]**
+Cartography **[Legend]** **[Teacher]**
+Painting [Experienced]
+Driving [Experienced]
+Negotiation [Intermediate]
+Herbalism [Experienced]
+Zoology [Experienced]
+Scavenging[Experienced]
+Knowledge(Geography,Religion,History) [Experienced]
+Shooting[Intermediate] -2 for shooting with his offhand not his bionic arm
+

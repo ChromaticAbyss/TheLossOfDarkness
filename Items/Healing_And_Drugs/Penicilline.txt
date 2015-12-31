@@ -5,3 +5,29 @@ Creation-Date: 2015-09-19T11:39:32+02:00
 ====== Penicilline ======
 Created Samstag 19 September 2015
 
+Anti Bioticum that helps against infection.
+
+=== General Item Stats ===
+**Wgt**: neglectible
+**Durability**: -
+**Est Value**: 10 TU
+
+=== Crafting ===
+[[World:Animals:YellowSalamander|-]]
+
+=== Lesser Quality ===
+**-**
+
+=== Medium Quality ===
+**Effect**: Grants +4 to all Endurance checks to fight infection, for the next day reduces all **degeneration** effects by 2 (radiation, disease etc.)
+**Side Effect**: -
+**Duration**: 12 hours
+**Addiction**: -
+**Applictation**: 5 Minutes
+
+=== High Quality ===
+**-**
+
+
+=== Addiction ===
+**-**

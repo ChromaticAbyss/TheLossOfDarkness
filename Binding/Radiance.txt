@@ -12,22 +12,21 @@ Created Sunday 12 July 2015
 [[Binding|Stability]]: Normal difficulty (-0)
 
 [[Binding|Mutation:]] Hard difficulty (+0)  
-		**Burn marks**: Leaves painful and permanent burn marks at the spot where it entered the body. -1 maximum Vitality. 
+**Burn marks**: Leaves painful and permanent burn marks at the spot where it entered the body. -1 maximum Vitality. 
 		
 [[Binding|Mutation:]] Normal difficulty (+0)  
-		**Burn marks**: Leaves painful and permanent burn marks at the spot where it entered the body. -1 maximum Vitality. 
-		**Special rule**: Does not get +5 if the above mutation is obtained.
+**Burn marks**: Leaves painful and permanent burn marks at the spot where it entered the body. -1 maximum Vitality. 
+**Special rule**: Does not get +5 if the above mutation is obtained.
 
 [[Binding|Mutation:]] Hard difficulty (+0)  
-		**Radiation Source:** The host body now produces considerable amounts of radiation, not enough to be an acute health hazard for those around him but definitily detectable with a geiger counter. You gain 1 dSv every 2 days(which effectively reduces your normal regeneration by 0.5 on average).
-
+**Radiation Source:** The host body now produces considerable amounts of radiation, not enough to be an acute health hazard for those around him but definitily detectable with a geiger counter. You gain 1 dSv every 2 days(which effectively reduces your normal regeneration by 0.5 on average).
 
 [[Binding|Burn Table:]] Hard difficulty (+0)
-		**Gamma Flare:** You start emitting gamma rays for [[Glow]]/2 turns. This deals 1D3 dSv to every organic thing within 5 metres per turn of combat(see Searing Aura for a similar but stronger effect). This one includes yourself.
+**Gamma Flare:** You start emitting gamma rays for [[Glow]] minutes. This deals 1D3 dSv to every organic thing within 5 metres per turn of combat(see Searing Aura for a similar but stronger effect). This one includes yourself.
 
 [[Binding|Burn Table:]] Normal difficulty (+0)
-		**Gamma Burst:** You emit a powerful gamma ray burst that deals [[Glow]]/3 **radiation damage** to every organic thing within 5 metres. Again this includes yourself.
-		**Special rule:** Max 2 entries
+**Gamma Burst:** You emit a powerful gamma ray burst that deals [[Glow]]/3 [[CombatRules:DamageTypes:Radiation|radiation damag]]**e** to every organic thing within 5 metres. Again this includes yourself.
+
 
 [[Binding|Amalgamation]]: Hard difficulty
 

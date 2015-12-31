@@ -1,0 +1,48 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-12-19T18:05:16+01:00
+
+====== Bleeding Spectrum ======
+Created Saturday 19 December 2015
+
+[Spoilers]
+
+A floating white fog with feint tendrils that bleeds out colours at the edges. 
+The **Bleeding Spectrum** is a minion of **the Watcher** that resembles the **Spectrum** unbound and has most of its abilities. The Bleeding Spectrum also has a few abilities that affect the mind of enemies making it at least a little more dangerous than the regular Spectrum entity.
+
+**Stats:**
+[[Unbound|Agency]]:  6
+
+
+**Behaviour:**
+Usually a silent observer that follows persons around. 
+In a fight it may use **chromatic dissection(see below) **with a skill level of 7 to aid other watcher demons. In the worst case it will use that ability repeatedly to deplete a characters stability and allow for an escape.
+
+
+
+=== Special Rules: ===
+**Incorporeal(Fade Shadow)**
+Can pass right through anything that doesn't have a representation in the** Fade**(solid walls, some tree trunks).
+Which also means that physical weapons will not do damage.
+The situation is different is the creature is fought from within the **Fade: **Physical weapons are able to disperse the mist like creature instead of passing through them, the unbounds takes 1/3 of the regular damage.
+
+**Invisible(Fade Shadow)**	
+This creature is pretty much invisible unless observed from the **Fade.**
+A very aware character may spot it as a spot of slightly dampening colours following them if they pass a **very** **hard** [[Attributes|Awareness]] check, if the [[Binding:Spectrum|Spectrums]] augmented vision is used the check is additionally **normal** difficulty only. 
+
+
+
+=== Binding ===
+See [[Binding:Spectrum|Spectrum,]] can stack with that(in that case the new starting cast is also gained).
+
+Starting Cast is replaced with
+**Chromatic Dissection:** 
+[Starting Cast]
+**Glow**: 4 , 1 Action
+Focus in on a target, that target must roll a [[Abilities:MentalFortitude|Mental Fortitude]] + [[Attributes|Awareness]] (**normal**) defense check, on a failure the target loses 1 [[Attributes:Stability|Stability]] and is **Highlighted** for the caster.
+**Hightlighted** characters/entities can not hide from the caster and are even visible through walls. Ranged attacks against a **highlighted** target gain a +2 bonus, and casts against them can only be defended by them with a -2 modifier.
+The **Highlighting **subsides after [[Binding:BindingMastery|Binding Mastery]] * 2 turns of combat or if they leave further than 200 metres.
+Its also possible to use this against inanimate objects.
+[[Binding:BindingMastery|Binding Mastery]] 5+: Can choose nearby allies for which the target also is highlighted, +4 [[Glow]] cost per ally.
+
+

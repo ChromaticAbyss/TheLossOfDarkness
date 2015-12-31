@@ -12,22 +12,22 @@ Created Sunday 28 June 2015
 **Binding Process:** 
 [[Binding|Stability]]: Normal difficulty (-0)
 [[Binding|Mutation:]] Normal difficulty (+0)  
-		**Distorted Spacial Awareness**: To this character things commonly appear much closer than they are (-2 modifier to Pathfinding,Shooting,Throwing weapons, Reflexes).
+**Distorted Spacial Awareness**: To this character things commonly appear much closer than they are (-2 modifier to Pathfinding,Shooting,Throwing weapons, Reflexes).
 		
 [[Binding|Mutation:]] Normal difficulty (+5)  
-		**Distanced**: The character always appears a little further away than it should be, even at almost touching distance it feels like they are about a metre away. 
-				-1 to Hand to Hand for this character and against this character, -1 to hitting the character with throwing or shooting weapons, -1 modifier to all dexterity skill checks as the character somtimes has to stretch more than expected to grab something.
+**Distanced**: The character always appears a little further away than it should be, even at almost touching distance it feels like they are about a metre away. 
+-1 to Hand to Hand for this character and against this character, -1 to hitting the character with throwing or shooting weapons, -1 modifier to all dexterity skill checks as the character somtimes has to stretch more than expected to grab something.
 		
 
 [[Binding|Burn Table:]] Normal difficulty (+0)  
-		**Strange Gravitation:** Dust,Snow,Pebbles and Small Insects gravitate to the character from [[Glow]] metres away with a strength that also depends on the [[Glow]]. This effect lasts for [[Glow]] turns and makes the character very easy to spot.
-						Can have additional downsides depending on what you attract and how much of it.
+**Strange Gravitation:** Dust,Snow,Pebbles and Small Insects gravitate to the character from [[Glow]] metres away with a strength that also depends on the [[Glow]]. This effect lasts for [[Glow]] turns and makes the character very easy to spot.
+Can have additional downsides depending on what you attract and how much of it.
 
 [[Binding|Burn Table:]] Normal difficulty (+0)  
-		**Distorted Spacial Awareness:** See the mutation, lasts for [[Glow]] minutes. Stacks additively with the mutation.
+**Distorted Spacial Awareness:** See the mutation, lasts for [[Glow]] minutes. Stacks additively with the mutation.
 
 [[Binding|Burn Table:]] Normal difficulty (+0)  
-		**Connectome:** All characters within [[Glow]] metres gain +3 [[Glow]] (no Cast check needed).
+**Connectome:** All characters that have bindings within [[Glow]] metres gain +3 [[Glow]] (no Cast check needed).
 
 
 [[Binding|Amalgamation]]: Normal difficulty

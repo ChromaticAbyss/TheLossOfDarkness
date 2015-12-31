@@ -9,10 +9,10 @@ Fire damage wreathes a target in flame.
 
 **Fire Damage** is reduced by **Fire Armor** in the zone it hits. The remainder is added as **Burn. **
 
-The **Burn** damage is applied as [[Attributes:Vitality|Vitality]] loss each turn (zone doesn't matter). 
-Burn damage can stack over multiple turns to cause burn wounds!
+Half of the **Burn** **stacks** are applied as damage to [[Attributes:Vitality|Vitality]] each turn (zone doesn't matter). 
+Burn damage can stack over multiple turns to cause **Burn wounds**!
 
-A character can roll on the ground to remove **Burn, ** one action spent reduces the burn by 1D3. A fireproof blanket or a fire extinguisher work much better.
+A character can roll on the ground to remove **Burn, ** one movement+action spent reduces the burn by 1D3. A fireproof blanket or a fire extinguisher work much better.
 
 **Burn wound**
 Extremely painful destruction of the skin (-1 modifier to all skills due to pain)

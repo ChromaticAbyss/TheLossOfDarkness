@@ -8,4 +8,4 @@ Created Freitag 18 September 2015
 A mechanical damage type deals damage by penetrating tissue and ripping it apart, destroying organs.
 
 **Pierce Damage** is reduced by **Pierce Armor** in the zone it hits.
-Pierce damage kills by causing wounds if the damage reaches the wound threshold(multiple wounds on reaching multiples of that). Also pierce damage gets deducted from the targets [[Attributes:Vitality|Vitality]] if the zone that got hit is the **Torso** or **Head**.
+Pierce damage kills by causing wounds if the damage reaches the wound threshold(multiple wounds on reaching multiples of that). Also half of pierce damage gets deducted from the targets [[Attributes:Vitality|Vitality]] if the zone that got hit is the **Torso** or **Head**.

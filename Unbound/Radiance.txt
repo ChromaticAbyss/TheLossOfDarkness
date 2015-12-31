@@ -9,7 +9,7 @@ A slow moving bright entity bursting with alpha, beta and gamma rays. These enti
 
 
 **Stats&Abilities:** 
-Vitality/Stability:  10
+[[Unbound|Agency]]:  10
 
 
 

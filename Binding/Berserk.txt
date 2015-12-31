@@ -14,20 +14,21 @@ An entity of pure rage is bound within the character. When unleashed it turns th
 === Binding Process ===
 [[Binding|Stability]]: Normal difficulty (-2)
 [[Binding|Mutation:]] Hard difficulty (+2)  
-		**Seeing Red**: If the character drops below 5 Hp **Berserk** automatically activates, the glow cost still applies and the Cast check fails automatically if one would be needed.
+**Seeing Red**: If the character drops below 5 Hp **Berserk** automatically activates, the glow cost still applies and the Cast check fails automatically if one would be needed.
 		
 [[Binding|Mutation:]] Hard difficulty (+2)  
-		**No pain receptors:** You don't ever get to see your characters Hp without spending 2 Actions checking yourself for wounds. Even then you wont notice any internal wounds. You never take any penalties due to pain.
+**No pain receptors:** You don't ever get to see your characters Hp without spending 2 Actions checking yourself for wounds. Even then you wont notice any internal wounds. You never take any penalties due to pain.
 
 [[Binding|Mutation:]] Hard difficulty (+5)  
-		**Unintelligible Rage:** While **Berserking** you can only scream and produce animalistic sounds, not form words.
+**Unintelligible Rage:** While **Berserking** you can only scream and produce animalistic sounds, not form words.
 
 
 [[Binding|Burn Table:]] Hard difficulty (+0)
-		**Berserk:** If your [[Glow]] is 10 or higher and you are in a combat situation you immediately activate **Berserk**. The glow cost still applies and the cast check automatically fails should one be needed.
+**Berserk:** If your [[Glow]] is 15 or higher and you are in a combat situation you immediately activate **Berserk**. The glow cost still applies and the cast check automatically fails. If you are **berserking** already the Glow increase and secondary burn still apply.
 
 [[Binding|Burn Table:]] Hard difficulty (+0)
-		**Numbness:** You take a tenth of you [[Glow]] amount as damage to your Stability, as all your regular senses push into the background.
+**Numbness:** You take a tenth of you [[Glow]] amount as damage to your [[Attributes:Stability|Stability]], as all your regular senses push into the background. 
+If this leaves you with 0 or less [[Attributes:Stability|Stability]] you permanently lose 1D6 [[ProgressPoints|Progress Points(PP]]) towards your [[Attributes|Awareness]] even undoing a point if not enough progress is open.  
 	  
 
 [[Binding|Amalgamation]]: Normal difficulty

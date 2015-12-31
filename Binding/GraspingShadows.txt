@@ -5,9 +5,55 @@ Creation-Date: 2015-10-14T23:33:03+02:00
 ====== GraspingShadows ======
 Created Mittwoch 14 Oktober 2015
 
+
+**Binding Process:** 
+[[Binding|Stability]]: Hard difficulty (+0)
+
+[[Binding|Mutation:]] Normal difficulty (+0)  
+**I**: T
+
+[[Binding|Burn Table:]] Normal difficulty (+0)
+**S:** T
+
+
+[[Binding|Amalgamation]]: Normal difficulty
+
+
+
+=== Specialisations/Casts ===
+**Aspect of Fear**
+[Starting Cast]
+Glow: 6 , 1 Action
+Darkness creeps into the targets mind drowning it with fear.
+Target has to pass a normal Willpower + Mental Fortitude - attackers [[BindingMastery:|Bindi]][[BindingMastery:|n]][[BindingMastery:|g]][[BindingMastery:|M]][[BindingMastery:|a]][[BindingMastery:|s]][[BindingMastery:|t]][[BindingMastery:|e]][[BindingMastery:|r]][[BindingMastery:|y]] check. On failure they take 3 points of [[Attributes:Stability|stability damage]]. If the target has 7 or less [[Attributes:Stability|Stability]] afterwards they are overwhelmed by fear and runs for their life.
+
+**Shadow Shroud**
+Cost: 7PP, Requires [[BindingMastery:]] 4
+Glow: 10 , 1 Action
+Cloaks the character in shadow, this counts as an automatic cover of  [[BindingMastery]] for 5 minutes.
+
+
+=== Low Stability ===
+**?**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Mental attacks
--Refuge of nightmare , affects a zone
+-Refuge of nightmare , affects a zone Deals Stability damage for everyone inside the area each turn of combat unless they pass xyz check, the creature gains [[Unbound|Agency]] for damage dealt this way.
 -A Stun on low Stability
 -Fear
-
+-Shadow Shroud
 -Eclipse: A highlevel and extremely Glow intensive(100) ability can eclipse the sun for an hour

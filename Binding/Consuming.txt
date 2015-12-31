@@ -13,26 +13,27 @@ This binding yearns for food and glottony but when properly fed it powers up the
 === Binding Process ===
 [[Binding|Stability]]: Normal difficulty (-0)
 [[Binding|Mutation:]] Normal difficulty (+4)  
-		**Sharp Teeth**: The characters teeth are sharp and mean looking(Fast Talk, Negotation get a -1 modifier) and hurt quite a lot(+1 damage in unarmed combat), also grants a +1 modifier to Intimidate.
+**Sharp Teeth**: The characters teeth are sharp and mean looking(Fast Talk, Negotation get a -1 modifier) and hurt quite a lot(+1 damage in unarmed combat), also grants a +1 modifier to Intimidate.
 		
 [[Binding|Mutation:]] Normal difficulty (+0)  
-		**Constant Hunger**: The character requires twice the normal food intake for basic functioning.
+**Constant Hunger**: The character requires twice the normal food intake for basic functioning.
 		
 [[Binding|Mutation:]] Normal difficulty (+5)  
-		**Fat:** The character is/becomes pretty fat independent form their actual food intake(Sprinting, Obstacle, Reflexes get a -1 modifier).
+**Fat:** The character is/becomes pretty fat independent form their actual food intake(Sprinting, Obstacle, Reflexes get a -1 modifier).
 		
 [[Binding|Mutation:]] Normal difficulty (+2)  
-		**Unhingable Jaw:** The character can unhinge his jaw and may unconsciously do so while feeding whcih looks kinda disturbing.
+**Unhingable Jaw:** The character can unhinge his jaw and may unconsciously do so while feeding which looks kinda disturbing.
 
 [[Binding|Mutation:]] Easy difficulty (+3)  
-		**Cannibal:** The character must consume one meal of human flesh at least once a week to be able to use any casts/passives from this Binding.
+**Cannibal:** The character must consume one meal of human flesh at least once a week to be able to use any casts/passives from this Binding.
 
 [[Binding|Burn Table:]] Normal difficulty (+0)
-		**Hunger:** applies a -1 penalty to everything you do until you consume half as many meals as you have [[Glow]] at the moment of this triggering.
+**Unnatural** **Hunger:** applies a -1 penalty to everything you do until you consume half as many meals as you have [[Glow]] at the moment of this triggering.
 
 [[Binding|Burn Table:]] Normal difficulty (+0)
-		**Feeding on the host:** You take 1 point of damage, 2 if your current [[Glow]] is higher than 15.
-	
+**Feeding on the host:** You take 1 point of damage, 2 if your current [[Glow]] is higher than 15.
+If this leaves you with 0 or less [[Attributes:Vitality|Vitality]] you permanently lose 1D6 [[ProgressPoints|Progress Points(PP]]) towards your [[Attributes|Endurance]] even undoing a point if not enough progress is open.  
+	  	
 
 [[Binding|Amalgamation]]: Normal difficulty
 

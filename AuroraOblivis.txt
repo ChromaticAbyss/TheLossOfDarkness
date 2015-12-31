@@ -8,20 +8,20 @@ Created Freitag 04 September 2015
 {{../Pictures/waves_by_luisbc-d96fr0d.png.jpg?href=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Da9T2E8bFbEI%26index%3D40%26list%3DWL&width=400}}
 
 In the changed world one of the most drastic things that was taken away is the blackness of night. Its inhabitants don't know the night as a shadow that lays down on the world only lit by the stars and the lights you may carry like their ancestory might have.
-Instead the absence of the sun is ruled by an all encompassing light phenomenon called the "Aurora Oblivis". In a way these dancing lights that encompass the skies resemble the nothern lights of the past. 
-They share their sheer beauty and the fascination of the observers but the Aurora Oblivis is something far beyond that. Its a living thing that slowly captures and traps the mind of the watchers, leading them to loose their selves in the luminiscient labyrinths that 
-spontanously shift and change hue, seemingly hiding a cryptic message, some universal truth that is just barely out of reach at any given moment. Many of those enthralled by its sheer beauty and infinite mystery freeze to death or just completely lose their identity 
+Instead the absence of the sun is ruled by an all encompassing light phenomenon called the "**Aurora Oblivis**". In a way these dancing lights that encompass the skies resemble the nothern lights of the past. 
+They share their sheer beauty and the fascination of the observers but the **Aurora Oblivis** is something far beyond that. Its a living thing that slowly captures and traps the mind of the watchers, leading to them loosing themselves in the noctiluscient labyrinths that 
+spontanously shift and change hue, seemingly hiding a cryptic message, some universal truth that is just barely out of reach and could be deciphered at any given moment. Many of those enthralled by its sheer beauty and infinite mystery freeze to death or just completely lose their identity 
 spending night after night just staring at the skies.
-The Aurora Oblivis easily draws the attention of anyone that can't find powerful distraction, its changing light suggesting movement in every shadow even turning rusty ruins into dancers.
+The **Aurora Oblivis** easily draws the attention of anyone that can't find powerful distraction, its changing light suggesting movement in every shadow even turning rusty ruins into dancers.
 
 There are ways to protect onself from this potentially threatening influence the most important of which is to not wander around at night. If a tent or enclosed space is not available or movement is neccessary a powerful source of light can help blind against its influence
 but also makes for an easy target. 
-Other lesser used options are certain willpower enhancing drugs,sleeping drugs or company that can catch anyone that drifts away and shake them out of it.
+Other less used options are certain [[Attributes|Willpower]] enhancing drugs,sleeping drugs or company that can catch anyone that drifts away and shake them out of it.
 In general keeping the exposure short will also help a lot.
 
 
 General exposure rules
-Every hour a character may be exposed to the Aura Oblivis the may have to pass a **normal** Willpower(MentalFortitude) check with the following modifiers. 
+Every hour a character may be exposed to the Aura Oblivis the may have to pass a **normal** [[Abilities:MentalFortitude|Mental Fortitude]] + [[Attributes|Willpower]] check with the following modifiers. 
 -1 for each consequtive hour spend exposed
 +1 for distraction
 +2 for awake company
@@ -35,15 +35,16 @@ A person sleeping in a thin tent would get a +3+2 and thus not be affected at al
 Even if they manage to fall back asleep after an hour they get a -1 for being exposed and now have only a +4 thus have to take the checks for the rest of the night.
 
 
-Results of failing the Willpower check:
+Results of failing the [[Abilities:MentalFortitude|Mental Fortitude]] check:
 The character can't regenerate Stability this day, loses 1 point of it. 
-Characters with 20 or more Glow will lose 2 points of Stability instead of 1. 
-Characters also don't regenerate Glow in an hour they are exposed in.
+Characters with 20 or more [[Glow]] will lose 2 points of Stability instead of 1. 
 
-A character that drops below 5 Stability by this mechanism replaces his usual consequences with a strong disconnection from the world and a desire to get full exposure of the Aurora Oblivis which might even involve getting up from sleep(which will likely be noticed by companions).
-A character that drops below 0 Stability by this mechanism will become completely absorbed by the Aurora Oblivis, unable to act and loses 1 Stability each 10 minutes of further exposure. This complete absence of mind and staring into the distance keeps going on 
+Characters also don't regenerate [[Glow]] during an hour they are exposed. This can only be prevented by not being exposed, [[Abilities:MentalFortitude|Mental Fortitude]] doen't help here .
+
+A character that drops below 5 [[Attributes:Stability|Stability]] by this mechanism replaces his usual consequences with a strong disconnection from the world and a desire to get full exposure of the **Aurora Oblivis** which might even involve getting up from sleep(which will likely be noticed by companions).
+A character that drops below 0 [[Attributes:Stability|Stability]] by this mechanism will become completely absorbed by the Aurora Oblivis, unable to act and loses 1 Stability each 10 minutes of further exposure. This complete absence of mind and staring into the distance keeps going on 
 even if the character is removed from the influence of the Aurora instantly until the character has 0 or more Stability again.
-A character that falls to his negative maximum of Stability will just stay in this comatose state forever.
+A character that falls to his negative maximum of [[Attributes:Stability|Stability]] will just stay in this comatose state forever.
 
 {{../Pictures/aurora_borealis_by_pomprint-d49xm0o.jpg?width=900}}
 

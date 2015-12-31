@@ -11,4 +11,3 @@ Starts at 5. A character with [[Attributes|Willpower]] or [[Attributes|Intellige
 Gives the tresholds at which Cast checks are taken and their difficulties.
 
 Glow decays at 1 per hour if no Casts are done, and no exposure to the [[AuroraOblivis|Aurora Oblivis]] is taken.
-Glow does not decay while the character is below or at 0 [[Attributes:Stability|Stability]].

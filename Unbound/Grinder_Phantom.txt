@@ -10,9 +10,9 @@ They are rolling clouds or spinning tornados filled with dust and metal shards w
 
 
 **Stats&Abilities:** 
-Vitality/Stability:  20
+[[Unbound|Agency]]:  20
 Movement Speed: Regular Running Speed
-Cloud Radius: 4 metres
+Cloud Radius: ~4 metres
 
 
 
@@ -21,7 +21,7 @@ Attacks by moving ontop of things and eroding them.
 
 === Special Abilities ===
 **Tornado of the gritting waste**
-Per turn of combat everyone within the cloud must roll a Hard Reflexes+Dexterity roll to avoid getting hit with scrap for 1D6 blunt damage.
+Per turn of combat everyone within the cloud must roll a Hard [[Abilities:Reflexes|Reflexes]]+[[Attributes|Dexterity]] roll to avoid getting hit with scrap for 1D6 blunt damage.
 Even if a character manages to not get hit their equipment takes 4 Structural Damage and they cannot breathe while in the cloud.
 The tornado manages to even erode armored vehicles fairly quickly.
 

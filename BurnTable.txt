@@ -5,9 +5,9 @@ Creation-Date: 2015-06-24T22:42:11+02:00
 ====== BurnTable ======
 Created Wednesday 24 June 2015
 
-A BurnTable is a table of bad things that can happen on a failed Cast check. It has 20 entries and is by default filled with:
+A BurnTable is a table of bad things that can happen on a failed [[Abilities:Cast|Cast]] check (**Burn**). It has 20 entries and is by default filled only with:
 
-1 Consume: You take a tenth of your [[Glow]] amount as damage to your Stability.
+1 **Consume**: You take a tenth of your [[Glow]] amount as damage to your [[Attributes:Stability|Stability]].
 2
 3
 4
@@ -26,7 +26,7 @@ A BurnTable is a table of bad things that can happen on a failed Cast check. It 
 17
 18
 19
-20 Sting: You take a tenth of your [[Glow]] amount as damage to your Vitality.
+20 **Sting**: You take a tenth of your [[Glow]] amount as damage to your [[Attributes:Vitality|Vitality]].
 
 As the characters aquire Bindings they will most likely gain entries in their [[BurnTable]] that will increase the potential for side effects that fit with the Binding they aquired.
 Note: Its completely possible that side effects of different types stack in a field.

@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-12-01T00:08:35+01:00
+
+====== Electricity ======
+Created Dienstag 01 Dezember 2015
+
+A physical but non mechanical damage type that can stun opponents and cause damage on higher doses.
+
+
+**Electricity Damage** is reduced by **Electrical Armor** in the zone it hits.
+If electricity damage reaches the wound threshold it will stun for 1D6 turns of combat. If such an attack deals more damage than two multiple of this threshold if will cause the following wound for each additional wound inflicted.
+
+**Electrocution/Nerve damage**
+Full damage of this attack taken as [[Attributes:Vitality|Vitality]] damage, damage is also dealt , -1 all [[Attributes]] except Endurance, stun is 5 minutes instead.

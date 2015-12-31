@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-12-20T22:13:04+01:00
+
+====== FlameThrower ======
+Created Sunday 20 December 2015
+
+A very simple weapon to ingite structures, persons and areas.
+Requires carriying a heavy fuel tank on the back, does not have large range.
+
+=== General Item Stats ===
+**Wgt**: 10 kg
+**Durability**: ?
+**Est Value(Wilderness)**: 40 Army Rations 
+**Est Value(Cities)**: 30 Trade Units
+
+
+=== Crafting Stats ===
+...
+
+=== Combat Stats: ===
+**Range**: 15 metres
+**Damage**: Sprays everything within a line 2 metres wide with burning liquid. The zone and persons inside it are ignited for 2D6 burn damage, persons that remain in the zone take the burn damage in addition. The burning zone can not be extinguished with water.
+**Reload**:	-
+**Recoil**: Not applicable
+**Size**: Large, Two Hand
+**Cover can be used**: No
+**Duel vs Reflexes:** Always(Dashing to safety), **hard check** 

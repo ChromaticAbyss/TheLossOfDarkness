@@ -1,0 +1,73 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-12-15T12:10:45+01:00
+
+====== Fey ======
+Created Dienstag 15 Dezember 2015
+
+Fey is a fragile looking woman with a quiet voice. She always appears to be one or two metres further away than she actually is and sometimes a little more bright than she should be while standing in a shadow.
+Fey is the cartographers linguist but also good at getting into places she shouldn't get into.
+While its quite obvious that something is not entirely right about Fey she doesn't consider herself a mutant or otherwise unnatural since she grew up this way. 
+She does sometimes use the starting casts her bindings unconsciously.
+
+
+
+=== Name ===
+
+=== Bindings ===
+
+
+=== Variable Stats ===
+[[Attributes:Vitality|Vitality]]		 
+Maximum	: 11
+Current		:
+
+[[Attributes:Stability|Stability]] 		
+Maximum	:  13
+Current    	: 
+Common psychosis: -
+
+[[Attributes:WoundThreshold|Wounds]]
+Treshold	: 4
+
+[[Attributes:GlowThreshold|Glow]]		
+Threshold	: 5
+Current		:
+
+[[Attributes:Plasticity|Plasticity]]
+Available	: 
+Used		: -
+
+
+
+=== Attributes ===
+Burst		: 1
+Endurance	: 1
+Dexterity	: 3
+Willpower	: 3
+Intelligence	: 4
+Awareness	: 4
+
+=== Abilities ===
+**Name 	[Beginner][Intermediate][Experienced][Professional][Legend]**
+		  **Specialisations**
+Languages [Professional] **[Teacher]**
+Stealth [Experienced] 
+Scouting [Intermediate]
+Cartography [Intermediate]
+
+
+=== Bindings ===
+[[Binding:PaleShade|Pale Shade]] 3
+	Fade From memory, subconsciously used whenever appropriate
+[[Binding:Reach|Reach]] 3
+	Telekinesis, sometimes things just fall into her hands by a stroke of luck.
+
+
+=== Burn Table ===
+Fades from memory, Sometimes spreads Glow to other pepople nearby
+
+=== Equipment ===
+[Weight] Name, important stats
+
+

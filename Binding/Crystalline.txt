@@ -16,21 +16,24 @@ A crystalline entity is bound with this lifeform, able to harden the flesh to th
 **Binding Process:** 
 [[Binding|Stability]]: Normal difficulty (-0)
 [[Binding|Mutation:]] Normal difficulty (+2)  
-		**Cristallized Skin**: The characters skin has interwoven crystalline filaments. The thus hardened skin grants the character a 1 point Armor when he otherwise would have 0. However this skin isn't very flexible(-1 modifier to Reflexes, Sprint and Obstacle) and looks a little odd.
-					Skin counts as [[Bionics|mutated]].
+**Cristallized Skin**: The characters skin has interwoven crystalline filaments. The thus hardened skin grants the character a 1 point Armor when he otherwise would have 0. However this skin isn't very flexible(-1 modifier to Reflexes, Sprint and Obstacle) and looks a little odd.
+Skin counts as [[Bionics|mutated]].
 		
 [[Binding|Mutation:]] Normal difficulty (+2)  
-		**Cristalline Keratin:** Nails and hair of this character are made from crystalline substance. The hair usually breaks off at a short length due to being inflexible. The nails however are actually very useful (+1 damage in unarmed combat), they are however a real pain to cut.
+**Cristalline Keratin:** Nails and hair of this character are made from crystalline substance. The hair usually breaks off at a short length due to being inflexible. The nails however are actually very useful (+1 damage in unarmed combat), they are however a real pain to cut.
 
 [[Binding|Burn Table:]] Normal difficulty (+0)
-		**Crystalline Stasis:** If your [[Glow]] is 10 or higher you are unable to act for one turn of combat (+1 per full 10 Glow from then on)
-		**Special Rule**: Maximum 2 entries.
+**Crystalline Stasis:** If your [[Glow]] is 10 or higher you are unable to act for one turn of combat (+1 per full 10 [[Glow]] from then on)
+**Special Rule**: Maximum 2 entries.
 
 [[Binding|Burn Table:]] Normal difficulty (+0)
-		**Crystalline Reflections:** Gain 3 [[Glow]], roll another **normal** Cast check to see if the Burn Table fires again from this.
+**Crystalline Reflections:** Gain 3 [[Glow]], roll another Cast check of the respective difficulty to see if the Burn Table fires again from this.
 	  
 [[Binding|Burn Table:]] Normal difficulty (+0)
-		**Crystalline Memory:** It will take 12 hours from now on before your [[Glow]] will start decaying.
+**Crystalline Memory:** It will take 12 hours from now on before your [[Glow]] will start decaying.
+	
+[[Binding|Burn Table:]] Normal difficulty (+0)
+**Crystalline Cage:** If you have 30 or more [[Glow]] you lose 1D6 [[ProgressPoints]] (PP) from your [[Attributes|Dexterity]] Attribute, even breaking up a point if necessary.
 	
 
 [[Binding|Amalgamation]]: Normal difficulty

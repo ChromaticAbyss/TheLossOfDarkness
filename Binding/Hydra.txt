@@ -19,15 +19,15 @@ Note: Related to the item [[Items:Healing And Drugs:Animoplasm|Animo/HydraPlasm]
 
 
 [[Binding|Mutation:]] Hard difficulty (+0)  
-		**Reshaping Flesh**: Roll a serious mutation from the [[Binding:Hydra:Hydra Mutations|Hydra mutations]] table. 
-		Once a year roll a **Hard** Resistance check and on failure repeat this process.
+**Reshaping Flesh**: Roll a serious mutation from the [[Binding:Hydra:Hydra Mutations|Hydra mutations]] table. 
+Once a year roll a **Hard** Resistance check and on failure repeat this process.
 
 [[Binding|Mutation:]] Hard difficulty (+0)  
-	**          Changed Flesh**: Roll two small mutations from the [[Binding:Hydra:Hydra Mutations|Hydra mutations]] table. 
+**Changed Flesh**: Roll two small mutations from the [[Binding:Hydra:Hydra Mutations|Hydra mutations]] table. 
 
 [[Binding|Burn Table:]] Hard difficulty (+0)
-		**Continuus Decay:** If the triggering ability was a Hydra ability, roll a small mutations from the [[Binding:Hydra:Hydra Mutations|Hydra mutations]] table(if you have more than 30 [[Glow]] roll a serious one instead).  If it wasn't you that triggered this effect just lose [[Glow]] / 10 Vitality.
-		**Special Rule**: No maximum of entries.
+**Continuus Decay:** If the triggering ability was a Hydra ability, roll a small mutations from the [[Binding:Hydra:Hydra Mutations|Hydra mutations]] table(if you have more than 30 [[Glow]] roll a serious one instead).  If it wasn't you that triggered this effect just lose [[Glow]] / 10 Vitality.
+**Special Rule**: No maximum of entries.
 
 
 [[Binding|Amalgamation]]: Hard difficulty
@@ -71,7 +71,7 @@ Lasts [[BindingMastery:|BindingMastery]] minutes.
 This ability can be purchased multiple times, each time the cost goes up by 1 PP, chose one effect on each purchase. These can stack, see the (+) symbol for which stats will increase.
 * Hand to Hand skill modifier of +1 (+)
 * Damage +1 (+) 
-* Poison: If you inflict a wound you apply a poison that deals 1(+) damage every turn of combat for 5 turns.
+* Poison: If you inflict a wound you apply a poison that deals 1(+) poison damage every turn of combat for 5 turns.
 
 **Scar Tissue**
 Cost: 7 PP, Requires [[BindingMastery:]] 6, Endurance 4
